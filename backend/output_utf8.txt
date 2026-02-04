@@ -1,0 +1,164 @@
+﻿python : 2026-01-15 
+15:43:21,999 - INFO - 
+Launching browser...
+At line:1 char:1
++ python scraper.py > 
+output.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (2  
+  026-01-15 15:4...hing   
+  browser...:String) [    
+], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+Traceback (most recent 
+call last):
+  File "C:\Users\User\Desk
+top\Automation_engine\back
+end\scraper.py", line 
+184, in <module>
+    asyncio.run(scraper.sc
+rape())
+  File "C:\Program Files\W
+indowsApps\PythonSoftwareF
+oundation.Python.3.12_3.12
+.2800.0_x64__qbz5n2kfra8p0
+\Lib\asyncio\runners.py", 
+line 195, in run
+    return 
+runner.run(main)
+           
+^^^^^^^^^^^^^^^^
+  File "C:\Program Files\W
+indowsApps\PythonSoftwareF
+oundation.Python.3.12_3.12
+.2800.0_x64__qbz5n2kfra8p0
+\Lib\asyncio\runners.py", 
+line 118, in run
+    return self._loop.run_
+until_complete(task)
+           ^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\W
+indowsApps\PythonSoftwareF
+oundation.Python.3.12_3.12
+.2800.0_x64__qbz5n2kfra8p0
+\Lib\asyncio\base_events.p
+y", line 691, in 
+run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desk
+top\Automation_engine\back
+end\scraper.py", line 38, 
+in scrape
+    browser = await p.chro
+mium.launch(headless=True)
+              ^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppD
+ata\Local\Packages\PythonS
+oftwareFoundation.Python.3
+.12_qbz5n2kfra8p0\LocalCac
+he\local-packages\Python31
+2\site-packages\playwright
+\async_api\_generated.py",
+ line 14549, in launch
+    await 
+self._impl_obj.launch(
+  File "C:\Users\User\AppD
+ata\Local\Packages\PythonS
+oftwareFoundation.Python.3
+.12_qbz5n2kfra8p0\LocalCac
+he\local-packages\Python31
+2\site-packages\playwright
+\_impl\_browser_type.py", 
+line 98, in launch
+    await 
+self._channel.send(
+  File "C:\Users\User\AppD
+ata\Local\Packages\PythonS
+oftwareFoundation.Python.3
+.12_qbz5n2kfra8p0\LocalCac
+he\local-packages\Python31
+2\site-packages\playwright
+\_impl\_connection.py", 
+line 69, in send
+    return await self._con
+nection.wrap_api_call(
+           ^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppD
+ata\Local\Packages\PythonS
+oftwareFoundation.Python.3
+.12_qbz5n2kfra8p0\LocalCac
+he\local-packages\Python31
+2\site-packages\playwright
+\_impl\_connection.py", 
+line 559, in wrap_api_call
+    raise 
+rewrite_error(error, 
+f"{parsed_st['apiName']}: 
+{error}") from None
+playwright._impl._errors.E
+rror: BrowserType.launch: 
+Executable doesn't exist 
+at C:\Users\User\AppData\L
+ocal\ms-playwright\chromiu
+m_headless_shell-1200\chro
+me-headless-shell-win64\ch
+rome-headless-shell.exe
+\u2554\u2550\u2550\u2550\u
+2550\u2550\u2550\u2550\u25
+50\u2550\u2550\u2550\u2550
+\u2550\u2550\u2550\u2550\u
+2550\u2550\u2550\u2550\u25
+50\u2550\u2550\u2550\u2550
+\u2550\u2550\u2550\u2550\u
+2550\u2550\u2550\u2550\u25
+50\u2550\u2550\u2550\u2550
+\u2550\u2550\u2550\u2550\u
+2550\u2550\u2550\u2550\u25
+50\u2550\u2550\u2550\u2550
+\u2550\u2550\u2550\u2550\u
+2550\u2550\u2550\u2550\u25
+50\u2557
+\u2551 Looks like 
+Playwright was just 
+installed or updated.     
+  \u2551
+\u2551 Please run the 
+following command to 
+download new browsers: 
+\u2551
+\u2551                    
+                          
+              \u2551
+\u2551     playwright 
+install                   
+                  \u2551
+\u2551                    
+                          
+              \u2551
+\u2551 <3 Playwright Team 
+                          
+              \u2551
+\u255a\u2550\u2550\u2550\u
+2550\u2550\u2550\u2550\u25
+50\u2550\u2550\u2550\u2550
+\u2550\u2550\u2550\u2550\u
+2550\u2550\u2550\u2550\u25
+50\u2550\u2550\u2550\u2550
+\u2550\u2550\u2550\u2550\u
+2550\u2550\u2550\u2550\u25
+50\u2550\u2550\u2550\u2550
+\u2550\u2550\u2550\u2550\u
+2550\u2550\u2550\u2550\u25
+50\u2550\u2550\u2550\u2550
+\u2550\u2550\u2550\u2550\u
+2550\u2550\u2550\u2550\u25
+50\u255d
