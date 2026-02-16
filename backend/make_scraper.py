@@ -5,6 +5,7 @@ import random
 import re
 from datetime import datetime
 from playwright.async_api import async_playwright
+from playwright_stealth import Stealth
 
 # Logging setup
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -49,16 +50,19 @@ class MakeScraper:
         target_urls = urls if urls else BASE_URLS
         async with async_playwright() as p:
             logger.info("Launching browser...")
-            browser = await p.chromium.launch(headless=True)
+            browser = await p.chromium.launch(headless=True) # Stealth works better with headless=False usually but we are in a headless env.
             context = await browser.new_context(
                 user_agent=USER_AGENT,
-                viewport={"width": 1920, "height": 1080}
+                viewport={"width": 1920, "height": 1080},
+                locale="en-US",
+                timezone_id="America/New_York"
             )
             page = await context.new_page()
+            await Stealth().apply_stealth_async(page)
 
             try:
                 for base_url in target_urls:
-                    if self.total_scraped >= 3000:
+                    if self.total_scraped >= 5000:
                         break
 
                     logger.info(f"Navigating to {base_url}")
@@ -83,7 +87,7 @@ class MakeScraper:
         retries = 0
         consecutive_no_new_items = 0
 
-        while self.total_scraped < 3000:
+        while self.total_scraped < 5000:
             count_before = self.total_scraped
             await self.extract_items_from_page(page)
             count_after = self.total_scraped
@@ -118,7 +122,7 @@ class MakeScraper:
 
         new_items_count = 0
         for card in cards:
-            if self.total_scraped >= 3000:
+            if self.total_scraped >= 5000:
                 break
 
             try:
