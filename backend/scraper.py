@@ -51,8 +51,12 @@ class ZapierScraper:
                 self.seen_urls = {t["url"] for t in self.templates}
                 self.total_scraped = len(self.templates)
                 logger.info(f"Loaded {self.total_scraped} existing templates.")
-        except:
-            pass
+        except FileNotFoundError:
+            logger.info("No existing templates found. Starting fresh.")
+        except json.JSONDecodeError:
+            logger.warning("Existing templates file is corrupted. Starting fresh.")
+        except Exception as e:
+            logger.error(f"Error loading existing templates: {e}")
 
     def log_error(self, message):
         timestamp = datetime.now().isoformat()
