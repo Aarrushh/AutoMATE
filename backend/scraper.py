@@ -135,20 +135,35 @@ class ZapierScraper:
             self.log_error(f"Error in category {category_name}: {e}")
 
     async def scroll_page(self, page, category):
-        last_height = await page.evaluate("document.body.scrollHeight")
-        for i in range(15): 
+        # Stable selector for template cards
+        card_selector = "a[href*='/templates/details/']"
+        for i in range(15):
+            last_height = await page.evaluate("document.body.scrollHeight")
+            last_count = len(await page.query_selector_all(card_selector))
+
             await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-            await asyncio.sleep(2.5) 
+
+            try:
+                # Wait for either scroll height to increase or more cards to appear.
+                # Using a 3s timeout provides a good balance between speed and reliability.
+                await page.wait_for_function(
+                    f"document.body.scrollHeight > {last_height} || "
+                    f"document.querySelectorAll('{card_selector}').length > {last_count}",
+                    timeout=3000
+                )
+            except Exception:
+                # If timeout occurs, it likely means no more content is loading
+                pass
+
             await self.extract_templates_from_page(page, category)
             
             new_height = await page.evaluate("document.body.scrollHeight")
             if new_height == last_height:
                 break
-            last_height = new_height
 
     async def extract_templates_from_page(self, page, category):
-        # Card selector
-        cards = await page.query_selector_all("a._zapCard_1g2fs_17")
+        # Card selector - use a more stable selector than the hashed class name
+        cards = await page.query_selector_all("a[href*='/templates/details/']")
         for card in cards:
             url = await card.get_attribute("href")
             if not url or url in self.seen_urls:
