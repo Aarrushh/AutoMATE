@@ -18,7 +18,8 @@ BASE_URLS = [
 ]
 OUTPUT_FILE = "data/automations_library.json"
 ERROR_LOG_FILE = "error_log.txt"
-USER_AGENT = "Mozilla/5.0 (Compatible; AutomationResearchBot/1.0)"
+# Try a more standard User Agent
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 
 class MakeScraper:
     def __init__(self):
@@ -55,7 +56,10 @@ class MakeScraper:
                 user_agent=USER_AGENT,
                 viewport={"width": 1920, "height": 1080},
                 locale="en-US",
-                timezone_id="America/New_York"
+                timezone_id="America/New_York",
+                has_touch=False,
+                is_mobile=False,
+                device_scale_factor=1,
             )
             page = await context.new_page()
             await Stealth().apply_stealth_async(page)
