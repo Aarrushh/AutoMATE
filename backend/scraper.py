@@ -35,6 +35,12 @@ COMMON_APPS = {
     "Cognito Forms", "Wufoo", "Gravity Forms", "SurveyMonkey", "Webflow"
 }
 
+# Pre-compile regexes for performance, sorted by length descending to prioritize longer matches
+COMPILED_APPS = [
+    (app, re.compile(r'\b' + re.escape(app) + r'\b', re.IGNORECASE))
+    for app in sorted(COMMON_APPS, key=len, reverse=True)
+]
+
 class ZapierScraper:
     def __init__(self):
         self.templates = []
@@ -42,6 +48,14 @@ class ZapierScraper:
         self.total_scraped = 0
         # Load existing if available to avoid duplicates and continue
         self.load_existing()
+
+    def _identify_tools(self, name):
+        """Identifies tools mentioned in the name using pre-compiled regexes."""
+        tools = []
+        for app, pattern in COMPILED_APPS:
+            if pattern.search(name):
+                tools.append(app)
+        return tools
 
     def load_existing(self):
         try:
@@ -164,10 +178,7 @@ class ZapierScraper:
             if not name:
                 continue
 
-            tools = []
-            for app in COMMON_APPS:
-                if re.search(r'\b' + re.escape(app) + r'\b', name, re.IGNORECASE):
-                    tools.append(app)
+            tools = self._identify_tools(name)
             
             tag_el = await card.query_selector("._tagText_1g2fs_226")
             tag = await tag_el.inner_text() if tag_el else "Unknown"
