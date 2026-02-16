@@ -4,6 +4,7 @@ import logging
 import random
 import re
 from datetime import datetime
+import aiofiles
 from playwright.async_api import async_playwright
 
 # Logging setup
@@ -54,10 +55,10 @@ class ZapierScraper:
         except:
             pass
 
-    def log_error(self, message):
+    async def log_error(self, message):
         timestamp = datetime.now().isoformat()
-        with open(ERROR_LOG_FILE, "a") as f:
-            f.write(f"[{timestamp}] {message}\n")
+        async with aiofiles.open(ERROR_LOG_FILE, "a") as f:
+            await f.write(f"[{timestamp}] {message}\n")
         logger.error(message)
 
     async def scrape(self):
@@ -100,10 +101,10 @@ class ZapierScraper:
                     await asyncio.sleep(2)
 
             except Exception as e:
-                self.log_error(f"Scraper encountered a critical error: {str(e)}")
+                await self.log_error(f"Scraper encountered a critical error: {str(e)}")
             finally:
                 await browser.close()
-                self.save_data()
+                await self.save_data()
 
     async def discover_categories(self, page):
         selector = "a[href*='/templates/']:not([href*='/details/'])"
@@ -132,7 +133,7 @@ class ZapierScraper:
             await self.scroll_page(page, category_name)
 
         except Exception as e:
-            self.log_error(f"Error in category {category_name}: {e}")
+            await self.log_error(f"Error in category {category_name}: {e}")
 
     async def scroll_page(self, page, category):
         last_height = await page.evaluate("document.body.scrollHeight")
@@ -187,9 +188,9 @@ class ZapierScraper:
             
             if self.total_scraped % 50 == 0:
                 logger.info(f"Progress: {self.total_scraped} templates scraped total")
-                self.save_data()
+                await self.save_data()
 
-    def save_data(self):
+    async def save_data(self):
         data = {
             "total_count": len(self.templates),
             "scrape_date": datetime.now().isoformat(),
@@ -197,10 +198,10 @@ class ZapierScraper:
             "data": self.templates
         }
         try:
-            with open(OUTPUT_FILE, "w") as f:
-                json.dump(data, f, indent=2)
+            async with aiofiles.open(OUTPUT_FILE, "w") as f:
+                await f.write(json.dumps(data, indent=2))
         except Exception as e:
-            self.log_error(f"Failed to save JSON: {e}")
+            await self.log_error(f"Failed to save JSON: {e}")
 
 if __name__ == "__main__":
     scraper = ZapierScraper()
