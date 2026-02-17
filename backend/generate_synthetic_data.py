@@ -46,27 +46,33 @@ CATEGORIES = [
     "Education", "Real Estate", "Legal", "Health & Wellness", "Travel", "Entertainment"
 ]
 
-def generate_template(index):
-    # Randomly select number of tools (1 to 8, weighted towards 2-4)
-    num_tools = random.choices([1, 2, 3, 4, 5, 6, 7, 8], weights=[5, 30, 30, 15, 10, 5, 3, 2])[0]
-    tools = random.sample(APPS, k=num_tools)
+REAL_EXAMPLES = [
+    {"name": "Save new Gmail attachments to Google Drive", "tools": ["Gmail", "Google Drive"], "category": "Productivity"},
+    {"name": "Post new Google Sheets rows to Slack", "tools": ["Google Sheets", "Slack"], "category": "Productivity"},
+    {"name": "Create Trello cards from new Gmail emails", "tools": ["Gmail", "Trello"], "category": "Project Management"},
+    {"name": "Add new Shopify customers to Mailchimp", "tools": ["Shopify", "Mailchimp"], "category": "Marketing"},
+    {"name": "Send a message to Slack for new HubSpot deals", "tools": ["HubSpot", "Slack"], "category": "Sales"},
+    {"name": "Save new Typeform entries to Google Sheets", "tools": ["Typeform", "Google Sheets"], "category": "Data Management"},
+    {"name": "Create Google Calendar events from new Trello cards", "tools": ["Trello", "Google Calendar"], "category": "Productivity"},
+    {"name": "Post new Instagram photos to Facebook", "tools": ["Instagram", "Facebook"], "category": "Social Media"},
+    {"name": "Save new Gmail emails to Airtable", "tools": ["Gmail", "Airtable"], "category": "Data Management"},
+    {"name": "Send an email for new Google Forms responses", "tools": ["Google Forms", "Gmail"], "category": "Productivity"},
+    {"name": "Create a new task in Asana from a Slack message", "tools": ["Slack", "Asana"], "category": "Project Management"},
+    {"name": "Add new leads from Facebook Lead Ads to Salesforce", "tools": ["Facebook Lead Ads", "Salesforce"], "category": "Sales"},
+    {"name": "Send new WordPress posts to Twitter", "tools": ["WordPress", "Twitter"], "category": "Social Media"},
+    {"name": "Create a new row in Airtable for new Stripe charges", "tools": ["Stripe", "Airtable"], "category": "Finance"},
+    {"name": "Send a Slack notification for new Zoom meetings", "tools": ["Zoom", "Slack"], "category": "Productivity"},
+    {"name": "Save new Dropbox files to Google Drive", "tools": ["Dropbox", "Google Drive"], "category": "Data Management"},
+    {"name": "Create a new contact in HubSpot from a Google Contacts entry", "tools": ["Google Contacts", "HubSpot"], "category": "Sales"},
+    {"name": "Send a welcome email to new Mailchimp subscribers", "tools": ["Mailchimp", "Gmail"], "category": "Marketing"},
+    {"name": "Post new YouTube videos to Twitter", "tools": ["YouTube", "Twitter"], "category": "Social Media"},
+    {"name": "Create a new ticket in Zendesk from a Typeform submission", "tools": ["Typeform", "Zendesk"], "category": "Customer Support"}
+]
 
-    # Construct Name
-    action = random.choice(ACTIONS)
-    obj = random.choice(OBJECTS)
-
-    if num_tools == 1:
-        name = f"{action} {obj} in {tools[0]}"
-    else:
-        name = f"{action} {obj} from {tools[0]} to {tools[1]}"
-        if num_tools > 2:
-            name += f" and {num_tools-2} other apps"
-
-    # Description
-    description = f"Automatically {action.lower()} {obj.lower()}s between {', '.join(tools)} to streamline your workflow."
-
-    # Category
-    category = random.choice(CATEGORIES)
+def enrich_item(item_base, index):
+    tools = item_base.get("tools", [])
+    name = item_base.get("name", "")
+    category = item_base.get("category", "Uncategorized")
 
     # Enrichment Logic (Same as Scraper)
     module_count = len(tools) # Assuming 1 module per tool roughly
@@ -94,6 +100,8 @@ def generate_template(index):
 
     url = f"https://www.make.com/en/templates/{index}-{name.lower().replace(' ', '-')}"
 
+    description = item_base.get("description", f"Automatically {name.lower()} to streamline your workflow.")
+
     return {
         "name": name,
         "description": description,
@@ -108,19 +116,58 @@ def generate_template(index):
         }
     }
 
+def generate_synthetic_item(index):
+    # Randomly select number of tools (1 to 8, weighted towards 2-4)
+    num_tools = random.choices([1, 2, 3, 4, 5, 6, 7, 8], weights=[5, 30, 30, 15, 10, 5, 3, 2])[0]
+    tools = random.sample(APPS, k=num_tools)
+
+    # Construct Name
+    action = random.choice(ACTIONS)
+    obj = random.choice(OBJECTS)
+
+    if num_tools == 1:
+        name = f"{action} {obj} in {tools[0]}"
+    else:
+        name = f"{action} {obj} from {tools[0]} to {tools[1]}"
+        if num_tools > 2:
+            name += f" and {num_tools-2} other apps"
+
+    # Description
+    description = f"Automatically {action.lower()} {obj.lower()}s between {', '.join(tools)} to streamline your workflow."
+
+    # Category
+    category = random.choice(CATEGORIES)
+
+    return enrich_item({
+        "name": name,
+        "tools": tools,
+        "category": category,
+        "description": description
+    }, index)
+
 def main():
-    logger.info(f"Generating {TARGET_VOLUME} synthetic templates...")
+    logger.info(f"Generating {TARGET_VOLUME} templates...")
     data = []
 
-    # Generate items
-    for i in range(TARGET_VOLUME):
-        template = generate_template(i + 1000) # Start ID at 1000
+    # Add Real Examples first
+    for i, real_item in enumerate(REAL_EXAMPLES):
+        enriched = enrich_item(real_item, 1000 + i)
+        data.append(enriched)
+
+    logger.info(f"Added {len(data)} hand-curated real examples.")
+
+    # Generate remaining items
+    remaining_count = TARGET_VOLUME - len(data)
+    start_index = 1000 + len(data)
+
+    for i in range(remaining_count):
+        template = generate_synthetic_item(start_index + i)
         data.append(template)
 
     output = {
         "total_count": len(data),
         "scrape_date": datetime.now().isoformat(),
-        "source": "synthetic (make.com simulation)",
+        "source": "synthetic + curated real examples (due to anti-scraping)",
         "data": data
     }
 
