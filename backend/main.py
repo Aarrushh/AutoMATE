@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Query
 
 app = FastAPI()
 
@@ -7,7 +7,7 @@ def read_root():
     return {"message": "Automation Engine is Online"}
 
 @app.get("/search")
-def search_automation(query: str):
+def search_automation(query: str = Query(..., max_length=100)):
     # This is a dummy response to test the connection
     return {
         "user_query": query,
