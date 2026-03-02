@@ -1,0 +1,5350 @@
+[
+  {
+    "label": "Template",
+    "id": "fed29975-00f9-48a3-bd91-307db0fbd1dd",
+    "name": "Unified lead capture",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6885d9a9-8350-4132-a0e3-05ef0801a041",
+    "name": "Manage FAQs and requests from Slack with AI",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d4df83d5-fa55-427f-a59e-93d435cc3e02",
+    "name": "IT help desk",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "0c69de1a-b997-4616-ad14-bed723f6e3ed",
+    "name": "Deal desk: Manage HubSpot quote approvals in Slack",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "ebbaff8e-8998-46fe-a9b9-6577e2c0ca0e",
+    "name": "Auto-capture tool & process updates from Slack in a centralized changelog",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4eee5ae5-c3b7-4c80-b7bd-7f40145a3a63",
+    "name": "Gong call coach: AI-powered sales and success coaching",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f8cca26a-0139-4324-824b-3cd14a948a74",
+    "name": "Increase sales leads from support tickets",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d5a16b36-1b96-4a9f-8d68-9819a229ae75",
+    "name": "AI Chat for Lead Generation Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5538cb6f-a478-437c-8307-bdfd81a57d72",
+    "name": "AI Email Assistant Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ea6502c1-c9ff-46d1-92c2-1f6920ef02a9",
+    "name": "Applicant Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9089c105-4416-43e3-bd9b-f96e6e58c7cd",
+    "name": "Automate offline conversion tracking across platforms",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fc4e0fb2-3021-43c5-a98b-1826bbb003ee",
+    "name": "Automatic call prep",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "42b65515-6c35-4bb1-897a-d4681ce8c107",
+    "name": "Brand mention and sentiment tracker: Get insight into when, and how, your brand is mentioned",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "41a7a45c-efb2-45f1-8f0e-9e60c93dadf1",
+    "name": "Contact List Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "02379e33-99bf-41c4-ac71-9879579e75fb",
+    "name": "Create GitHub issues from Slack instantly",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e3ab5cf9-f2eb-41f1-a548-f3e4676ceb5c",
+    "name": "Exec coach: Turn meeting insights into exec growth feedback by Tom\u00e1s, CIO @ Miro",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3b3f0b0d-d704-49ab-b93c-a6ab9c714af9",
+    "name": "Expenses form template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b9a76f50-7cd1-4b5b-8892-2cac5fa23957",
+    "name": "Lead Capture Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ecc9ab14-aa00-43ea-a7e2-d57d1e121af8",
+    "name": "Outbound assistant: Target account engagement alerts and outreach kit",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "03d3ce54-3a82-48cf-8002-13a5e8749d77",
+    "name": "Sales CRM Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "09136fb6-17ed-4acf-a50d-dd19275fa462",
+    "name": "Share enriched G2 reviews to Productboard",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "268b9194-3f36-4472-a25a-fb583b4e8848",
+    "name": "Slack standups: Automatically run weekly standups in Slack",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "81df1600-e041-41ba-a756-c5aa964538e4",
+    "name": "Video form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6c3ccc64-d792-45ab-ad79-a4c64cd9f37e",
+    "name": "90 Day Evaluation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d9dcb34a-eca6-45a6-9ee2-8dbccc71f1e6",
+    "name": "ABM - Research-based Email Personalizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2197b4ab-64fd-407d-86ef-1b8a589a64dd",
+    "name": "Absence Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3a2d359a-d4cf-4d36-ae92-8eff217ce5d1",
+    "name": "ActiveCampaign Lead Enrichment Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b4d405c1-4474-4126-9194-4379c22a1da1",
+    "name": "Advanced Video Course Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ddda83b0-930c-4a39-8ccd-ab1e3533924f",
+    "name": "AI Agent Marketing Campaign Tracker",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "17ae11d8-155a-4232-9fda-ee729d7c9463",
+    "name": "AI Chat for Business Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b5896d09-7acb-403d-82d8-7066a24d927d",
+    "name": "AI Chat for Customer Service Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4acd5ebf-24b1-4b31-8a1b-d6325aaab56d",
+    "name": "AI Chatbot for Ecommerce Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7bebc54b-5b51-4098-a61d-03c52907c6a7",
+    "name": "AI Content Idea Generator Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "84de98d2-40c8-474b-a878-484f5fd181c7",
+    "name": "AI Form Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b2e69484-cbe5-4bce-8dfe-439365700351",
+    "name": "AI Generated Press Mentions Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c3c96ad5-b891-4304-9453-825ea972bba8",
+    "name": "AI Image Generator Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d1e1180d-a4b5-4e85-9a97-f7ac035fab23",
+    "name": "AI Logo Generator Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f12b6f4f-3125-4901-ba96-67bef1b59ccc",
+    "name": "AI Voice Generator Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2c409f77-8957-46d7-b388-f02f3d92b8a1",
+    "name": "AI-powered hiring material",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5d8203f1-15d3-4bac-aff2-c17607923d7e",
+    "name": "Anonymous Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f0926563-a267-4f63-81d4-33cebbd2b50b",
+    "name": "Appointment Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "37244986-5c3f-47c4-991f-3cbadeb2c75a",
+    "name": "Appraisal Waiver Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9d446393-6fac-4256-80bc-3d55598dcc64",
+    "name": "Approval Request Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "57c652c4-3936-459e-96bd-0ad413244cd4",
+    "name": "Auto-post Fathom team meeting notes to Slack",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "93e2209a-a250-4b55-9c87-d23055e76441",
+    "name": "Auto-post recurring team meeting notes from Granola to Slack channels",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e12738db-5869-4eaf-9ac6-a25a8c3a2746",
+    "name": "Autogenerate release notes in GitLab when Jira epics are closed",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f2d89f2d-caeb-42a7-b37f-e2d1c133b0f1",
+    "name": "Automate employment verification letters",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "0ff2a2bf-8124-480d-9865-c6e066c6989d",
+    "name": "Automate HR support with AI helpdesk assistant",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1b026f4d-0475-4f6c-8931-d44b8f925663",
+    "name": "Automated Email Reply Drafts Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "da40d5e1-3318-4319-bfcc-b4b8895f5921",
+    "name": "Automated Lead Capture and Follow-Up",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "eccfe2d9-ab88-4bcc-b2b3-17093f91e102",
+    "name": "Automated Sales Lead Emails",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5618ae26-4bff-40a3-803c-01a8a5aeff53",
+    "name": "Automatically generate employment verification letters for business travel",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "39a278fa-cef4-4bf3-a287-1139a5cb350d",
+    "name": "Award Nomination Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7c3b1908-2edc-4d97-b8af-0057df2b471a",
+    "name": "Biz Dev Call Briefer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "0d199d74-7fda-45ac-9538-6bd9589e6739",
+    "name": "Blank Estimate Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "44bf36b8-d62c-4371-b688-d9ec4b4d7a4c",
+    "name": "Blog Generator AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3aafeb5f-885c-42d2-8d22-ba7948014cf6",
+    "name": "Brand Guidelines Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9aacd375-0b90-439f-94c9-2713fc66f1b1",
+    "name": "Brand Voice Analyzer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "44acc9b1-cd6b-448f-81bc-0bf18167aacc",
+    "name": "Broker Open House Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "35cf9470-0717-4342-b551-01a6f7d986d4",
+    "name": "Business Coach Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "442c476e-86dd-4e97-b0a4-d95c29169481",
+    "name": "Business Intake Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "81d93e78-6e64-4cd2-962b-780835e46a9d",
+    "name": "Call Center Agent Coaching Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "60ac9ab9-6bfb-4afc-8c83-1baa80e5ee44",
+    "name": "Call Follow-Up Email Assistant",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "42b4ca93-4c50-4a4f-9471-df470d1ca84c",
+    "name": "Call Follow-Up: Add Proposal Requests to CRM and Send FYI on Slack",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f97d7411-2cc1-4691-9ef1-ce38e33c4215",
+    "name": "Candidate Evaluation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9a9eb585-6d9d-4949-bcb6-28492e0f7695",
+    "name": "Candidate Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3ae3930b-6646-4720-bb0f-8a7de8bc9291",
+    "name": "Candidate Ranking System",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8cbb8cf2-6673-4cd6-a7ee-2910643ad20c",
+    "name": "Candidate risk detector for hiring teams",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2fa80b78-3f6c-4449-a301-d9ec3555825d",
+    "name": "Capture and record ideas using voicenotes and AI",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "97c0572a-7e41-402c-92d6-e8eae0e1267f",
+    "name": "Capture and triage engineering requests from Slack in Jira",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "68c95b02-ea86-4dd5-8b3a-3ba792964c48",
+    "name": "Career Wins Collector",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fd0f5f38-7bbc-4544-9532-0fbd8e92e56b",
+    "name": "Catering Order Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b803c72f-7dfb-46da-a15c-4816dcbbc049",
+    "name": "CatGPT\u2019s Daily Airtable Summary Email",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "873160a4-cb87-4516-8c35-db698f224412",
+    "name": "Celebrate wins and share strategic deal insights from HubSpot to Slack",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "8877fd14-c580-416c-93b3-4abad8483060",
+    "name": "Change Order Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9eb23352-dc60-4702-a6f4-2ca649104301",
+    "name": "Change Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "78fcdfdd-d9dc-41f5-be52-e993138eec03",
+    "name": "Clapperboard Capture Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f9e23ce4-6786-4ee1-9dd1-6f6defa62d45",
+    "name": "Client Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "30430a5d-b18e-40cb-b5dd-e812e6f5313b",
+    "name": "Client Portal Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e8695a25-02b7-4e37-9a68-5c8cacd9a48d",
+    "name": "Client Questionnaire Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fef81867-3c39-42d0-a381-21f3af5e41de",
+    "name": "Coaching Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5b225894-8e6a-4b7a-8627-5e9666cc773d",
+    "name": "Coaching Intake Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "07ceaf14-7676-4168-9fc5-8a4d81603bc5",
+    "name": "Communication Pros AI Chatbots Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c89184aa-d259-4755-b1f4-dceab2423398",
+    "name": "Company Registration Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3c128855-fd3c-4939-954d-5f3d5bc767b8",
+    "name": "Company Research: AI initiatives tracker",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ae2bce5f-03b8-4202-996a-eb5517114f21",
+    "name": "Compliance Review Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "12f24d1b-7745-4545-a3d5-3916ce4e1bd0",
+    "name": "Compliance Review Agent (Dropbox knowledge source)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "0d3b82c8-918f-45b6-ad54-48d19ec2348e",
+    "name": "Compliance review: Define risk levels for purchase requests",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "31f820c6-991c-4433-8ccd-9cca6588bf87",
+    "name": "Conference Registration Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "68709ea2-8c31-4005-93f7-1f679a084712",
+    "name": "Connect Databricks engagement data to Salesloft Signals",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "984d83f0-8489-431b-9147-f1b8d6632a43",
+    "name": "Consolidated product feedback",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3defb18b-c431-4a62-98d4-ee6f44dd0799",
+    "name": "Construction Change Order Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "568be36a-3738-4c5c-b67d-cb8cf2495beb",
+    "name": "Construction Estimate Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3908bd4c-bb6c-47ff-bfb1-0014e9f578be",
+    "name": "Consulting Agreement Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "88b83498-5ca8-47d1-b39b-99da4d9b0476",
+    "name": "Consulting Client Intake Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a2400c08-0489-49d1-be4d-dc52200d201b",
+    "name": "Consulting Client Referral Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fc43d356-4bb5-47b9-b620-e818e5902ce1",
+    "name": "Contact Information Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4c4c31b9-48b2-46d4-b68b-ba2dba74881b",
+    "name": "Contact us form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "83334134-01fb-4baf-b4db-30314787f25e",
+    "name": "Content Repurposing AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4ba10951-9cf2-44eb-a899-eddcd51bc257",
+    "name": "Contractor Estimate Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8c076bd9-4e77-435f-b5c1-366db7ca6003",
+    "name": "Contractor Liability Verification Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "54d1e708-8d6b-4710-95aa-2a0906d32e46",
+    "name": "CPO welcome message automator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "368dad45-58dc-4d47-80af-e3c4c6c689e9",
+    "name": "Create Asana tasks from new saved Slack messages",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "3d4e781c-b4ac-4ffa-9aa6-795da30b1be4",
+    "name": "Create Asana Tasks From Slack Reactions",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "277a4adc-8270-4af0-9a2f-4d199a036f43",
+    "name": "Create OneNote notes for new Fireflies.ai meetings",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "26a783fe-bb12-4ca6-aec3-537a93735bbe",
+    "name": "Criteria-Based Resume Screening",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "68cbf83f-d1a8-4e06-8c01-121130170142",
+    "name": "Cross-functional Sync Agenda Creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "66350a3e-ecd3-4d89-bb4b-727b2b85326c",
+    "name": "Customer Call Summary and PRD Generator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "23374123-94b8-4c28-ae41-5b540e11a685",
+    "name": "Customer Complaint Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "22080b05-f7dc-41ff-a63f-dfea1261e987",
+    "name": "Customer Contact Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d3767bbd-63fd-42a7-90b1-485be88b6a4c",
+    "name": "Customer Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6043541b-e341-4a73-a6c9-9e5da9b1fd2b",
+    "name": "Customer Inquiry Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ef4c70e0-5c32-4dfd-aa7a-a2d985d780a9",
+    "name": "Customer Registration Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "debdadb9-ee46-4770-a420-e0ece3887c5b",
+    "name": "Customer Sentiment Analysis",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2fd5471d-04eb-4114-8a7b-d5f66a69b611",
+    "name": "Customer Survey Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e301e4ed-0e46-4a32-b7f5-c30e757a3a98",
+    "name": "Daily 3I/ATLAS News Update",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e6a35bd5-44df-4287-a903-2431b90ca8b9",
+    "name": "Daily AI News Tracker",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "386c69f1-666c-4cf4-9171-ca55b38806c4",
+    "name": "Daily Expense Summary Email",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "72ca1506-d9a9-4c1f-a5e8-f44666f93999",
+    "name": "Daily market and competitive briefings",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "50dfa280-93d3-4345-8bb3-61685a7af3f2",
+    "name": "Daily On-Call Rotation Notifier",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "87ce1a43-5078-4ae9-8d79-8e74156261d1",
+    "name": "Daily Sales Report Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3ea7e76d-b52b-411a-a8f9-28262659580f",
+    "name": "Daily Stand Up Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "bbaa019f-3202-4d7d-8d19-af76c96b805e",
+    "name": "Design Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4dbf3bb2-9bdf-4c73-9c3c-36fb9bc69757",
+    "name": "Document Approval Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "beba605e-69f5-47ca-abc2-d09d7f0a666b",
+    "name": "Email assistant: Turn starred emails into Asana tasks with AI",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "062c03bf-beb1-413b-af5c-f3373d7b95a5",
+    "name": "Email Attachment Saver Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "32f2e473-473a-4a79-b7eb-d536f7eff2b0",
+    "name": "Email Campaign Portal Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cfb4fb30-466b-4c9e-9220-4e5c695f31ce",
+    "name": "Email Event Scheduler",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "51545023-68d1-41b7-a9fb-b6b6bab8a60d",
+    "name": "Email Signup Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e69e3865-31c6-4a88-81a8-275147104830",
+    "name": "Email Subscription Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2d056871-56c6-4360-9a02-d5ffb68f761d",
+    "name": "Employee Attrition Risk Prediction and Mitigation",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3f010320-1f72-47ce-a342-fff48115380b",
+    "name": "Employee availability form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1a00f64c-7fe1-461f-9f2f-ec5d4351458d",
+    "name": "Employee Coaching Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2de43055-8c09-45ad-8331-276c26144930",
+    "name": "Employee Complaint Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "81cd2405-e2d6-42c9-a856-72dd22603db9",
+    "name": "Employee Directory Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "67b60979-c423-4073-a5a5-c52e7c60d572",
+    "name": "Employee Emergency Contact Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1599c596-6655-4bf0-aba3-0dcef2943f58",
+    "name": "Employee Enrollment Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c36be0b7-78f7-4152-8e64-08133b46f207",
+    "name": "Employee Evaluation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b54fd814-df1e-4f21-bb71-149cbc1ad2c6",
+    "name": "Employee Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "30babd66-181b-43d9-8c43-bfb3f9e46473",
+    "name": "Employee Incident Report Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fbb0012e-87ad-41e7-be1f-b7f5c00b6262",
+    "name": "Employee offboarding",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c2807449-caeb-4d59-95bf-efbb992d9a78",
+    "name": "Employee onboarding AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f47f22b5-4f1e-4032-aeae-cfc5bed83084",
+    "name": "Employee Onboarding Manager Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "43e42cdf-da95-46ac-b9f7-a093f55d70ff",
+    "name": "Employee Onboarding Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7db57e37-ac62-42f9-8199-18f900a6bd26",
+    "name": "Employee recognition form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ec3840e6-e621-4286-a6cc-f4407dfa5f39",
+    "name": "Employee Referral Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "29de311e-324e-460c-a13f-90d177b2c015",
+    "name": "Employee Resignation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "aa5573e1-2aea-4e8b-9275-ccd2985a3c63",
+    "name": "Employee Satisfaction Analysis",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "609d64fc-e87a-4cdc-ad4b-e3f8acc5ce67",
+    "name": "Employee Self Evaluation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "0e792365-14d7-4328-ac94-bbb0885b4bc4",
+    "name": "Employee Survey Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8705aa88-2ce8-49f8-b170-6041857e6226",
+    "name": "Employer Verification Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cd279b0c-9786-4681-93ff-0a0deb30d933",
+    "name": "Employment Agreement Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a12b62d5-a494-476f-ac00-cdc1e61178ad",
+    "name": "Employment Application Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "51b14c7b-fed9-4f71-a7ed-008fb32fc864",
+    "name": "Employment History Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a6482300-2ddd-4551-a6b3-e53edc1e094d",
+    "name": "Employment Reference Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "788aa58f-dc16-46cd-a148-d222623dec49",
+    "name": "Employment Termination Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "30b8b147-ecc8-4386-9e1b-a9a27c192ef0",
+    "name": "Employment Verification Form Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a351b283-eb68-4995-891d-af918b5822b9",
+    "name": "Enrollment Verification Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "65291d8d-13a9-4383-b84c-e9a0a590f341",
+    "name": "Enterprise Lead Qualification Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3bb06194-a284-4320-a09e-bd92470ce33c",
+    "name": "Equipment Checklist Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "557f4761-e67b-4940-902c-fa3fb3b6ddc9",
+    "name": "Equipment Rental Agreement Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f53629cb-a240-409d-9540-877d01bb8509",
+    "name": "Estimate Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e3dc8717-94d9-43d7-9e77-40581220ec5b",
+    "name": "Event Booking Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ca636db2-730b-4095-8940-1bde77ecfd17",
+    "name": "Event Evaluation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "bc48b567-67e7-4042-8857-2efaeafb0db6",
+    "name": "Event Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "02a0ecc5-999a-4aae-b520-e43f52eeb1b9",
+    "name": "Event Inquiry Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4cfa602e-df50-4724-a0dc-01584d612e3a",
+    "name": "Event Planning Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "57f886c7-0c17-471a-8dfa-4d21163e3380",
+    "name": "Event Registration Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9ecf89b5-df23-49c6-bd91-8ae85eb3b1a2",
+    "name": "Event Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a1b75ae2-4461-4f8e-8ff0-591fdd48cae7",
+    "name": "Event Reservation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b09f0017-7a20-4fe9-877c-f0dde9dd476e",
+    "name": "Event RSVP Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "940c791a-bbcf-4c4c-af7d-e8a7fd00a4f7",
+    "name": "Event Schedule Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7e06ac93-ee10-4b3e-9763-879058142ea0",
+    "name": "Event Signup Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "631c68a6-dba7-49c0-af83-cf2cb209a8a0",
+    "name": "Exit Interview Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6252cb65-3099-4322-a516-ced31b9686c6",
+    "name": "Expense Report Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5197d817-5257-4a81-acb9-884479e48476",
+    "name": "Expenses Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fd8225c4-1720-4a69-b15d-1aabe8a9cae5",
+    "name": "Facebook Content Calendar Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "22768cac-3ff5-461e-9272-6c1eb6a1d408",
+    "name": "Facebook Conversion Tracking for Physical Stores Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a501d527-1533-43e4-a416-cbf7e76fcd5e",
+    "name": "Facebook Lead Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d48fee36-e218-4ccb-a4d1-90e447a59870",
+    "name": "FAQ Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "89f907bf-2cf8-4535-90f4-6332c5449d9c",
+    "name": "Follow-Up Reaction Notifier",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f8d78f8a-d740-4232-98cb-b2ed6a893c48",
+    "name": "Food Order Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "64e8bf04-da15-4f1d-92a6-a7d181bd679e",
+    "name": "Form Template (Discord Integration)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "259bd772-200d-4e51-a7ed-7c126cb43d7c",
+    "name": "Form Template (Google Contacts Integration)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "953b4fd3-0dfd-43e6-afd0-8b58425883f1",
+    "name": "Form Template (Jira Software Cloud Integration)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "af4af53e-042d-4e40-878c-a25437f2772b",
+    "name": "Form template (Pipedrive integration)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "48614e0f-795a-4da5-8b63-a994b2bd9a6e",
+    "name": "Form Template (Telegram Integration)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2006de97-4559-4b63-95a3-ad93a85df073",
+    "name": "Form Template (WhatsApp Notifications Integration)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cc649a29-fdfe-4053-ad9c-7982f60168c2",
+    "name": "Form Template (Zoho CRM Integration)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1d2096b9-9fe1-4827-88e8-dd0b0e769d22",
+    "name": "Free Offer Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "632ed732-af84-4d37-96a3-89e58f66e2f3",
+    "name": "Get a digest of new Slack mentions sent as direct messages",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "678e073c-421f-4915-aaff-3615f318b4bb",
+    "name": "Get in Touch Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "38e846bc-5bf9-4fb3-b16e-f3ee52bf2d88",
+    "name": "GitHub PR Auto-Reviewer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3fd9eb4c-bc38-4d86-9be1-9fa645a25cbc",
+    "name": "Github Pull Request Slack Notifier",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "412b3b03-e40c-4097-8a15-6f4ab99520db",
+    "name": "GitLab Merge Request Slack Notifier",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "75f6a6da-354e-449b-bc04-6301a90bcaed",
+    "name": "Gmail Auto-Replier",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f3a407c6-74bd-4bf5-ba2a-a25fe168c6a7",
+    "name": "Gmail Event Creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8e2e138c-d714-4fbc-90c6-e417330d15c6",
+    "name": "Google Calendar Zoom Meeting Link Adder",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "364d4443-2bcf-473f-81d8-7427eed4580d",
+    "name": "Human-in-the-loop AI for Slack FAQs",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f11ce300-24c1-4eba-96d9-fcf98818f6ec",
+    "name": "Import account signals from Looker to Salesloft",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "e138da74-a154-42d1-8447-872710ed5ee8",
+    "name": "Inbox Categorizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "78c22352-915d-44ef-add5-0dbdfd1674d4",
+    "name": "Inbox Summarizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a10656c1-a4c6-4607-8fda-d8866a0660cf",
+    "name": "Incident Management Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "90f52ca6-afb4-47bb-8e74-1d2553f90174",
+    "name": "Incident Report Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cf5aa742-e8ad-44a0-b3cc-ff9acc65dc8e",
+    "name": "Incomplete Jira Tickets Commenter",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8d93ad26-e928-4cf7-a80e-47ef10c92ee6",
+    "name": "Incomplete Notion Tasks Commenter",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "0f474ffc-85d8-4e01-92a0-3c2f60dc8500",
+    "name": "Industry Newsletter Generator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "16e23536-cd24-494c-94f5-561d231546ec",
+    "name": "Instagram Content Calendar Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "aeb842b6-7110-477b-af88-203870d712fc",
+    "name": "Intelligent multi-channel inbound message routing",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "0a69f4b1-f07b-41b2-91ab-fd79809dd2a3",
+    "name": "Internal legal FAQ AI chatbot",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9f9da7fe-88c6-416c-8c6b-78a1fd1fd1bd",
+    "name": "Interview Evaluation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b3cc1941-62f4-42f0-9f48-e4828f338b22",
+    "name": "Inventory Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "65d16c6a-4ec8-414c-b19f-0ca728d9fff5",
+    "name": "Invoice form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "aed9658d-7c9b-42c0-af1d-b243fa710cea",
+    "name": "IT Helpdesk Slack Responder",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8900a51c-76a8-4bdc-a729-424036851fe8",
+    "name": "IT Knowledge Base Updater",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5851bc03-c4a5-4621-9eb2-7437150cb6ea",
+    "name": "Jira Epic Change Summarizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "669028e7-0002-44ad-be9b-6d19a2be2581",
+    "name": "Job Application Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ba11a447-f678-4841-8ebc-f6a367e58404",
+    "name": "Job Board Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ccd1ff44-e6e9-4f07-8942-5653d7df1dfd",
+    "name": "Job Estimate Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "796831bb-3665-43c5-b3dc-b8eccdb09af8",
+    "name": "Job Interview Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "66a06f76-c330-47cf-a091-22e3a7f7c742",
+    "name": "Keyword-to-Lovable automated blog pipeline",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "792bbc6a-df5e-45f4-81e5-37f82fa88d14",
+    "name": "Landing Page Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5bfadb17-5bae-4d07-bed9-42e14be5e95c",
+    "name": "Lead Background Research",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "13c339fe-a9bf-46d0-93cb-e443f6fb10b4",
+    "name": "Lead enrichment",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "41920684-6023-4c71-951b-2beb0d7ee381",
+    "name": "Lead Enrichment Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1101bd2e-2aec-4866-8cdd-0963b24ae1c3",
+    "name": "Lead Gen Research: Companies Newswire Tracking",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e2cdc81f-ad10-4037-922f-8d78054fe9a8",
+    "name": "Lead Gen Research: Companies Quoted in the Press",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6fa2ed9b-11fd-4956-9b92-d893a93ef987",
+    "name": "Lead Gen Research: Product Press Coverage",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d380cede-1157-42d2-84e8-eab091b62c76",
+    "name": "Lead Generation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "90cb23e5-efca-4530-8b37-0b779aa58747",
+    "name": "Lead Hub Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "265ffdd6-84e9-40d0-a3cb-e7650b586600",
+    "name": "Lead Router Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9b0e8269-063b-4af1-9d88-b0bb5d518bde",
+    "name": "Lead Scoring Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "eb56e18f-4e88-466a-a940-fe29815d2f03",
+    "name": "Lead Sync Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "078cbcfe-f56c-4070-af29-fe4056404bd2",
+    "name": "Lead Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fc002af0-410d-466d-8282-fa3ce3453176",
+    "name": "Leave Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5958b22b-c722-4766-bff9-609abf3c5a0e",
+    "name": "Linkedin Conversion Tracking for Physical Stores Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "55d1a667-ddab-4ebe-8ede-fc02cc515bc4",
+    "name": "LinkedIn Post Scheduler",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4b71444c-c98c-4a55-91c3-0e476b724f6c",
+    "name": "LinkedIn Post Scheduler Slack Reactji Trigger",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "597ddadd-1212-4447-bd3a-04a02512b072",
+    "name": "Lookup Table Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f00e3f16-b557-41ff-8c0e-249c35aba3a6",
+    "name": "Marketing Intake Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5dd4cb90-f580-48c2-b9a2-9b6eaa4b4065",
+    "name": "Marketing Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "32d17254-745d-47df-9d08-5c049f720a1a",
+    "name": "Media Opportunity Matcher by Evan Nison",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c1571aee-3fb2-4e7b-b486-39d87deef91f",
+    "name": "Meeting Minutes Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6fb5582d-9057-4215-b7fd-c50f6375df33",
+    "name": "Meeting orchestrator: Automate team meeting signups and invites",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cf58baf7-88fb-4e70-b1ae-f3adcbee1c4d",
+    "name": "Meeting Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "64077dcd-a3c7-4936-b06e-ae37ad78e973",
+    "name": "Multi-Article Summarizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "09fd5bc1-d10b-47ae-9c4d-cb0c4918c10b",
+    "name": "Multi-Source Lead Capture and Engagement System",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a234bb45-5dcf-4188-96d1-d70fa42d279e",
+    "name": "Net Promoter Score Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ff1edf93-7f6a-4cb8-aa9d-3747b1d585ef",
+    "name": "New Client Intake Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "07ccf132-6b31-474a-9e76-106d8032a377",
+    "name": "New Expense Classifier",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "54d72129-be2d-42f4-a829-52a24b38c099",
+    "name": "News Story Categorizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e892751e-35da-443a-87eb-ad33f1b60a53",
+    "name": "Newsletter signup form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "68ebd8c4-a49a-4dd6-b9a0-24bd2bfb77c7",
+    "name": "One-on-one meeting coach: AI-powered skill-building for managers",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2c325fb3-2bdd-4c8e-b1ff-0b51779cce77",
+    "name": "Open House Registration Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b5b037b2-475e-47d3-9603-37e6e7b47d1a",
+    "name": "Order Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "befcfa76-f35c-40c6-9253-59d280a3da71",
+    "name": "Organize Gmail Emails By Required Action",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5cb3359a-8a38-46f5-b9a0-ee2bc27e2d36",
+    "name": "Out-of-Office Plan Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f72ed93d-4c45-4b9b-9af6-7f14fa795425",
+    "name": "Outreach Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b9f5e750-2bbd-4b37-b8da-58b644bd90b4",
+    "name": "PRD Document Creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ce8e6da7-1f5a-4366-b8e0-abe65aa2a15d",
+    "name": "Presentation Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c1b9c538-a02b-4c14-8a6c-9d6ef9d9f219",
+    "name": "Proactive VIP support: Get AI summaries of Fullstory sessions in Slack",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3d2a6b42-46de-4e5d-b213-a0f8a4a19cd4",
+    "name": "Product Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "67704c7f-15a7-48ac-af8e-fccb98f6d699",
+    "name": "Product Feedback Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "255945aa-257d-4669-bce9-41010a14d66a",
+    "name": "Project Brief Generator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "318f641e-2e32-4641-80ca-e9c82e07de40",
+    "name": "Project Intake Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "0729c5cb-ded7-4fdb-b9ec-d54bb0bf92bc",
+    "name": "Project management stakeholder communications",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c393850f-c85e-4b3f-b352-bec0672111fe",
+    "name": "Project Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4789b326-6bf9-4e0e-901a-077a7ae65b9e",
+    "name": "Project Update Notifier",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b5915d07-2017-40f2-905d-dd7dd4f8e4c9",
+    "name": "Proof Of Employment Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2ca9e090-ed25-48ee-9b4e-9dbe7a523b23",
+    "name": "Push Slack messages to Asana and create tasks on demand",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "68389eaf-419f-4018-a373-4746615879af",
+    "name": "RACI Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a4ad9fa6-9c97-496d-b783-339accd729e3",
+    "name": "Real Estate Lead Generation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "725fdbbb-6c02-4af9-9ea2-733bcc54a392",
+    "name": "Real Estate Referral Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f761b73f-46b9-454c-a256-fb732782c210",
+    "name": "Record team wins",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4caa9ac4-b525-448c-98bf-a8232f9bcc64",
+    "name": "Recruiting Intake Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3e1d7c8b-e631-4913-8cf7-53b7780be8e8",
+    "name": "Reddit Trend Content Generator by Kiran Shahid",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f8f315db-02a4-4d38-aa51-7b57e731e89f",
+    "name": "Referral form template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b204dd93-af79-4c92-b64f-df2070e658fb",
+    "name": "Referral Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f96caa5e-306a-4180-8f32-43eefdca411d",
+    "name": "Registration form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "54c4ba3c-4694-4627-9767-017b6301bc08",
+    "name": "Research Assistant AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ba5c79d8-43b3-4883-9557-5c67ccbac84a",
+    "name": "Research Topic Assistant",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "938ed151-d394-493e-b003-eb34fe283c0a",
+    "name": "Review Slack Mentions & Block Time for Follow-Ups",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f40dfec1-750b-4183-8b0b-0eafa28e2182",
+    "name": "Review Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b1bd9383-496b-47a4-9e30-7c72033fb06e",
+    "name": "Round Robin Lead Assignment",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3fb18287-3d2a-4531-91ed-23f7eb72beac",
+    "name": "RSVP form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "0bf3e965-83ca-4df2-b6b1-605cdd54f056",
+    "name": "Sales Call Analysis Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "714fa5d8-77b1-4a19-b2ad-3128399029a9",
+    "name": "Sales chat attribution tracker",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5b6bd00d-5f09-42b0-b075-15325f6a46ee",
+    "name": "Sales Coaching Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6d93d8f4-28d3-402b-962c-d2b4ded01a4b",
+    "name": "Sales Email Creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d9561029-ed79-4e55-b17c-cdb95d3b05a3",
+    "name": "Sales Inquiry Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9b9d315c-6dcd-458a-9032-b0c850abd66d",
+    "name": "Sales Prep Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7a30190b-36ff-47db-8468-0b49221648c6",
+    "name": "Sales Support AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ca5e4789-ff4e-4fe3-a46a-873f5dadd3e5",
+    "name": "Salesforce Contact Enrichment Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f89f0f9f-0e5c-4185-a298-1940b789738d",
+    "name": "Sara McNamara's Sales Pipeline Health Monitor",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c486a916-5017-4bb1-ab34-d6ac8636781c",
+    "name": "Security Incident Report Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2d887587-41cd-4804-8788-054ad021c771",
+    "name": "SEO Analysis",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c97e8145-c80f-4d25-9d02-db51fd368220",
+    "name": "SEO Analysis Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "31170350-3938-45de-a5e9-cb7f28e106c9",
+    "name": "SEO Optimized Article Generator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ea641654-93eb-4441-8c2d-75099e024791",
+    "name": "Signup form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "0dd0c7e1-3b3a-420b-9033-ed869468a8e0",
+    "name": "Simple Contact Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5f5fce0c-ef5a-4273-98ad-713e792c890f",
+    "name": "Simple CRM Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e547013b-1643-4c49-986e-812b574ca441",
+    "name": "Simple FAQ AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "811b626b-1f96-47a9-9299-4e70a8d24ab8",
+    "name": "Simple Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9ca3e64b-eef9-4344-8983-34c0f299bd70",
+    "name": "Simple Marketplace Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a35e3a67-f7b6-4380-bf5f-e6b27875d863",
+    "name": "Simple Online Course Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "596f01c8-ee25-4484-b873-c98740ff7ad9",
+    "name": "Simple Project Plan Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "09456c54-6d78-4843-afe5-cd5b22d53536",
+    "name": "Simple Website Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cb44814a-f1e2-4f1f-b5fc-1b7e84661267",
+    "name": "Slack bot, Taylor's Version",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e2263dd6-e3f9-4ba7-9f78-d9a480e50a37",
+    "name": "Slack router: Automatically tag in the right team on Slack",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8a182626-b6b1-4626-b79f-589071ae3173",
+    "name": "Slack Thread Insights Extractor",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "162702a6-65d3-44bb-8fbc-b1ff178abef9",
+    "name": "Slack thread summarizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7e160235-1fd6-43bb-a5ab-45f4fcdd3c3e",
+    "name": "Slack to Asana Campaign Organizer",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "873e8d01-7693-406b-a44f-746f0294e6f6",
+    "name": "Slack to Linear Ticket Creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9dd2c86a-4c45-443b-a676-ac8c698093d9",
+    "name": "Smart follow-up emails: From Gong calls to AI followup drafts",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "905abbef-50cb-465b-9e46-a90bfbe796ee",
+    "name": "Smart incident postmortem reviews",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e744bc2d-18d0-420a-8caa-74658294f270",
+    "name": "Smart Lead Qualifier and Outreach Automator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "74f84805-b651-49c0-b01a-ccb63a7f047c",
+    "name": "Social Media AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "757add27-2c39-429f-b569-88cec1e14c1a",
+    "name": "Social Media Planner Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "611f59fd-f2d6-4a4f-83c2-f1f5636d4573",
+    "name": "Social Media Posting Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a199c5b3-4e99-4c8c-8cbe-b20e07faaa25",
+    "name": "Subscription Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4d5bae8f-87f3-4019-bd44-ad7b4f4c2312",
+    "name": "Support Email Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5c25a9fe-3af2-4cf1-b9e5-c6c64df059ea",
+    "name": "Survey Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1572322d-a662-4953-94b5-e454dc395f01",
+    "name": "Sync account signals between Snowflake and Salesloft",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "7dd3f337-d33e-45e6-9fb0-9b052d6c6766",
+    "name": "Team cohesion: AI Team ReadMe creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5d8cc5cb-4369-416e-85c4-ca78238bc3c6",
+    "name": "Team Operations Portal",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "08ad1e21-4e3b-404b-a294-b8b58689df4b",
+    "name": "Testimonial Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "91633e2a-38d7-48e4-a31c-05a6f0eec1ca",
+    "name": "Time Off Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f61d1c64-bc49-4667-bb72-5edb2ff7e9e5",
+    "name": "Time Slot Booking Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d14329d3-6625-4f06-9379-01f8b939719d",
+    "name": "Time Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2d33a68b-91bf-4b1c-86ed-903865daeaea",
+    "name": "To-Do List AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3e5f1351-7784-4f5c-b62f-777d72ee1e2f",
+    "name": "To-Do List Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "71186c80-d648-46f7-9b38-38c13bbdbf3e",
+    "name": "Track your action items from Granola notes by creating Asana tasks",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7e40ab7f-76b6-4669-8356-12e2f6dd9a01",
+    "name": "Travel Booking Organizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "186eb3f2-ed3f-4a48-a67f-fb5e0d492397",
+    "name": "Triage and auto-respond to Google My Business reviews with Gemini",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "bcc40702-07e8-404d-9648-88532215d109",
+    "name": "Turn Fireflies.ai transcripts into Gamma presentations automatically",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "84b2752a-b1b1-4b3e-b698-7c215ec120ca",
+    "name": "Turn Granola meeting notes into polished presentations with Gamma",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f515545e-a1be-4062-97dc-61570fd411a1",
+    "name": "Turn industry podcasts into team insights",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5fbf28f0-3bb2-4055-8649-966c7991c360",
+    "name": "Turn Slack messages into Notion tasks automatically",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "294eb9a0-9013-4797-ae81-61012bce0325",
+    "name": "Turn Slack reactions into Google Tasks automatically",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "bbee09c7-fee4-481f-a062-980194a99f3d",
+    "name": "Turn your team's network into high-quality candidates with automated warm intros",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c2fb3e83-239d-427d-8c33-8c4bebcd3c61",
+    "name": "Turn Zoom transcripts into Gamma presentations",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9f349994-84f1-4d0d-bb4e-162282f77fde",
+    "name": "Typeform Response Scorer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5ab216b8-00a9-4bb3-922a-a9d98d5cd4bb",
+    "name": "Typeform to Google Sheets Populator",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "f93b76ce-67bb-4b29-9e87-36c7d3128063",
+    "name": "User research customer interview signup",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4ee2ef03-75e0-458e-89db-aa530f07fa55",
+    "name": "UTM Builder Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "38d49319-38f0-4f6f-85c5-1021cbb19786",
+    "name": "Viral Content Creation Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d19ddd3a-1bf6-427a-b278-e9658ca320a0",
+    "name": "Web Clipper Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "24603bdb-8bc6-4a58-b66b-973eadd3c5b4",
+    "name": "Webinar Registration Form Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6041e6cc-f195-4570-9a4d-954d77d7b937",
+    "name": "Website Contact Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "02a0910a-9a74-4c2a-9cbf-f60a185c8f79",
+    "name": "Weekly Calendar Summary & Focus Tips by Claire Vo",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "323b5cfe-64fb-4d15-a651-8baf973b9802",
+    "name": "Weekly Energy Reflection Agent - Eric Nehrlich \"You Have a Choice\"",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6c561c25-285a-404c-a5b8-da974921d879",
+    "name": "Weekly Instagram Content Task Creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a81d24e6-7013-4134-971f-81d9d55cf6b6",
+    "name": "Weekly Project Status Update Email Generator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "25ab5939-c8d4-44ff-a2c1-b6e572ddfe24",
+    "name": "Writing Assistant AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "71506433-1c2e-4fce-ad4e-124147d7b191",
+    "name": "Yoda wisdom bot | React, you must. Learn, you will.",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1f810295-5509-433f-8bbb-a6b2f9931439",
+    "name": "YouTube Shorts Creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1dfc9371-44eb-4d7f-8297-3ee5a04b8872",
+    "name": "ZapChat AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "70bf6305-01d1-4a6e-854f-2794f3d9bea7",
+    "name": "Zoom call coach: AI-powered sales and success coaching",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7b3406d5-f093-44a4-93bf-2b71cee02428",
+    "name": "Unified lead capture",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "89b04c53-f32b-449e-a288-7ed72aa96c48",
+    "name": "ActiveCampaign Lead Enrichment Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "70d14a1e-1a3b-4107-a80d-840716bb1133",
+    "name": "AI Chat for Business Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3961d561-a6d6-4a30-97ab-00ef778ef0a9",
+    "name": "AI Chat for Lead Generation Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b32de2f4-8dfa-4639-9f4d-0f2d2e07d12a",
+    "name": "AI Chatbot for Ecommerce Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8ecfcf9d-519f-4246-833b-4b189f76dc5f",
+    "name": "AI Form Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5856f123-5a16-4b31-be4f-11285b38a1ef",
+    "name": "Automate offline conversion tracking across platforms",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "90afc9a4-c6f3-47f0-9639-642d8111d6c4",
+    "name": "Automated Lead Capture and Follow-Up",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "229816f9-4499-43f2-83be-1bd3fe283388",
+    "name": "Contact List Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "87eb1643-f8cc-4c99-b476-0de3a427955b",
+    "name": "Facebook Content Calendar Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b75917dc-2818-4355-ab02-e07f02f207cd",
+    "name": "Facebook Conversion Tracking for Physical Stores Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1378a770-a9f4-44fc-acbf-c506ff2566bf",
+    "name": "Facebook Lead Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6f61ddbd-6d1d-4f5d-b324-bd592a90fa5c",
+    "name": "Form Template (Discord Integration)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b5c7d8f7-7dc5-4be8-b909-560fc1be8c68",
+    "name": "Form template (Pipedrive integration)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8b050a99-a2c9-4947-83c5-7e73f57e7584",
+    "name": "Form Template (Telegram Integration)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3dd01b96-0f20-4b54-85db-710eee8215a2",
+    "name": "Form Template (WhatsApp Notifications Integration)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b3c9549d-41e5-4deb-b023-e54995842e49",
+    "name": "Form Template (Zoho CRM Integration)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6d0a685d-bfd4-4615-a53f-8dcf88e1826b",
+    "name": "Free Offer Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "bdd0c025-ed59-4e2c-8815-fed1ff15244d",
+    "name": "Get in Touch Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a4215767-46c0-43e6-bf1c-d9bb2f817769",
+    "name": "Lead Capture Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ee307b7e-96bc-4092-8872-1bddd477c0a0",
+    "name": "Lead enrichment",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2d08d61c-e874-4225-b0a4-a4e908cdbed0",
+    "name": "Lead Enrichment Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "084eef52-bb1b-4eaa-8d66-ca7131adfdc2",
+    "name": "Lead Gen Research: Companies Newswire Tracking",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b1f53b91-d00e-4c83-9970-0ae6f026eadc",
+    "name": "Lead Gen Research: Companies Quoted in the Press",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a45e153c-4db6-4773-8d1c-9dc91c455523",
+    "name": "Lead Gen Research: Product Press Coverage",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a4a982fe-1f4a-4f87-ba67-59a9b8ffe2f3",
+    "name": "Lead Hub Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "14c70146-cc67-4251-87c1-775fc0c43730",
+    "name": "Lead Router Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1c13be5f-cfb3-4376-b221-9bac99d021a2",
+    "name": "Lead Scoring Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b256a480-f286-4a44-8975-611d9cb042ca",
+    "name": "Lead Sync Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "097f4d81-1308-47ba-806d-ecaa33f6c904",
+    "name": "Lead Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f6fd8fbe-727b-44e9-87cf-34706c225464",
+    "name": "Linkedin Conversion Tracking for Physical Stores Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cce8d349-b756-45fd-b13a-a1a3c270cf1a",
+    "name": "Media Opportunity Matcher by Evan Nison",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1c84ede6-1817-4964-9e55-5f7bcad33ec8",
+    "name": "Multi-Source Lead Capture and Engagement System",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1f5979c0-5acb-49a7-b3dc-469c2f7d6f2e",
+    "name": "Newsletter signup form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "bcea5332-9509-4fbc-ae2a-5c22fbf492c5",
+    "name": "Outbound assistant: Target account engagement alerts and outreach kit",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c4ae8aea-2584-4fc5-9325-472ebbcdc4e2",
+    "name": "Referral form template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "032e0b88-d098-4b06-92fe-973ae16e077e",
+    "name": "Round Robin Lead Assignment",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "11b2a413-9c79-4107-9ade-3d0b7be0becb",
+    "name": "Sales chat attribution tracker",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "74a3224a-f4ea-46fa-8279-61c8eaeb06e6",
+    "name": "Simple CRM Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7f23d15b-a9b6-4bb8-a31d-46f38edd0b40",
+    "name": "Sync account signals between Snowflake and Salesloft",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "e0d6cb66-c405-44d1-b7be-60dfd24e1e7c",
+    "name": "Video form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6d6914da-c7db-46e5-935e-c4413cec6116",
+    "name": "ZapChat AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d699f89a-3308-48d3-bc7b-6b629f766c48",
+    "name": "Deal desk: Manage HubSpot quote approvals in Slack",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "12c628b7-653a-497b-a28a-555a0be139b5",
+    "name": "Automatic call prep",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "604ab1d5-7854-4b4d-ac1d-4e82fed98cfd",
+    "name": "Celebrate wins and share strategic deal insights from HubSpot to Slack",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "747aee96-d36a-4a08-8616-f9655b2c0406",
+    "name": "Connect Databricks engagement data to Salesloft Signals",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "835760f8-79d7-4c38-9ba4-0a1e809bd782",
+    "name": "Daily Sales Report Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "16657f35-5eed-4cfa-b2ea-45a38124238e",
+    "name": "Email Campaign Portal Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a6229728-751c-4e2f-b3d7-c688c4d74e29",
+    "name": "Gong call coach: AI-powered sales and success coaching",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fed2e505-f383-4953-8de0-e3d3e42eada5",
+    "name": "Import account signals from Looker to Salesloft",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "e45ab79d-117b-4d62-8a90-ecd0a0de767f",
+    "name": "Increase sales leads from support tickets",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "392c4833-3d79-43ef-8d3b-ba719be2fa02",
+    "name": "Sales CRM Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "04d2b3be-7fd5-40c7-8485-a7bdb068e248",
+    "name": "Sales Support AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "bb2f9322-a8b2-4cac-bb91-9012678b9494",
+    "name": "Share enriched G2 reviews to Productboard",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c2118b61-5234-408d-a855-82752167f375",
+    "name": "Simple Marketplace Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "44665c44-b2c7-4cec-b15f-01e72e9cc6c9",
+    "name": "Smart follow-up emails: From Gong calls to AI followup drafts",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "09e12ab7-f8d3-417b-8e8e-7ca7316b35ea",
+    "name": "Zoom call coach: AI-powered sales and success coaching",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e55b8906-ccfd-44ed-a60e-eb97a745f9c3",
+    "name": "AI Agent Marketing Campaign Tracker",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "56fcfc87-1f0a-4eb3-9efb-27a9407c48eb",
+    "name": "AI Content Idea Generator Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "86538462-3264-415b-8209-4c6dba5578cb",
+    "name": "AI Generated Press Mentions Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "dfc3e9e2-2c26-417d-82bf-e385b26ffea4",
+    "name": "AI Image Generator Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ff60b3ad-41d6-4cf0-982f-17a943f26bec",
+    "name": "AI Logo Generator Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3df6300a-3a0a-4e2f-8094-80d531bb46f0",
+    "name": "AI Voice Generator Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d417f976-f6b3-4326-8d35-bcfb9f735136",
+    "name": "Blog Generator AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a2c48804-a309-4ef8-aa02-9d6d04b626ef",
+    "name": "Brand mention and sentiment tracker: Get insight into when, and how, your brand is mentioned",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "36ed9f16-c015-480d-9c84-4d00defa9a43",
+    "name": "Communication Pros AI Chatbots Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e31e126a-8e4c-4264-9a95-25e041644695",
+    "name": "Contact us form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "54795dbb-27af-4172-b381-a55e01fac854",
+    "name": "Content Repurposing AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fe643cae-01c3-4930-8e0b-0ccc7d3cd2cc",
+    "name": "Employee recognition form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "729a47b1-bbb2-4c04-89a5-64814e2c0110",
+    "name": "Event Schedule Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cae32cab-8f80-46e1-a9f4-5582e63562c8",
+    "name": "Form Template (Google Contacts Integration)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9b1121fd-7dbb-436b-bd72-dd02caa5afd5",
+    "name": "Instagram Content Calendar Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f61a4ae0-aa6c-4eb0-a46a-bc76ec740d93",
+    "name": "Intelligent multi-channel inbound message routing",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d69722d3-b115-470b-bbe1-4d102bdfccf2",
+    "name": "Landing Page Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9d827917-63a7-4d62-8488-d25c83609b52",
+    "name": "Net Promoter Score Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6e910f7c-5502-453f-9ce8-3daca9549096",
+    "name": "Registration form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a84c3357-d9a1-4e05-9b5b-86d91e78c45c",
+    "name": "RSVP form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "46cd24af-6318-4dbd-962a-535f690cb4d9",
+    "name": "Signup form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "850ab301-808a-4050-97ed-740f19163bca",
+    "name": "Simple Website Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "26f6c158-c8b4-4d52-ac28-d4b81f53c686",
+    "name": "Social Media AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "67a2a912-f96f-46ef-9ad2-9c13c03ecc8d",
+    "name": "Social Media Planner Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3d53a576-1b1f-4ea5-95e9-24e96aa3604f",
+    "name": "Testimonial Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4467c980-ef93-4a28-a79f-e1cc03d5a9c3",
+    "name": "UTM Builder Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c3afce0f-cb6c-4d58-b712-d193c8248505",
+    "name": "Writing Assistant AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e4d25d2a-4276-49c6-9133-c7a915707d20",
+    "name": "AI Chat for Customer Service Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "75a4bba5-95cb-4681-a35f-538e6318d2a7",
+    "name": "AI Email Assistant Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d881e3e8-1513-4c59-8dea-d65558816d5d",
+    "name": "Business Coach Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c34ac7cf-bf71-4d1e-badd-331f62fe904a",
+    "name": "Client Portal Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "bc17e91e-7148-40d0-ad00-190481362cfe",
+    "name": "FAQ Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9b753613-0781-4f03-842c-f5256af44c07",
+    "name": "Product Feedback Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "119175b4-9bd3-46b0-8848-ac4fd753e963",
+    "name": "Review Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "18760631-e034-4b63-8a0a-ecba1d505629",
+    "name": "Simple FAQ AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5a08bcba-50b9-462c-83b3-9ed9e850355f",
+    "name": "Smart incident postmortem reviews",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2d96c134-aafa-46da-afed-dae0fc1d8f57",
+    "name": "Survey Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1062fdef-4724-4d5e-8fc5-7995137d4b18",
+    "name": "Triage and auto-respond to Google My Business reviews with Gemini",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "140decf7-6705-4f03-bb78-8a295712367b",
+    "name": "Clapperboard Capture Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1a75f469-8c97-4fa7-8a56-808c3c08ec56",
+    "name": "Email Attachment Saver Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d0e9bfb2-5f1d-4380-b787-5a05d0d0a43a",
+    "name": "Employee Directory Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fb0600cf-3f67-4d03-bb23-55d20a029810",
+    "name": "Employee Onboarding Manager Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "564aa263-35aa-435f-b8b7-f34654fe5690",
+    "name": "Expenses form template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b0690905-ab5a-4847-b655-aa0c69784b9f",
+    "name": "Expenses Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2a2595c2-7f7b-4ad5-97c2-8ddf878ebf7e",
+    "name": "Form Template (Jira Software Cloud Integration)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4f22896d-a2db-4bff-aa71-2aa34014c057",
+    "name": "Inventory Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d7e2356f-4747-4dab-b531-0d58e8c0909f",
+    "name": "Invoice form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b9be0156-4ac5-4f0a-a015-bfaae1358d7a",
+    "name": "Leave Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "033cb709-7da0-490a-90f2-a3a2dafcf80d",
+    "name": "Lookup Table Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "dfd81522-bf2b-4988-9e6a-114536cfa835",
+    "name": "Out-of-Office Plan Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cd54d6c4-ba07-4169-bc5d-11bea3cb181b",
+    "name": "Auto-capture tool & process updates from Slack in a centralized changelog",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6d8caad3-9753-4b4d-8938-912696d5d2d6",
+    "name": "Advanced Video Course Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a8cab659-9883-4181-a6cd-0b0d1ff4f3de",
+    "name": "Applicant Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "dc9cd2c1-3efe-4a86-bac3-86524c32f9c3",
+    "name": "Approval Request Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9a7392a7-37bf-4867-a985-4656ff581ef1",
+    "name": "Auto-post Fathom team meeting notes to Slack",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e4bff9c9-361e-4cd3-878d-13697351d17c",
+    "name": "Capture and record ideas using voicenotes and AI",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "90297e27-b5f4-42f8-a1e4-890f5b9efa58",
+    "name": "Capture and triage engineering requests from Slack in Jira",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "63e13bd3-22ca-4919-978f-457ddf0f9165",
+    "name": "Daily Stand Up Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "952143bb-bbd5-4e99-a3ef-6f2b3b2cd534",
+    "name": "Document Approval Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "28df281b-fed1-4eb4-9a13-b41188948dfd",
+    "name": "Employee availability form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ddde6552-2cfe-4430-b7fa-82e032bab246",
+    "name": "Employee onboarding AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cabd47d4-b9a5-4377-aeca-e063d4062703",
+    "name": "Employee Onboarding Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d69f5ee3-15a1-48fe-b0b3-3f1c85de3724",
+    "name": "Event Planning Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "67089579-ca72-4c25-b4c6-a758a34657dd",
+    "name": "Incomplete Jira Tickets Commenter",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b18d1c42-57ba-4070-ac59-c7ed718b032c",
+    "name": "Incomplete Notion Tasks Commenter",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5f08bce7-351a-4620-b7fe-23f98b489aa7",
+    "name": "Job Board Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "57a8a990-b8bf-4666-8be1-50addc021548",
+    "name": "Meeting Minutes Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "df250b3e-2837-446f-a6bd-cd76a6714939",
+    "name": "New Client Intake Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4dc5b618-0d2e-4f56-a8ed-6106d6737241",
+    "name": "One-on-one meeting coach: AI-powered skill-building for managers",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a523d003-b1c9-42cb-99da-9cbc9f191377",
+    "name": "Project Brief Generator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c4ea03e4-9df7-4df4-a97f-716a38372e95",
+    "name": "Project Intake Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "75ce7e74-7426-43f3-862b-21c83e32ebcb",
+    "name": "Project management stakeholder communications",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8159dfac-8d66-4863-b88d-b85f3454c809",
+    "name": "Project Update Notifier",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8db3e2f2-9a03-47ce-aaa7-e42dbf1debda",
+    "name": "RACI Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "480d3145-601a-4b74-96e0-3aa036166961",
+    "name": "Record team wins",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "eb562c3a-d8b4-4bc8-ab51-288ca5ea0603",
+    "name": "Research Assistant AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6c54041e-3723-433f-a0f2-937c8b43f613",
+    "name": "Simple Online Course Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d61ba9e8-45b7-4f27-a62e-dcfeb1900b72",
+    "name": "Simple Project Plan Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2af5e96e-bae0-41d7-b8df-44de39b93867",
+    "name": "Slack to Asana Campaign Organizer",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "08b4765b-8579-4061-b4b3-2f0dc1c9a992",
+    "name": "Subscription Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "da5d8c59-3fa7-4871-9d28-bc44ec2f63fc",
+    "name": "Team Operations Portal",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b58d4392-b144-4216-b220-613ecab8fe5f",
+    "name": "Time Tracker Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a79490c7-7d62-44a8-9cc9-1489d4c75d4b",
+    "name": "To-Do List AI Chatbot Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5eae9a60-6409-435f-b6a7-81f2e7165b7b",
+    "name": "To-Do List Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f0ab14c2-17b4-4dd5-a588-17b5196f6c70",
+    "name": "Track your action items from Granola notes by creating Asana tasks",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "327d06a5-1fb4-4758-a3d8-a05612b6962e",
+    "name": "User research customer interview signup",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b61a62cf-1222-4ab3-81b1-c7825db2770a",
+    "name": "Web Clipper Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "15383613-5556-49ab-88a6-d3889e092e4a",
+    "name": "Manage FAQs and requests from Slack with AI",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "993a2768-3e55-42b3-9952-7eea4f1a50b0",
+    "name": "Human-in-the-loop AI for Slack FAQs",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "aa65dc63-3f65-4ebc-a471-5abe3220f8f3",
+    "name": "Incident Management Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "daa95c70-bf4b-4189-bfdb-d4b8818e08dd",
+    "name": "Internal legal FAQ AI chatbot",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "0cc08400-e3d3-4691-9329-87c61b4738b0",
+    "name": "IT help desk",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "27a92266-2ed3-4cfb-ba3f-1d53f1536b26",
+    "name": "Proactive VIP support: Get AI summaries of Fullstory sessions in Slack",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f13e9b5f-fe01-4f37-9dcc-3470a0dd3d87",
+    "name": "Candidate risk detector for hiring teams",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "bfd2c136-daef-4569-99c6-e352cf6b7ea1",
+    "name": "Automate HR support with AI helpdesk assistant",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "58c5d851-592c-45ef-8885-1472ab4e94c5",
+    "name": "AI-powered hiring material",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cefa9523-df30-4810-8e8f-158be660b869",
+    "name": "Employee offboarding",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "21d632a0-0542-4149-b5b0-8ae0aef69b34",
+    "name": "CPO welcome message automator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "82f10b71-eb8c-4ea3-b95f-b8123c1f2cb3",
+    "name": "Automatically generate employment verification letters for business travel",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3dec3903-d2c2-4d99-ae48-16045252fa97",
+    "name": "Turn your team's network into high-quality candidates with automated warm intros",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8f460275-4594-48ba-b7ce-d837bc28766b",
+    "name": "Team cohesion: AI Team ReadMe creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "31bc3ac9-c291-41c4-bd62-397706acbeb4",
+    "name": "Employee Attrition Risk Prediction and Mitigation",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "514a5944-42f7-401f-9244-f667b4e24cc6",
+    "name": "Turn Granola meeting notes into polished presentations with Gamma",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1202c478-a053-48a9-844b-a221bc8e8abd",
+    "name": "Keyword-to-Lovable automated blog pipeline",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "230c7774-ab5a-4ff7-b83a-e4b1f0a1537e",
+    "name": "Turn industry podcasts into team insights",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f983048f-73fc-49cd-a840-8719612ee2e1",
+    "name": "Daily market and competitive briefings",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3287937e-0cb1-4cab-b30d-90cbc866adb7",
+    "name": "Slack standups: Automatically run weekly standups in Slack",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "28b6df6f-dca3-4f22-bcf0-f0fece4089f6",
+    "name": "Compliance review: Define risk levels for purchase requests",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "001dd40c-04a7-4040-a495-0e7c6d9d9a0f",
+    "name": "Exec coach: Turn meeting insights into exec growth feedback by Tom\u00e1s, CIO @ Miro",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d5c04c26-73fb-4336-95f6-d80d64821ce8",
+    "name": "Consolidated product feedback",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f6ac07f4-2db2-48b1-826d-c567e9ed8328",
+    "name": "Create GitHub issues from Slack instantly",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d34fa134-95c2-4400-8f78-37906266de9e",
+    "name": "Turn Slack reactions into Google Tasks automatically",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9e14b152-b8ed-4cb6-9ab4-c6e0af4e13e8",
+    "name": "Slack thread summarizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a6fca261-285e-4799-9342-fa8181f9d0d1",
+    "name": "Slack bot, Taylor's Version",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6c15c119-da13-4701-9b40-09b25a5bee43",
+    "name": "Yoda wisdom bot | React, you must. Learn, you will.",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "eabc8498-e971-43b9-a142-cc9d974ac20b",
+    "name": "Turn Zoom transcripts into Gamma presentations",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5695a22f-e429-493b-9f8a-6e635ede6157",
+    "name": "Turn Fireflies.ai transcripts into Gamma presentations automatically",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4abf5297-d270-454e-b561-40b97a401cff",
+    "name": "Interview Evaluation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fb98ed74-5abe-4fba-a0fb-912c4e65cfbb",
+    "name": "Employment Verification Form Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8bc8e713-fa87-4901-aef6-a232b82e531a",
+    "name": "Customer Inquiry Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "180029b9-3ff3-4278-b163-8b91fe9ca8cb",
+    "name": "Email Signup Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d96fffd4-c245-4bdf-b8ed-298a565d7482",
+    "name": "Event Signup Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "906b081a-18af-4b04-93b9-509b42dcf747",
+    "name": "Order Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5f74bd49-d761-44d5-be80-1a9069ec13c8",
+    "name": "Event Booking Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "57bbb9d4-4700-4a56-a26e-cc31fa5235a7",
+    "name": "Equipment Rental Agreement Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d0b20ff0-801c-41fe-95e6-4a67dc9615f8",
+    "name": "Employment Application Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c8352f75-bed0-4e8c-9343-42dbe28455fe",
+    "name": "Job Application Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c8931c32-37f5-43f9-8905-1ffa9a6c3546",
+    "name": "Customer Contact Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "349d1d93-ecd0-42e2-9071-f56bc8c791fa",
+    "name": "Simple Contact Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2e7b1f4d-d756-449a-9d1f-d2c15040799b",
+    "name": "Website Contact Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4d1c9260-e79d-4cf2-92cb-3de35749a8b0",
+    "name": "Employee Emergency Contact Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "88147bde-09d5-40b2-a6ad-4c033d03e785",
+    "name": "Contact Information Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "07728e1d-e29b-456d-a587-f0bd779f663f",
+    "name": "Employee Evaluation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "22d1b468-e7dc-419c-88a5-ae7b335fc649",
+    "name": "Candidate Evaluation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d2ae5bb9-fa29-4e69-8663-fffba5349626",
+    "name": "90 Day Evaluation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "74175819-e4e5-4ba6-822f-3e507242af61",
+    "name": "Event Evaluation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e9a8e4a2-60e3-4144-b5d4-bd9d02cd3bfa",
+    "name": "Employee Self Evaluation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7cdc87c9-5096-42ea-8197-dff2201111c7",
+    "name": "Event Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3975c1ef-ada4-4258-83bf-b84ba92dd8dd",
+    "name": "Time Off Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2c2cd8e4-a7af-4c2a-ad5b-5549b137d9cd",
+    "name": "Appointment Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8db9875e-a011-46d6-852d-2c513716a829",
+    "name": "Absence Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cc89ad88-8c09-4e67-a706-8ce0e0534de7",
+    "name": "Anonymous Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8515d90d-2b16-4286-bffc-a7b91e6bbe0b",
+    "name": "Appraisal Waiver Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "90819692-4573-4c57-abde-852ab65a544b",
+    "name": "Award Nomination Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "720443d6-a415-4bf1-83ef-464dde8dd314",
+    "name": "Blank Estimate Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1422f1eb-3cb6-4ca9-96b1-85130c3c5e2d",
+    "name": "Broker Open House Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4940329b-1c54-49d1-ad90-20de5cc40011",
+    "name": "Business Intake Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "210ee070-c90d-49f9-9320-810841f52a49",
+    "name": "Call Center Agent Coaching Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b2ef7e70-26a8-4420-8d2c-fe88e484631f",
+    "name": "Candidate Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2806bcea-5bd5-47ee-b78a-d84084ee23de",
+    "name": "Catering Order Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "022c5dee-fdb1-40b1-8105-2db9e39d25d5",
+    "name": "Change Order Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "17e7afeb-0c14-4794-9326-7bdb5cf907ca",
+    "name": "Change Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a70e6754-e209-4e13-94ea-dcfe850af317",
+    "name": "Client Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "54674258-37a4-4fbb-84f8-522d51e96171",
+    "name": "Client Questionnaire Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "07525950-8479-405b-85fd-502f3c012c49",
+    "name": "Coaching Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "95e0dc9a-4888-4577-b79f-d79a0a619443",
+    "name": "Coaching Intake Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "34a13240-56eb-4d17-b0f6-47dc5d954f31",
+    "name": "Company Registration Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f66cb5a7-b4e9-477b-b1bb-3c5e97370161",
+    "name": "Conference Registration Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "eea597dd-7023-485c-a7ae-4a10a7d95bb4",
+    "name": "Construction Change Order Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a691e584-6295-4389-9968-43dcf74f17ff",
+    "name": "Construction Estimate Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "50b078a8-5147-4bfc-b9d2-b85741d1d36a",
+    "name": "Consulting Agreement Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9f0ad13c-2e17-4542-8710-542f27bba24b",
+    "name": "Consulting Client Intake Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "dd763e21-4f89-4166-9c71-da7c413201b9",
+    "name": "Consulting Client Referral Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "34677c88-e042-4bed-974d-f986339ce6bf",
+    "name": "Contractor Estimate Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "56a6eac0-ea79-49ff-99db-4d339d372ec6",
+    "name": "Contractor Liability Verification Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3d406365-e6be-42bb-8691-6c845abfc8a2",
+    "name": "Customer Complaint Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "52c0a830-f732-43c5-a045-5a54a8121c82",
+    "name": "Customer Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "88b03dfa-190d-42e2-b93c-f9fba7e8c007",
+    "name": "Customer Registration Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d24634a2-9f1f-44d9-8a38-64636067e028",
+    "name": "Customer Survey Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e26418d4-b975-4986-986e-8dced9646280",
+    "name": "Design Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c8277498-8cf6-48af-a757-ef27905da2d4",
+    "name": "Email Subscription Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "64ce94cc-023c-4d66-9373-0962ac5a56aa",
+    "name": "Employee Coaching Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e194fc1e-7cf0-4557-baa7-8fff3e648572",
+    "name": "Employee Complaint Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fd692ec0-88cd-485d-bc4e-36fd9831f579",
+    "name": "Employee Enrollment Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "54b0db15-3753-4f1c-a03d-3a3d40c21b7e",
+    "name": "Employee Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f1604bde-86f3-46f3-8fe9-4f86a9b9540d",
+    "name": "Employee Incident Report Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8c3a662d-9d6a-4c9a-8e87-2dde95fd3e13",
+    "name": "Employee Referral Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f3d4947d-5389-44a7-bad2-431955efdae3",
+    "name": "Employee Resignation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2e268175-7df7-4855-925b-104a58ae8b50",
+    "name": "Employee Survey Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8fa04dc5-11d8-44ea-961f-31031425727c",
+    "name": "Employer Verification Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3cfefbdc-ce28-4aa9-9adc-ab59d1c7f13f",
+    "name": "Employment Agreement Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cdef9911-12ba-44d3-9284-1db0dcf3ad63",
+    "name": "Employment History Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7a3a3212-c57f-4a15-a545-673e68936ddf",
+    "name": "Employment Reference Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "771f7cac-0770-4a41-a7dc-608bdbac43a1",
+    "name": "Employment Termination Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "48b6ed13-e4f0-4418-ab83-d54d149cccca",
+    "name": "Enrollment Verification Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1619101d-65dd-4a77-894a-3377152e1841",
+    "name": "Equipment Checklist Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c2a7b9eb-d08e-4ec0-ab9d-715b5a43175d",
+    "name": "Estimate Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "827ffaed-7756-49e9-b932-3514bc527152",
+    "name": "Event Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "70d396d7-6517-42d2-b6e2-d3461c860f70",
+    "name": "Event Inquiry Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "aae36a51-ca99-456d-a66f-015b686af2f7",
+    "name": "Event Registration Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "163e560b-7fc7-47cb-8428-be8f65028e54",
+    "name": "Event Reservation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9a492382-37ba-48b1-9962-ca0b9ab7835c",
+    "name": "Event RSVP Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fbb69cc0-b79b-4818-8b08-7a4ea3fb3fff",
+    "name": "Exit Interview Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f477014b-1127-43f7-a2ac-f46a6d90ff62",
+    "name": "Expense Report Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "878dfaee-85fe-4336-a1e7-d391a260fb34",
+    "name": "Food Order Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "440f252c-3999-4eab-9355-12ca2c734608",
+    "name": "Incident Report Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "37a89658-b30f-49d0-bda9-a4aecbbbf82a",
+    "name": "Job Estimate Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e0a66855-6bb1-42a0-9d14-22b10bec5799",
+    "name": "Job Interview Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b9236242-2b4f-4dab-9122-e45f838dc04c",
+    "name": "Lead Generation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "71930f0f-fa3b-4391-b546-cfcc95065343",
+    "name": "Marketing Intake Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5eafefe2-5ef3-44b3-a45b-f4e58358922d",
+    "name": "Marketing Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b4207fce-3257-4aaa-9a1b-9a24ceae29ac",
+    "name": "Meeting Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4b9fef78-f1fb-4d17-b791-e7cd470adabc",
+    "name": "Open House Registration Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7c179412-e2bf-4349-8324-cd33f3f74c45",
+    "name": "Presentation Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6e670174-55a8-4f26-a452-ac775c88f71e",
+    "name": "Product Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "170c62d9-02e4-4243-abc7-4afc2a5256d4",
+    "name": "Project Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c8850415-e9ee-44ce-a68a-4eaf7da651ea",
+    "name": "Proof Of Employment Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "498f000d-45b6-4b4b-841e-35fc3a3de870",
+    "name": "Real Estate Lead Generation Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c78d662c-d732-473b-aacd-b6b9aaa3c255",
+    "name": "Real Estate Referral Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9267ed0e-4eb5-42aa-ab5e-6dbdd98034e6",
+    "name": "Recruiting Intake Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7ff9c5d0-277e-4bc9-a2b9-b4924839d6cc",
+    "name": "Referral Request Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "eb109b70-4d5e-4517-b854-9eddb04f5897",
+    "name": "Sales Coaching Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3882a539-1aec-4eac-8e53-efb934528dbe",
+    "name": "Sales Inquiry Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "94ee7cdb-d7f5-45a5-bff1-0c1f53cce77b",
+    "name": "Security Incident Report Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fb86f454-0f7a-4276-9e8a-a2a8f37eea91",
+    "name": "Simple Feedback Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "776d7776-88c6-483c-865d-a29c129bde58",
+    "name": "Time Slot Booking Form",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e38bf5c8-b71a-4e1d-9b3c-776cc912c94a",
+    "name": "Webinar Registration Form Template",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "be807e0c-ceb7-4275-be50-d959e9f62477",
+    "name": "ABM - Research-based Email Personalizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "157bc9b3-711f-4e97-a991-5c94b5efa673",
+    "name": "Automated Email Reply Drafts Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1d195aab-a5d4-4e58-a1ac-c0bac2281389",
+    "name": "Automated Sales Lead Emails",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "23201fd1-8d55-4095-9670-454a9fca3bc7",
+    "name": "Biz Dev Call Briefer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "28553793-8a70-4eb0-b8fb-c2a3feabe2a1",
+    "name": "Brand Guidelines Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ed201bd5-7498-4f11-8d41-85532ec09124",
+    "name": "Brand Voice Analyzer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "9c219960-87b8-42e9-9e18-25aa20295868",
+    "name": "Call Follow-Up Email Assistant",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "29f46c7c-5d76-4202-be12-aa1c9341a0d8",
+    "name": "Call Follow-Up: Add Proposal Requests to CRM and Send FYI on Slack",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "10449196-2eed-4f42-b7fc-55d4f51bf4f7",
+    "name": "Candidate Ranking System",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a59a4759-bc7f-47cd-8b78-504cdab7748f",
+    "name": "Career Wins Collector",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cc69c471-fda4-4b09-85ab-e18a114221dd",
+    "name": "CatGPT\u2019s Daily Airtable Summary Email",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "086dea0d-9c40-4232-98c3-e736a0cb98dc",
+    "name": "Company Research: AI initiatives tracker",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6ccb9984-beea-432d-86ae-e4e55cd2de57",
+    "name": "Compliance Review Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d612b82c-c37d-4ef4-87d7-ecb95d28b4e0",
+    "name": "Compliance Review Agent (Dropbox knowledge source)",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "34fcc468-19d4-4235-835f-03d6feaf8178",
+    "name": "Create Asana Tasks From Slack Reactions",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "67c7fee7-3d9b-4034-81af-93d894006330",
+    "name": "Criteria-Based Resume Screening",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "08f253a0-511b-4d76-b601-e38974dacb8c",
+    "name": "Cross-functional Sync Agenda Creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c8e6d6d5-0af5-4d92-918d-b54c95b7894d",
+    "name": "Customer Call Summary and PRD Generator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b9499d38-923f-4953-9877-3246e0915c71",
+    "name": "Customer Sentiment Analysis",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b52c68b5-b1e9-41a7-9bb0-cc578db4b475",
+    "name": "Daily 3I/ATLAS News Update",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "09a5093f-9610-4a70-b85d-9b3d7602e271",
+    "name": "Daily AI News Tracker",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6e91db10-558e-43de-82fb-b8929dfa5462",
+    "name": "Daily Expense Summary Email",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5726ae65-7b3d-4f93-ae48-45c07be371b4",
+    "name": "Daily On-Call Rotation Notifier",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d2639b1f-5164-477a-9696-710fb9fdd89f",
+    "name": "Email Event Scheduler",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f36f2874-875d-45ed-aaa0-7ab7ad5d813a",
+    "name": "Employee Satisfaction Analysis",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c0fbd3f6-a1ec-4e43-a4ec-90d72780a9f5",
+    "name": "Enterprise Lead Qualification Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8f3a7844-9aab-4798-9892-6e687809c5ca",
+    "name": "Follow-Up Reaction Notifier",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "934761ae-11d4-4161-a428-ba2488a916a6",
+    "name": "GitHub PR Auto-Reviewer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4f59c0e2-b210-415a-b33d-33ced3a8b30f",
+    "name": "Github Pull Request Slack Notifier",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1c69ed42-72f0-4697-a659-308d9f350a11",
+    "name": "GitLab Merge Request Slack Notifier",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5b1255b4-48b7-4d73-85c9-a682e7ebab39",
+    "name": "Gmail Auto-Replier",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a1f8555f-8bc5-4cbf-8d5b-aede769ba433",
+    "name": "Gmail Event Creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2850d3d1-f990-49de-8d61-f12bb7bbf838",
+    "name": "Google Calendar Zoom Meeting Link Adder",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "43c9d10a-c4c4-4e43-bf1f-dc2fb2d794f8",
+    "name": "Inbox Categorizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e34e0f60-abb2-4c91-90fe-4dc508895108",
+    "name": "Inbox Summarizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1a245453-507e-4f41-a09f-4f061488f460",
+    "name": "Industry Newsletter Generator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "0bec2cbd-1bfd-4293-b4c7-b2701fb1bc33",
+    "name": "IT Helpdesk Slack Responder",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fa45384a-3595-4870-af78-79ece12b299d",
+    "name": "IT Knowledge Base Updater",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "68eab912-0e8e-4d98-b112-68ab5c565b54",
+    "name": "Jira Epic Change Summarizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f2b7daa7-d11d-4455-85a6-19279db925b9",
+    "name": "Lead Background Research",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1a3fade2-bb89-42cb-b324-12a6952d1e4b",
+    "name": "LinkedIn Post Scheduler",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f725e3d2-43dc-4c97-8f0b-fbf015db2300",
+    "name": "LinkedIn Post Scheduler Slack Reactji Trigger",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "df239e39-e874-40b8-945b-619e7e327b9a",
+    "name": "Multi-Article Summarizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f8d454e6-5490-4f08-8171-992c87494d7b",
+    "name": "New Expense Classifier",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3f8a6fa8-3687-4279-8e18-dcc0b172cdad",
+    "name": "News Story Categorizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "90ce8468-d195-4305-8c72-0a9e461db8d8",
+    "name": "Organize Gmail Emails By Required Action",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1710c9bf-7350-462a-9f23-50870dc0aaa8",
+    "name": "Outreach Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "bd894f5b-cbee-4857-b0b4-acf2868ed22d",
+    "name": "PRD Document Creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5f541eda-7cb5-4b3d-8d9d-b5bc2bfbcfe0",
+    "name": "Reddit Trend Content Generator by Kiran Shahid",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "18113e7a-fe07-4c1a-89b5-60aca11017f1",
+    "name": "Research Topic Assistant",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a8b541a0-a802-46e3-8017-805b24913d4a",
+    "name": "Review Slack Mentions & Block Time for Follow-Ups",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "41c5dffd-0fda-4b3f-a912-f5adc55aa6d1",
+    "name": "Sales Call Analysis Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8478da70-fabc-4fc3-b696-411447605e5b",
+    "name": "Sales Email Creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e87eaf93-86a8-4a99-b213-d0c86f639805",
+    "name": "Sales Prep Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4c291391-c614-4072-8875-b56d2c00b798",
+    "name": "Salesforce Contact Enrichment Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "17f41928-ea6d-46a2-ace3-b5757726836f",
+    "name": "Sara McNamara's Sales Pipeline Health Monitor",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6d006599-e000-4857-8fb8-07e21c5b4e8f",
+    "name": "SEO Analysis",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "a196de62-8810-48eb-a32d-7e3f9f499c05",
+    "name": "SEO Analysis Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "529181a9-00d3-44c1-8bea-98ca1a3d520c",
+    "name": "SEO Optimized Article Generator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ed4aa8c3-ad97-4cfa-b3b6-945ff429359f",
+    "name": "Slack Thread Insights Extractor",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7da0b5e2-bfa9-492d-9e3b-3efb5c8775f9",
+    "name": "Slack to Linear Ticket Creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "738b320a-bfa2-4640-8d16-4f536fbc2e53",
+    "name": "Smart Lead Qualifier and Outreach Automator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "7a8552ae-8481-4f47-a81a-e3234eab85c9",
+    "name": "Social Media Posting Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8c01f30d-64e4-4c04-b298-821f445dcf43",
+    "name": "Support Email Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c4a9122f-b60a-4832-8a6d-c42748112c0b",
+    "name": "Travel Booking Organizer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "59f2d217-10aa-48fa-b8d4-8489620cab75",
+    "name": "Typeform Response Scorer",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "148cd3cd-a806-4a95-8b1e-2367bac3d29b",
+    "name": "Typeform to Google Sheets Populator",
+    "source": "Zapier",
+    "estimated_cost": 15.0
+  },
+  {
+    "label": "Template",
+    "id": "8ca757ca-1e2a-470c-a09a-33c963ca3044",
+    "name": "Viral Content Creation Agent",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "89564d84-4ab1-4c4b-b5f7-aa6111e1de4e",
+    "name": "Weekly Calendar Summary & Focus Tips by Claire Vo",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "fca10526-ac03-43cb-b505-d464ad41fdfe",
+    "name": "Weekly Energy Reflection Agent - Eric Nehrlich \"You Have a Choice\"",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "d1d646da-4dda-442b-8716-06e15eb56c8e",
+    "name": "Weekly Instagram Content Task Creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3c3bc1fd-9e72-4e50-a7be-f2db09606f88",
+    "name": "Weekly Project Status Update Email Generator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "21b083e8-932a-4b6f-ae91-6054ebdc207f",
+    "name": "YouTube Shorts Creator",
+    "source": "Zapier",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "532bdfa7-c6a2-4157-96bc-fac83e410c0f",
+    "name": "ing browser...:String) [], RemoteException",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "61f79b97-0603-4960-a735-51adc42e1a5c",
+    "name": "management: Page.goto: Timeout 60000ms exceeded.",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "16cfe112-f999-4ec1-95ad-447d65da38af",
+    "name": "- navigating to",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "eefdf0b1-7d16-434c-a499-a037c54fbf39",
+    "name": "\"https://zapier.com/templates/lead-management\", waiting until",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e7798b04-5006-4aef-a70c-cf6b42e79287",
+    "name": "\"networkidle\"",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ef4b968a-17d7-4d1e-9c2b-fe9231d9612b",
+    "name": "campaigns: Page.goto: Timeout 60000ms exceeded.",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "aaf5d547-1859-4b8b-b7e5-1dda22d12be8",
+    "name": "- navigating to",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "88a34d15-30b0-42ce-ac39-e1fef9607661",
+    "name": "\"https://zapier.com/templates/marketing-campaigns\", waiting",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "3671bb52-571b-4618-930e-ae5b697a7f10",
+    "name": "until \"networkidle\"",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "f61aebbc-35e4-4632-b7bb-80f1423f2c07",
+    "name": "support: Page.goto: Timeout 60000ms exceeded.",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8aac8f07-3093-4dca-8442-cdbd78882840",
+    "name": "- navigating to",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "06833fdc-b681-405f-8935-c0d491d427da",
+    "name": "\"https://zapier.com/templates/customer-support\", waiting until",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "cc731f5e-b0d5-4eee-84c0-bea0d23f7054",
+    "name": "\"networkidle\"",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "37ce54b4-caaa-4fb6-8b18-0384b02949ef",
+    "name": "management: Page.goto: Timeout 60000ms exceeded.",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4e6abf5c-30ab-47b7-a9d9-54cc86650332",
+    "name": "- navigating to",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "680a210f-2e64-4ec2-ae73-e90cb8f88827",
+    "name": "\"https://zapier.com/templates/data-management\", waiting until",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "6b6e3ef8-2e5a-4f5d-93be-b0fb7514d630",
+    "name": "\"networkidle\"",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "b31bbb15-f046-48af-91d7-7118c62b84e7",
+    "name": "management: Page.goto: Timeout 60000ms exceeded.",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5bd3fc4c-e0b5-4bef-a4db-b0616085996c",
+    "name": "- navigating to",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "24298381-4cc6-412a-9921-5cd4003da9ac",
+    "name": "\"https://zapier.com/templates/project-management\", waiting until",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "1b102d5e-93b6-412a-9f74-a80a6369cd70",
+    "name": "\"networkidle\"",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "ce060ba8-9ffd-4631-a7c2-e30e926c2402",
+    "name": "Scraped 358 templates from Zapier successfully",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "2760739e-0bd1-4442-9478-62584efec752",
+    "name": "ing templates.:String) [], RemoteException",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "eda41638-82df-42d3-a8cd-62dc06fb2093",
+    "name": "Operations starter kit",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "4e2bf47d-a163-4544-a54b-7286ca0479ba",
+    "name": "A collection of templates for RevOps pros. From Marketing to",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "48675595-3b97-41d2-a52f-6be7bdc47ba2",
+    "name": "deal close, we've got options for you.",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "14f95732-026d-405c-8814-49ff5020d9dc",
+    "name": "Resources starter kit",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e2b1b0a3-55b7-4e35-915b-77c8eea7b6e7",
+    "name": "A curated collection of HR templates. From recruiting to",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "976d4766-50ca-443c-b090-48b1677fc3cd",
+    "name": "offboarding, you'll find pre-built workflows so you can can get",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "258f9501-db6b-4ce1-aff6-79bac4385c30",
+    "name": "started in moments.",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "312be225-6e43-41ac-ae1c-09694fc1bf77",
+    "name": "starter kit",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c06b7ffb-c50e-4f3c-85e0-0510f5833b1e",
+    "name": "A collection of templates, hand-picked by Zapier's marketing",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "c388c2cb-403d-4a08-b1ed-e677eafbfac2",
+    "name": "team. By marketers, for marketers.",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "45112076-504e-4baf-92de-d2f5a49ddd5f",
+    "name": "A collection of AI templates, hand-picked for you.",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "8e1cc2de-a111-4233-89ac-50bacb53524a",
+    "name": "Zapier Form Template Library offers customizable, professionally",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "5f740e05-255f-43c8-94a1-96fe41258412",
+    "name": "designed templates for surveys, registrations, feedback, and",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e664f436-dd2d-49cd-89bd-99f22d0d409b",
+    "name": "more, allowing you to create polished, on-brand forms in",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "acd723e3-3656-4f47-9f6a-76dd306f1ba0",
+    "name": "minutes. No code needed.",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "Template",
+    "id": "e2d3fdab-ea85-4bbd-9341-6975a6610776",
+    "name": "Scraped 705 templates from Zapier successfully",
+    "source": "Log Discovery",
+    "estimated_cost": 10.0
+  },
+  {
+    "label": "App",
+    "id": "slack",
+    "name": "Slack"
+  },
+  {
+    "label": "App",
+    "id": "hubspot",
+    "name": "HubSpot"
+  },
+  {
+    "label": "App",
+    "id": "activecampaign",
+    "name": "ActiveCampaign"
+  },
+  {
+    "label": "App",
+    "id": "jira",
+    "name": "Jira"
+  },
+  {
+    "label": "App",
+    "id": "airtable",
+    "name": "Airtable"
+  },
+  {
+    "label": "App",
+    "id": "dropbox",
+    "name": "Dropbox"
+  },
+  {
+    "label": "App",
+    "id": "salesloft",
+    "name": "Salesloft"
+  },
+  {
+    "label": "App",
+    "id": "databricks",
+    "name": "Databricks"
+  },
+  {
+    "label": "App",
+    "id": "asana",
+    "name": "Asana"
+  },
+  {
+    "label": "App",
+    "id": "facebook",
+    "name": "Facebook"
+  },
+  {
+    "label": "App",
+    "id": "discord",
+    "name": "Discord"
+  },
+  {
+    "label": "App",
+    "id": "pipedrive",
+    "name": "Pipedrive"
+  },
+  {
+    "label": "App",
+    "id": "telegram",
+    "name": "Telegram"
+  },
+  {
+    "label": "App",
+    "id": "whatsapp",
+    "name": "WhatsApp"
+  },
+  {
+    "label": "App",
+    "id": "zoho-crm",
+    "name": "Zoho CRM"
+  },
+  {
+    "label": "App",
+    "id": "gmail",
+    "name": "Gmail"
+  },
+  {
+    "label": "App",
+    "id": "google-calendar",
+    "name": "Google Calendar"
+  },
+  {
+    "label": "App",
+    "id": "zoom",
+    "name": "Zoom"
+  },
+  {
+    "label": "App",
+    "id": "looker",
+    "name": "Looker"
+  },
+  {
+    "label": "App",
+    "id": "notion",
+    "name": "Notion"
+  },
+  {
+    "label": "App",
+    "id": "instagram",
+    "name": "Instagram"
+  },
+  {
+    "label": "App",
+    "id": "linkedin",
+    "name": "LinkedIn"
+  },
+  {
+    "label": "App",
+    "id": "reddit",
+    "name": "Reddit"
+  },
+  {
+    "label": "App",
+    "id": "salesforce",
+    "name": "Salesforce"
+  },
+  {
+    "label": "App",
+    "id": "snowflake",
+    "name": "Snowflake"
+  },
+  {
+    "label": "App",
+    "id": "typeform",
+    "name": "Typeform"
+  },
+  {
+    "label": "App",
+    "id": "google-sheets",
+    "name": "Google Sheets"
+  },
+  {
+    "label": "App",
+    "id": "youtube",
+    "name": "YouTube"
+  }
+]

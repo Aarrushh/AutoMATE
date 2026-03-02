@@ -202,7 +202,13 @@ class ZapierScraper:
         except Exception as e:
             self.log_error(f"Failed to save JSON: {e}")
 
-if __name__ == "__main__":
+async def run_scraper():
+    """
+    Helper function to run the scraper.
+    """
     scraper = ZapierScraper()
-    asyncio.run(scraper.scrape())
-    print(f"Scraped {scraper.total_scraped} templates from Zapier successfully")
+    await scraper.scrape()
+    logger.info(f"Scraped {scraper.total_scraped} templates from Zapier successfully")
+
+if __name__ == "__main__":
+    asyncio.run(run_scraper())

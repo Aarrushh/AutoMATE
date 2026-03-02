@@ -4,3 +4,7 @@ node_modules/
 *.log
 .env
 .idx/
+data/processed_templates.json
+data/graph_nodes.json
+data/graph_edges.json
+backend/vector_db/
