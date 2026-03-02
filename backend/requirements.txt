@@ -1,2 +1,9 @@
 fastapi
 uvicorn
+pydantic
+sentence-transformers
+faiss-cpu
+pandas
+python-slugify
+playwright
+aiofiles

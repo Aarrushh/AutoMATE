@@ -1,0 +1,737 @@
+[
+  {
+    "source": "6885d9a9-8350-4132-a0e3-05ef0801a041",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "0c69de1a-b997-4616-ad14-bed723f6e3ed",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "0c69de1a-b997-4616-ad14-bed723f6e3ed",
+    "target": "hubspot",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "ebbaff8e-8998-46fe-a9b9-6577e2c0ca0e",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "02379e33-99bf-41c4-ac71-9879579e75fb",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "268b9194-3f36-4472-a25a-fb583b4e8848",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "3a2d359a-d4cf-4d36-ae92-8eff217ce5d1",
+    "target": "activecampaign",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "57c652c4-3936-459e-96bd-0ad413244cd4",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "93e2209a-a250-4b55-9c87-d23055e76441",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "e12738db-5869-4eaf-9ac6-a25a8c3a2746",
+    "target": "jira",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "42b4ca93-4c50-4a4f-9471-df470d1ca84c",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "97c0572a-7e41-402c-92d6-e8eae0e1267f",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "97c0572a-7e41-402c-92d6-e8eae0e1267f",
+    "target": "jira",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "b803c72f-7dfb-46da-a15c-4816dcbbc049",
+    "target": "airtable",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "873160a4-cb87-4516-8c35-db698f224412",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "873160a4-cb87-4516-8c35-db698f224412",
+    "target": "hubspot",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "12f24d1b-7745-4545-a3d5-3916ce4e1bd0",
+    "target": "dropbox",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "68709ea2-8c31-4005-93f7-1f679a084712",
+    "target": "salesloft",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "68709ea2-8c31-4005-93f7-1f679a084712",
+    "target": "databricks",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "368dad45-58dc-4d47-80af-e3c4c6c689e9",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "368dad45-58dc-4d47-80af-e3c4c6c689e9",
+    "target": "asana",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "3d4e781c-b4ac-4ffa-9aa6-795da30b1be4",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "3d4e781c-b4ac-4ffa-9aa6-795da30b1be4",
+    "target": "asana",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "beba605e-69f5-47ca-abc2-d09d7f0a666b",
+    "target": "asana",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "fd8225c4-1720-4a69-b15d-1aabe8a9cae5",
+    "target": "facebook",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "22768cac-3ff5-461e-9272-6c1eb6a1d408",
+    "target": "facebook",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "a501d527-1533-43e4-a416-cbf7e76fcd5e",
+    "target": "facebook",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "64e8bf04-da15-4f1d-92a6-a7d181bd679e",
+    "target": "discord",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "953b4fd3-0dfd-43e6-afd0-8b58425883f1",
+    "target": "jira",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "af4af53e-042d-4e40-878c-a25437f2772b",
+    "target": "pipedrive",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "48614e0f-795a-4da5-8b63-a994b2bd9a6e",
+    "target": "telegram",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "2006de97-4559-4b63-95a3-ad93a85df073",
+    "target": "whatsapp",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "cc649a29-fdfe-4053-ad9c-7982f60168c2",
+    "target": "zoho-crm",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "632ed732-af84-4d37-96a3-89e58f66e2f3",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "3fd9eb4c-bc38-4d86-9be1-9fa645a25cbc",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "412b3b03-e40c-4097-8a15-6f4ab99520db",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "75f6a6da-354e-449b-bc04-6301a90bcaed",
+    "target": "gmail",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "f3a407c6-74bd-4bf5-ba2a-a25fe168c6a7",
+    "target": "gmail",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "8e2e138c-d714-4fbc-90c6-e417330d15c6",
+    "target": "google-calendar",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "8e2e138c-d714-4fbc-90c6-e417330d15c6",
+    "target": "zoom",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "364d4443-2bcf-473f-81d8-7427eed4580d",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "f11ce300-24c1-4eba-96d9-fcf98818f6ec",
+    "target": "salesloft",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "f11ce300-24c1-4eba-96d9-fcf98818f6ec",
+    "target": "looker",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "cf5aa742-e8ad-44a0-b3cc-ff9acc65dc8e",
+    "target": "jira",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "8d93ad26-e928-4cf7-a80e-47ef10c92ee6",
+    "target": "notion",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "16e23536-cd24-494c-94f5-561d231546ec",
+    "target": "instagram",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "aed9658d-7c9b-42c0-af1d-b243fa710cea",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "5851bc03-c4a5-4621-9eb2-7437150cb6ea",
+    "target": "jira",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "5958b22b-c722-4766-bff9-609abf3c5a0e",
+    "target": "linkedin",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "55d1a667-ddab-4ebe-8ede-fc02cc515bc4",
+    "target": "linkedin",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "4b71444c-c98c-4a55-91c3-0e476b724f6c",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "4b71444c-c98c-4a55-91c3-0e476b724f6c",
+    "target": "linkedin",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "befcfa76-f35c-40c6-9253-59d280a3da71",
+    "target": "gmail",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "c1b9c538-a02b-4c14-8a6c-9d6ef9d9f219",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "2ca9e090-ed25-48ee-9b4e-9dbe7a523b23",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "2ca9e090-ed25-48ee-9b4e-9dbe7a523b23",
+    "target": "asana",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "3e1d7c8b-e631-4913-8cf7-53b7780be8e8",
+    "target": "reddit",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "938ed151-d394-493e-b003-eb34fe283c0a",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "ca5e4789-ff4e-4fe3-a46a-873f5dadd3e5",
+    "target": "salesforce",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "cb44814a-f1e2-4f1f-b5fc-1b7e84661267",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "e2263dd6-e3f9-4ba7-9f78-d9a480e50a37",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "8a182626-b6b1-4626-b79f-589071ae3173",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "162702a6-65d3-44bb-8fbc-b1ff178abef9",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "7e160235-1fd6-43bb-a5ab-45f4fcdd3c3e",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "7e160235-1fd6-43bb-a5ab-45f4fcdd3c3e",
+    "target": "asana",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "873e8d01-7693-406b-a44f-746f0294e6f6",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "1572322d-a662-4953-94b5-e454dc395f01",
+    "target": "salesloft",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "1572322d-a662-4953-94b5-e454dc395f01",
+    "target": "snowflake",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "71186c80-d648-46f7-9b38-38c13bbdbf3e",
+    "target": "asana",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "5fbf28f0-3bb2-4055-8649-966c7991c360",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "5fbf28f0-3bb2-4055-8649-966c7991c360",
+    "target": "notion",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "294eb9a0-9013-4797-ae81-61012bce0325",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "c2fb3e83-239d-427d-8c33-8c4bebcd3c61",
+    "target": "zoom",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "9f349994-84f1-4d0d-bb4e-162282f77fde",
+    "target": "typeform",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "5ab216b8-00a9-4bb3-922a-a9d98d5cd4bb",
+    "target": "google-sheets",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "5ab216b8-00a9-4bb3-922a-a9d98d5cd4bb",
+    "target": "typeform",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "6c561c25-285a-404c-a5b8-da974921d879",
+    "target": "instagram",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "1f810295-5509-433f-8bbb-a6b2f9931439",
+    "target": "youtube",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "70bf6305-01d1-4a6e-854f-2794f3d9bea7",
+    "target": "zoom",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "89b04c53-f32b-449e-a288-7ed72aa96c48",
+    "target": "activecampaign",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "87eb1643-f8cc-4c99-b476-0de3a427955b",
+    "target": "facebook",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "b75917dc-2818-4355-ab02-e07f02f207cd",
+    "target": "facebook",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "1378a770-a9f4-44fc-acbf-c506ff2566bf",
+    "target": "facebook",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "6f61ddbd-6d1d-4f5d-b324-bd592a90fa5c",
+    "target": "discord",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "b5c7d8f7-7dc5-4be8-b909-560fc1be8c68",
+    "target": "pipedrive",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "8b050a99-a2c9-4947-83c5-7e73f57e7584",
+    "target": "telegram",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "3dd01b96-0f20-4b54-85db-710eee8215a2",
+    "target": "whatsapp",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "b3c9549d-41e5-4deb-b023-e54995842e49",
+    "target": "zoho-crm",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "f6fd8fbe-727b-44e9-87cf-34706c225464",
+    "target": "linkedin",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "7f23d15b-a9b6-4bb8-a31d-46f38edd0b40",
+    "target": "snowflake",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "7f23d15b-a9b6-4bb8-a31d-46f38edd0b40",
+    "target": "salesloft",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "d699f89a-3308-48d3-bc7b-6b629f766c48",
+    "target": "hubspot",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "d699f89a-3308-48d3-bc7b-6b629f766c48",
+    "target": "slack",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "604ab1d5-7854-4b4d-ac1d-4e82fed98cfd",
+    "target": "hubspot",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "604ab1d5-7854-4b4d-ac1d-4e82fed98cfd",
+    "target": "slack",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "747aee96-d36a-4a08-8616-f9655b2c0406",
+    "target": "salesloft",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "747aee96-d36a-4a08-8616-f9655b2c0406",
+    "target": "databricks",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "fed2e505-f383-4953-8de0-e3d3e42eada5",
+    "target": "salesloft",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "fed2e505-f383-4953-8de0-e3d3e42eada5",
+    "target": "looker",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "09e12ab7-f8d3-417b-8e8e-7ca7316b35ea",
+    "target": "zoom",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "9b1121fd-7dbb-436b-bd72-dd02caa5afd5",
+    "target": "instagram",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "2a2595c2-7f7b-4ad5-97c2-8ddf878ebf7e",
+    "target": "jira",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "cd54d6c4-ba07-4169-bc5d-11bea3cb181b",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "9a7392a7-37bf-4867-a985-4656ff581ef1",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "90297e27-b5f4-42f8-a1e4-890f5b9efa58",
+    "target": "jira",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "90297e27-b5f4-42f8-a1e4-890f5b9efa58",
+    "target": "slack",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "67089579-ca72-4c25-b4c6-a758a34657dd",
+    "target": "jira",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "b18d1c42-57ba-4070-ac59-c7ed718b032c",
+    "target": "notion",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "2af5e96e-bae0-41d7-b8df-44de39b93867",
+    "target": "asana",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "2af5e96e-bae0-41d7-b8df-44de39b93867",
+    "target": "slack",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "f0ab14c2-17b4-4dd5-a588-17b5196f6c70",
+    "target": "asana",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "15383613-5556-49ab-88a6-d3889e092e4a",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "993a2768-3e55-42b3-9952-7eea4f1a50b0",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "27a92266-2ed3-4cfb-ba3f-1d53f1536b26",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "3287937e-0cb1-4cab-b30d-90cbc866adb7",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "f6ac07f4-2db2-48b1-826d-c567e9ed8328",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "d34fa134-95c2-4400-8f78-37906266de9e",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "9e14b152-b8ed-4cb6-9ab4-c6e0af4e13e8",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "a6fca261-285e-4799-9342-fa8181f9d0d1",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "eabc8498-e971-43b9-a142-cc9d974ac20b",
+    "target": "zoom",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "29f46c7c-5d76-4202-be12-aa1c9341a0d8",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "cc69c471-fda4-4b09-85ab-e18a114221dd",
+    "target": "airtable",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "d612b82c-c37d-4ef4-87d7-ecb95d28b4e0",
+    "target": "dropbox",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "34fcc468-19d4-4235-835f-03d6feaf8178",
+    "target": "asana",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "34fcc468-19d4-4235-835f-03d6feaf8178",
+    "target": "slack",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "4f59c0e2-b210-415a-b33d-33ced3a8b30f",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "1c69ed42-72f0-4697-a659-308d9f350a11",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "5b1255b4-48b7-4d73-85c9-a682e7ebab39",
+    "target": "gmail",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "a1f8555f-8bc5-4cbf-8d5b-aede769ba433",
+    "target": "gmail",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "2850d3d1-f990-49de-8d61-f12bb7bbf838",
+    "target": "zoom",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "2850d3d1-f990-49de-8d61-f12bb7bbf838",
+    "target": "google-calendar",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "0bec2cbd-1bfd-4293-b4c7-b2701fb1bc33",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "68eab912-0e8e-4d98-b112-68ab5c565b54",
+    "target": "jira",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "1a3fade2-bb89-42cb-b324-12a6952d1e4b",
+    "target": "linkedin",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "f725e3d2-43dc-4c97-8f0b-fbf015db2300",
+    "target": "linkedin",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "f725e3d2-43dc-4c97-8f0b-fbf015db2300",
+    "target": "slack",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "90ce8468-d195-4305-8c72-0a9e461db8d8",
+    "target": "gmail",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "5f541eda-7cb5-4b3d-8d9d-b5bc2bfbcfe0",
+    "target": "reddit",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "a8b541a0-a802-46e3-8017-805b24913d4a",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "4c291391-c614-4072-8875-b56d2c00b798",
+    "target": "salesforce",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "ed4aa8c3-ad97-4cfa-b3b6-945ff429359f",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "7da0b5e2-bfa9-492d-9e3b-3efb5c8775f9",
+    "target": "slack",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "59f2d217-10aa-48fa-b8d4-8489620cab75",
+    "target": "typeform",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "148cd3cd-a806-4a95-8b1e-2367bac3d29b",
+    "target": "typeform",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "148cd3cd-a806-4a95-8b1e-2367bac3d29b",
+    "target": "google-sheets",
+    "type": "USES_ACTION"
+  },
+  {
+    "source": "d1d646da-4dda-442b-8716-06e15eb56c8e",
+    "target": "instagram",
+    "type": "HAS_TRIGGER"
+  },
+  {
+    "source": "21b083e8-932a-4b6f-ae91-6054ebdc207f",
+    "target": "youtube",
+    "type": "HAS_TRIGGER"
+  }
+]
