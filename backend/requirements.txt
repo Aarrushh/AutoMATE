@@ -1,2 +1,9 @@
-fastapi
-uvicorn
+aiohttp
+asyncio
+pydantic
+sentence-transformers
+chromadb
+playwright
+beautifulsoup4
+pytest
+pytest-asyncio

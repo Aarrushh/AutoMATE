@@ -1,0 +1,3726 @@
+[
+  {
+    "id": "86d91d4b-74e5-47c6-81ab-f323456496ec",
+    "source_platform": "zapier",
+    "name": "Unified lead capture",
+    "description": "Unified lead capture",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/unified-lead-capture",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "54e3ff32-1c79-4966-aa72-c59caf95fb75",
+    "source_platform": "zapier",
+    "name": "Manage FAQs and requests from Slack with AI",
+    "description": "Manage FAQs and requests from Slack with AI",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/helpdesk-automation-template-slack-clickup",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "94be50f6-19cb-4f92-b93e-ab76cb54e540",
+    "source_platform": "zapier",
+    "name": "IT help desk",
+    "description": "IT help desk",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/it-helpdesk",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f0063507-0105-483b-bc63-253aa669456f",
+    "source_platform": "zapier",
+    "name": "Deal desk: Manage HubSpot quote approvals in Slack",
+    "description": "Deal desk: Manage HubSpot quote approvals in Slack",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack",
+      "HubSpot"
+    ],
+    "url": "https://zapier.com/templates/details/deal-desk-manage-hubspot-quote-approvals-slack",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "2e8d33cc-a7d5-4d80-ae37-9d735a061b20",
+    "source_platform": "zapier",
+    "name": "Auto-capture tool & process updates from Slack in a centralized changelog",
+    "description": "Auto-capture tool & process updates from Slack in a centralized changelog",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/slack-changelog-automation",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "220e70f7-5092-4070-8969-885b366defde",
+    "source_platform": "zapier",
+    "name": "Gong call coach: AI-powered sales and success coaching",
+    "description": "Gong call coach: AI-powered sales and success coaching",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/call-coach-ai-sales-success-coaching",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "ab36969c-ed7e-42dd-85b1-78556a22c831",
+    "source_platform": "zapier",
+    "name": "Increase sales leads from support tickets",
+    "description": "Increase sales leads from support tickets",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/identify-sales-opportunities-support-tickets",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "23b0e5ae-ff06-467b-aa43-c40487b05394",
+    "source_platform": "zapier",
+    "name": "AI Chat for Lead Generation Template",
+    "description": "AI Chat for Lead Generation Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-chat-for-lead-generation",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "a9ba74fd-9d2c-496c-9ee5-4fbaeaeff07d",
+    "source_platform": "zapier",
+    "name": "AI Email Assistant Template",
+    "description": "AI Email Assistant Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-email-assistant",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "61d10dd6-31b6-4a1b-87ff-52d3095d89d6",
+    "source_platform": "zapier",
+    "name": "Applicant Tracker Template",
+    "description": "Applicant Tracker Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/applicant-tracker",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "fb6b51c3-ef9e-4239-a53c-2bce8205f7dd",
+    "source_platform": "zapier",
+    "name": "Automate offline conversion tracking across platforms",
+    "description": "Automate offline conversion tracking across platforms",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/offline-conversion-tracking-automation-facebook-tiktok-linkedin",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "1170889d-b556-40b8-83c0-a4edb0adfc83",
+    "source_platform": "zapier",
+    "name": "Automatic call prep",
+    "description": "Automatic call prep",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/call-prep-guide",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "9971e6f6-b873-4b51-ab4a-a6afd8c8187b",
+    "source_platform": "zapier",
+    "name": "Brand mention and sentiment tracker: Get insight into when, and how, your brand is mentioned",
+    "description": "Brand mention and sentiment tracker: Get insight into when, and how, your brand is mentioned",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automate-brand-monitoring-news-mentions-tracker",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "b671eda6-6b58-4d4d-85f3-e362209a0dca",
+    "source_platform": "zapier",
+    "name": "Contact List Template",
+    "description": "Contact List Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/contact-list",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "faf59b69-6fa0-45de-be60-18242c1ae7d6",
+    "source_platform": "zapier",
+    "name": "Create GitHub issues from Slack instantly",
+    "description": "Create GitHub issues from Slack instantly",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/automate-github-issues-from-slack",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "4bf001f9-44a4-45b3-9f2c-373e2789776e",
+    "source_platform": "zapier",
+    "name": "Exec coach: Turn meeting insights into exec growth feedback by Tom\u00e1s, CIO @ Miro",
+    "description": "Exec coach: Turn meeting insights into exec growth feedback by Tom\u00e1s, CIO @ Miro",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-leadership-coaching-google-meet-feedback-automation",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "6cc96623-3265-42e2-a1b9-3266da634712",
+    "source_platform": "zapier",
+    "name": "Expenses form template",
+    "description": "Expenses form template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/expenses-form-hub",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "1cc0989d-8b04-40db-86f2-83ee8ef463bf",
+    "source_platform": "zapier",
+    "name": "Lead Capture Template",
+    "description": "Lead Capture Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/lead-capture",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "432ee9e9-3b87-415e-878b-9be11f7f3536",
+    "source_platform": "zapier",
+    "name": "Outbound assistant: Target account engagement alerts and outreach kit",
+    "description": "Outbound assistant: Target account engagement alerts and outreach kit",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/target-account-engagement-alert-rep-outreach-kit",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "ddac561d-3a18-4ef5-a5fa-4362fedab3cd",
+    "source_platform": "zapier",
+    "name": "Sales CRM Template",
+    "description": "Sales CRM Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/sales-crm",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "5f7b48c6-f8b9-4b36-99e6-feb56e595987",
+    "source_platform": "zapier",
+    "name": "Share enriched G2 reviews to Productboard",
+    "description": "Share enriched G2 reviews to Productboard",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/g2-reviews-product-team",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "383261b0-08db-4e00-ac99-02926daa32a2",
+    "source_platform": "zapier",
+    "name": "Slack standups: Automatically run weekly standups in Slack",
+    "description": "Slack standups: Automatically run weekly standups in Slack",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/async-weekly-standup-automation-slack",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "6cdaa1db-30c7-4380-a30b-f76dbb60c73a",
+    "source_platform": "zapier",
+    "name": "Video form",
+    "description": "Video form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/video-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "6561153d-cdf6-42d8-b8b4-ee50f2b43384",
+    "source_platform": "zapier",
+    "name": "90 Day Evaluation Form",
+    "description": "90 Day Evaluation Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/90-day-evaluation-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "98e68edb-23a0-479e-b6c0-c9ee403ab7dd",
+    "source_platform": "zapier",
+    "name": "ABM - Research-based Email Personalizer",
+    "description": "ABM - Research-based Email Personalizer",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/abm-research-based-email-personalizer-0d4e3b",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "007b4968-fa1f-4048-a93b-031ba911cf1d",
+    "source_platform": "zapier",
+    "name": "Absence Request Form",
+    "description": "Absence Request Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/absence-request-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "b84bce80-c75e-4a77-815e-89cad48c6d3c",
+    "source_platform": "zapier",
+    "name": "ActiveCampaign Lead Enrichment Agent",
+    "description": "ActiveCampaign Lead Enrichment Agent",
+    "trigger_app": null,
+    "action_apps": [
+      "ActiveCampaign"
+    ],
+    "url": "https://zapier.com/templates/details/activecampaign-lead-enrichment-agent",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "cb50b4cd-f2aa-45fa-8699-fa5d9268c265",
+    "source_platform": "zapier",
+    "name": "Advanced Video Course Template",
+    "description": "Advanced Video Course Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/advanced-video-course",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "1f49316e-81de-42b7-be4a-e35b857cc50c",
+    "source_platform": "zapier",
+    "name": "AI Agent Marketing Campaign Tracker",
+    "description": "AI Agent Marketing Campaign Tracker",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-agent-marketing-campaign-tracker",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "a8f1d9de-9f75-4b93-a347-e15c0b86163d",
+    "source_platform": "zapier",
+    "name": "AI Chat for Business Template",
+    "description": "AI Chat for Business Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-chat-for-business",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c0dd4167-3e57-41ae-bc17-4b1055adaf1a",
+    "source_platform": "zapier",
+    "name": "AI Chat for Customer Service Template",
+    "description": "AI Chat for Customer Service Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-chat-for-customer-service",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "38c22d4b-9f6f-47e6-b9a2-aab446764cd4",
+    "source_platform": "zapier",
+    "name": "AI Chatbot for Ecommerce Template",
+    "description": "AI Chatbot for Ecommerce Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ecommerce-ai-chatbot",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "9decfb58-281a-4eb6-ae08-8628f21f58cc",
+    "source_platform": "zapier",
+    "name": "AI Content Idea Generator Template",
+    "description": "AI Content Idea Generator Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-content-idea-generator",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "ef3562ff-56be-4140-a354-212951f14e3d",
+    "source_platform": "zapier",
+    "name": "AI Form Template",
+    "description": "AI Form Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "b00f6e26-e567-4267-ad79-136951ee794b",
+    "source_platform": "zapier",
+    "name": "AI Generated Press Mentions Template",
+    "description": "AI Generated Press Mentions Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-generated-press-mentions",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "fe38e223-cfe8-4816-a5f3-29386c405adc",
+    "source_platform": "zapier",
+    "name": "AI Image Generator Template",
+    "description": "AI Image Generator Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-image-generator",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "5102995c-6b82-4905-bd40-e5bee2b75894",
+    "source_platform": "zapier",
+    "name": "AI Logo Generator Template",
+    "description": "AI Logo Generator Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-logo-generator",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "055fc4c2-462e-4296-8fb6-a940134ddeea",
+    "source_platform": "zapier",
+    "name": "AI Voice Generator Template",
+    "description": "AI Voice Generator Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-voice-generator",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "826140a8-b3f7-46d6-b3d8-08920261db7a",
+    "source_platform": "zapier",
+    "name": "AI-powered hiring material",
+    "description": "AI-powered hiring material",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-powered-hiring-material",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "bd5ad0e4-5c06-4ce6-9def-d88165128224",
+    "source_platform": "zapier",
+    "name": "Anonymous Feedback Form",
+    "description": "Anonymous Feedback Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/anonymous-feedback-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d93a0f51-134b-4040-ad83-b5fed5aa4fa8",
+    "source_platform": "zapier",
+    "name": "Appointment Request Form",
+    "description": "Appointment Request Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/appointment-request-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "3ab1748b-a892-4ebd-af77-69f41ccb3151",
+    "source_platform": "zapier",
+    "name": "Appraisal Waiver Form",
+    "description": "Appraisal Waiver Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/appraisal-waiver-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "67847ef2-167e-4312-be7b-f111a228cf18",
+    "source_platform": "zapier",
+    "name": "Approval Request Template",
+    "description": "Approval Request Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/approval-request",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "321a9710-b81a-4f28-a2a8-5b856648ea06",
+    "source_platform": "zapier",
+    "name": "Auto-post Fathom team meeting notes to Slack",
+    "description": "Auto-post Fathom team meeting notes to Slack",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/team-meeting-notes-automation-fathom-ai-slack",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "2d1e8a8b-69e1-4be3-9710-6fcc2d568912",
+    "source_platform": "zapier",
+    "name": "Auto-post recurring team meeting notes from Granola to Slack channels",
+    "description": "Auto-post recurring team meeting notes from Granola to Slack channels",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/automate-granola-meeting-notes-to-slack-ai-summaries",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "3032a962-890a-4b88-8845-b70f7ae3b6f2",
+    "source_platform": "zapier",
+    "name": "Autogenerate release notes in GitLab when Jira epics are closed",
+    "description": "Autogenerate release notes in GitLab when Jira epics are closed",
+    "trigger_app": null,
+    "action_apps": [
+      "Jira"
+    ],
+    "url": "https://zapier.com/templates/details/automate-release-notes-jira-gitlab",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "7e23ffa1-52e2-4e21-a16c-2da74dcefbab",
+    "source_platform": "zapier",
+    "name": "Automate employment verification letters",
+    "description": "Automate employment verification letters",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automate-employment-verification-letters",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "ec10ae1a-c05f-4c4b-b3a8-796091ccc4fd",
+    "source_platform": "zapier",
+    "name": "Automate HR support with AI helpdesk assistant",
+    "description": "Automate HR support with AI helpdesk assistant",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automate-hr-support-ai-helpdesk-assistant",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "efcb6493-6121-44cf-b785-5fee1dd0452e",
+    "source_platform": "zapier",
+    "name": "Automated Email Reply Drafts Agent",
+    "description": "Automated Email Reply Drafts Agent",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automated-email-reply-drafts-agent-76a3e6",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "54e5d15a-7296-4e79-a60b-4297f33102b9",
+    "source_platform": "zapier",
+    "name": "Automated Lead Capture and Follow-Up",
+    "description": "Automated Lead Capture and Follow-Up",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automated-lead-capture-and-follow-up-74fdf7",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c6466aaf-385a-4580-a651-4602c9ee06cf",
+    "source_platform": "zapier",
+    "name": "Automated Sales Lead Emails",
+    "description": "Automated Sales Lead Emails",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automated-sales-lead-emails",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f0c2f845-e9c8-4c33-97da-7a8223545969",
+    "source_platform": "zapier",
+    "name": "Automatically generate employment verification letters for business travel",
+    "description": "Automatically generate employment verification letters for business travel",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employment-verification-letter-automation-business-travel",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "4b607cbf-dc51-415e-8eb4-765543344f28",
+    "source_platform": "zapier",
+    "name": "Award Nomination Form",
+    "description": "Award Nomination Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/award-nomination-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "0f69eca4-2de9-4fbb-8643-e860fc9edc3c",
+    "source_platform": "zapier",
+    "name": "Biz Dev Call Briefer",
+    "description": "Biz Dev Call Briefer",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/call-assistant-template",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "5c3c4078-e521-4fbf-9ff1-b2e52bd73808",
+    "source_platform": "zapier",
+    "name": "Blank Estimate Form",
+    "description": "Blank Estimate Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/blank-estimate-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "101ed7e0-8191-4b8c-809f-66bd411f8d85",
+    "source_platform": "zapier",
+    "name": "Blog Generator AI Chatbot Template",
+    "description": "Blog Generator AI Chatbot Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/blog-generator-bot",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c1cbae4c-827c-41a6-9860-2ffc5f53a42a",
+    "source_platform": "zapier",
+    "name": "Brand Guidelines Agent",
+    "description": "Brand Guidelines Agent",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/brand-guidelines-agent-02bac5",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "9dac4f6b-aa08-4ff5-a552-d4e22d9a26a9",
+    "source_platform": "zapier",
+    "name": "Brand Voice Analyzer",
+    "description": "Brand Voice Analyzer",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/brand-voice-analyzer-f7864e",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f9a9d1bb-b30a-42bd-9a79-dde44a120938",
+    "source_platform": "zapier",
+    "name": "Broker Open House Feedback Form",
+    "description": "Broker Open House Feedback Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/broker-open-house-feedback-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "91508297-27db-4eaa-881a-9b4173eb2d45",
+    "source_platform": "zapier",
+    "name": "Business Coach Chatbot Template",
+    "description": "Business Coach Chatbot Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/business-coach-bot",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d919a98d-9a41-4742-a507-6bf316112ec1",
+    "source_platform": "zapier",
+    "name": "Business Intake Form",
+    "description": "Business Intake Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/business-intake-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d1128c91-8b82-40ad-b24a-b30e35ecbf44",
+    "source_platform": "zapier",
+    "name": "Call Center Agent Coaching Form",
+    "description": "Call Center Agent Coaching Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/call-center-agent-coaching-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "60f6ced8-b26d-4122-94bf-040196297df5",
+    "source_platform": "zapier",
+    "name": "Call Follow-Up Email Assistant",
+    "description": "Call Follow-Up Email Assistant",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/call-follow-up-email-assistant",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "167162d4-a58e-4a07-bded-fa6931b3ade7",
+    "source_platform": "zapier",
+    "name": "Call Follow-Up: Add Proposal Requests to CRM and Send FYI on Slack",
+    "description": "Call Follow-Up: Add Proposal Requests to CRM and Send FYI on Slack",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/call-follow-up-add-proposal-requests-to-crm-and-send-fyi-on-slack",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "70101051-01fe-4ea2-b7e9-1b9b9ba5fa38",
+    "source_platform": "zapier",
+    "name": "Candidate Evaluation Form",
+    "description": "Candidate Evaluation Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/candidate-evaluation-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "064cbf1d-e70d-489b-b4b0-161ec1ec05fc",
+    "source_platform": "zapier",
+    "name": "Candidate Feedback Form",
+    "description": "Candidate Feedback Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/candidate-feedback-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c0ebd296-f3af-44d8-909d-369a8e0fe61a",
+    "source_platform": "zapier",
+    "name": "Candidate Ranking System",
+    "description": "Candidate Ranking System",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/candidate-ranking-system",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "7beaa2cb-7b6c-4503-a1b5-94cca405e5de",
+    "source_platform": "zapier",
+    "name": "Candidate risk detector for hiring teams",
+    "description": "Candidate risk detector for hiring teams",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/candidate-risk-detector-for-hiring-teams",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "880f7840-ea73-491e-81d3-00563abfee04",
+    "source_platform": "zapier",
+    "name": "Capture and record ideas using voicenotes and AI",
+    "description": "Capture and record ideas using voicenotes and AI",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/capture-ideas-voice-notes",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "099c0039-19ac-4785-b77c-05273369d0fe",
+    "source_platform": "zapier",
+    "name": "Capture and triage engineering requests from Slack in Jira",
+    "description": "Capture and triage engineering requests from Slack in Jira",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack",
+      "Jira"
+    ],
+    "url": "https://zapier.com/templates/details/engineering-work-intake-slack-jira",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "b3bdf166-8eeb-4702-8427-beb544d23117",
+    "source_platform": "zapier",
+    "name": "Career Wins Collector",
+    "description": "Career Wins Collector",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/career-wins-collector-d07b30",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "52ebe7b9-d44e-47cf-8594-346c0bd05885",
+    "source_platform": "zapier",
+    "name": "Catering Order Form",
+    "description": "Catering Order Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/catering-order-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "03ffd5e3-c416-4154-bb64-e303de35ee56",
+    "source_platform": "zapier",
+    "name": "CatGPT\u2019s Daily Airtable Summary Email",
+    "description": "CatGPT\u2019s Daily Airtable Summary Email",
+    "trigger_app": null,
+    "action_apps": [
+      "Airtable"
+    ],
+    "url": "https://zapier.com/templates/details/catgpts-daily-airtable-summary-email-20f397",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "aa85bfe8-6491-4b7c-b176-ef30117d81fa",
+    "source_platform": "zapier",
+    "name": "Celebrate wins and share strategic deal insights from HubSpot to Slack",
+    "description": "Celebrate wins and share strategic deal insights from HubSpot to Slack",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack",
+      "HubSpot"
+    ],
+    "url": "https://zapier.com/templates/details/hubspot-slack-deal-notifications",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "4570d31a-e583-46ba-8fc7-4af2f9cc0ad5",
+    "source_platform": "zapier",
+    "name": "Change Order Form",
+    "description": "Change Order Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/change-order-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "32481597-acc9-438d-a9be-d4c284249657",
+    "source_platform": "zapier",
+    "name": "Change Request Form",
+    "description": "Change Request Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/change-request-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "ec299815-ba8b-4b97-981a-302954793a14",
+    "source_platform": "zapier",
+    "name": "Clapperboard Capture Template",
+    "description": "Clapperboard Capture Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/clapperboard-capture",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e43e1b80-5dbc-46a8-9489-4f808185de9f",
+    "source_platform": "zapier",
+    "name": "Client Feedback Form",
+    "description": "Client Feedback Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/client-feedback-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "39f58e0b-3600-4f92-a925-d54d6f279c32",
+    "source_platform": "zapier",
+    "name": "Client Portal Template",
+    "description": "Client Portal Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/client-portal",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d066808c-ec78-4119-8a0b-5ed69808b359",
+    "source_platform": "zapier",
+    "name": "Client Questionnaire Form",
+    "description": "Client Questionnaire Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/client-questionnaire-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "a4869311-c6aa-4095-b1bf-f73cffa70335",
+    "source_platform": "zapier",
+    "name": "Coaching Feedback Form",
+    "description": "Coaching Feedback Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/coaching-feedback-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f503f147-61ba-47c6-a600-dfaa53178fc2",
+    "source_platform": "zapier",
+    "name": "Coaching Intake Form",
+    "description": "Coaching Intake Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/coaching-intake-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c017d4aa-8359-458b-8758-28d9ef64b8f3",
+    "source_platform": "zapier",
+    "name": "Communication Pros AI Chatbots Template",
+    "description": "Communication Pros AI Chatbots Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/communication-pros-bots",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e3fbd6c3-22bb-45d7-86be-c2adcdca8f8f",
+    "source_platform": "zapier",
+    "name": "Company Registration Form",
+    "description": "Company Registration Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/company-registration-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d4e2bea2-1471-49dd-8c5d-b037781c14a3",
+    "source_platform": "zapier",
+    "name": "Company Research: AI initiatives tracker",
+    "description": "Company Research: AI initiatives tracker",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/company-research-ai-initiatives-tracker-674615",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "fde3fb46-f4be-42af-8149-6f9986d17f06",
+    "source_platform": "zapier",
+    "name": "Compliance Review Agent",
+    "description": "Compliance Review Agent",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/compliance-review-agent-d8d115",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "b5132235-bf01-40e6-8a7b-670d4fc10934",
+    "source_platform": "zapier",
+    "name": "Compliance Review Agent (Dropbox knowledge source)",
+    "description": "Compliance Review Agent (Dropbox knowledge source)",
+    "trigger_app": null,
+    "action_apps": [
+      "Dropbox"
+    ],
+    "url": "https://zapier.com/templates/details/compliance-review-agent-dropbox-knowledge-source-37b806",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "7036bb6f-2f8b-4a34-bdc8-88dce80016d2",
+    "source_platform": "zapier",
+    "name": "Compliance review: Define risk levels for purchase requests",
+    "description": "Compliance review: Define risk levels for purchase requests",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automated-contract-compliance-review-risk-assessment",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f2548805-3255-41c8-bb3c-d5f6740a5ab3",
+    "source_platform": "zapier",
+    "name": "Conference Registration Form",
+    "description": "Conference Registration Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/conference-registration-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d58d0238-c940-4197-bb0b-242dd51033f1",
+    "source_platform": "zapier",
+    "name": "Connect Databricks engagement data to Salesloft Signals",
+    "description": "Connect Databricks engagement data to Salesloft Signals",
+    "trigger_app": null,
+    "action_apps": [
+      "Salesloft",
+      "Databricks"
+    ],
+    "url": "https://zapier.com/templates/details/connect-databricks-engagement-data-salesloft-signals",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "52ef99c5-4eda-424f-9bd3-0f03c116054b",
+    "source_platform": "zapier",
+    "name": "Consolidated product feedback",
+    "description": "Consolidated product feedback",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/consolidated-product-feedback",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "cd3a3e79-c465-4ab1-a3af-8a39672ce843",
+    "source_platform": "zapier",
+    "name": "Construction Change Order Form",
+    "description": "Construction Change Order Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/construction-change-order-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "ef8328e3-f0ba-41a6-9ead-cc7c9c49e20c",
+    "source_platform": "zapier",
+    "name": "Construction Estimate Form",
+    "description": "Construction Estimate Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/construction-estimate-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "25568055-0b14-4ff7-a7e0-72458977e45b",
+    "source_platform": "zapier",
+    "name": "Consulting Agreement Form",
+    "description": "Consulting Agreement Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/consulting-agreement-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "72c83b31-4f13-4d45-ad74-764aef8b0eeb",
+    "source_platform": "zapier",
+    "name": "Consulting Client Intake Form",
+    "description": "Consulting Client Intake Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/consulting-client-intake-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c0eb9866-7e93-4b73-9109-b0e8845b09ba",
+    "source_platform": "zapier",
+    "name": "Consulting Client Referral Form",
+    "description": "Consulting Client Referral Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/consulting-client-referral-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "6553f370-ffc7-4317-a4ed-f472104f12bc",
+    "source_platform": "zapier",
+    "name": "Contact Information Form",
+    "description": "Contact Information Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/contact-information-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c21e4279-597a-4a13-a153-c932bbb9a315",
+    "source_platform": "zapier",
+    "name": "Contact us form",
+    "description": "Contact us form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/contact-us-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "b615f434-9343-4839-a347-aebc986f8575",
+    "source_platform": "zapier",
+    "name": "Content Repurposing AI Chatbot Template",
+    "description": "Content Repurposing AI Chatbot Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/content-repurposing-ai-chatbot",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "561da2d5-4e91-41e2-8d26-f483037adf80",
+    "source_platform": "zapier",
+    "name": "Contractor Estimate Form",
+    "description": "Contractor Estimate Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/contractor-estimate-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e18f31a0-3dfe-4975-993c-14780b895cf0",
+    "source_platform": "zapier",
+    "name": "Contractor Liability Verification Form",
+    "description": "Contractor Liability Verification Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/contractor-liability-verification-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "30871b0d-12cd-444a-8bde-c112917d84eb",
+    "source_platform": "zapier",
+    "name": "CPO welcome message automator",
+    "description": "CPO welcome message automator",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automate-employee-onboarding-cpo-welcome",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d12a2252-20d5-4a84-b906-8fafe8b769c9",
+    "source_platform": "zapier",
+    "name": "Create Asana tasks from new saved Slack messages",
+    "description": "Create Asana tasks from new saved Slack messages",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack",
+      "Asana"
+    ],
+    "url": "https://zapier.com/templates/details/create-asana-tasks-from-new-saved-slack-messages",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "ff1cf6d8-5e19-419a-9e6e-8d0f73206306",
+    "source_platform": "zapier",
+    "name": "Create Asana Tasks From Slack Reactions",
+    "description": "Create Asana Tasks From Slack Reactions",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack",
+      "Asana"
+    ],
+    "url": "https://zapier.com/templates/details/create-asana-tasks-from-slack-reactions",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "76bcfc46-6b1c-42f6-a2e5-da182dd8df8f",
+    "source_platform": "zapier",
+    "name": "Create OneNote notes for new Fireflies.ai meetings",
+    "description": "Create OneNote notes for new Fireflies.ai meetings",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/create-onenote-notes-for-new-firefliesai-meetings",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "0f9b2d9b-6ee7-47bb-994e-275ec67e47b4",
+    "source_platform": "zapier",
+    "name": "Criteria-Based Resume Screening",
+    "description": "Criteria-Based Resume Screening",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/criteria-based-resume-screening",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c235d6ae-57eb-4d09-a1da-15d791dd3af5",
+    "source_platform": "zapier",
+    "name": "Cross-functional Sync Agenda Creator",
+    "description": "Cross-functional Sync Agenda Creator",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/cross-functional-sync-agenda-creator",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e68461eb-cf33-4b3d-a5bb-3430fbdee286",
+    "source_platform": "zapier",
+    "name": "Customer Call Summary and PRD Generator",
+    "description": "Customer Call Summary and PRD Generator",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/customer-call-summary-and-prd-generator-d7aa09",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "6df59a4c-d5cf-4fda-9b24-5bcd3cffdd8f",
+    "source_platform": "zapier",
+    "name": "Customer Complaint Form",
+    "description": "Customer Complaint Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/customer-complaint-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "afe9222f-8c9d-4e00-a684-40ed168aac93",
+    "source_platform": "zapier",
+    "name": "Customer Contact Form",
+    "description": "Customer Contact Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/customer-contact-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "28ee50bf-f28a-4c87-a9d1-ab24c84a4e63",
+    "source_platform": "zapier",
+    "name": "Customer Feedback Form",
+    "description": "Customer Feedback Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/customer-feedback-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "0e9075f3-584d-4eeb-8706-662696912a7d",
+    "source_platform": "zapier",
+    "name": "Customer Inquiry Form",
+    "description": "Customer Inquiry Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/customer-inquiry-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "3764176a-6582-4eb9-9f2c-362e2c9e126d",
+    "source_platform": "zapier",
+    "name": "Customer Registration Form",
+    "description": "Customer Registration Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/customer-registration-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f87b0cef-abcf-424b-9c16-1afe93461c44",
+    "source_platform": "zapier",
+    "name": "Customer Sentiment Analysis",
+    "description": "Customer Sentiment Analysis",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/customer-sentiment-analysis",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "a292b1a7-da27-4953-91be-b0170fffcb0e",
+    "source_platform": "zapier",
+    "name": "Customer Survey Form",
+    "description": "Customer Survey Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/customer-survey-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c25af9c0-47cb-4a64-ae90-a534c8caa0d5",
+    "source_platform": "zapier",
+    "name": "Daily 3I/ATLAS News Update",
+    "description": "Daily 3I/ATLAS News Update",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/daily-3iatlas-news-update-98e52f",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "8639f6d1-bfa8-4949-95f4-b959c030c723",
+    "source_platform": "zapier",
+    "name": "Daily AI News Tracker",
+    "description": "Daily AI News Tracker",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/daily-ai-news-tracker-c7a529",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "95d0e62e-9119-45d2-930d-73ca1060f582",
+    "source_platform": "zapier",
+    "name": "Daily Expense Summary Email",
+    "description": "Daily Expense Summary Email",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/daily-expense-summary-email",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "1f595147-2403-4137-807d-eff0c6ac6e08",
+    "source_platform": "zapier",
+    "name": "Daily market and competitive briefings",
+    "description": "Daily market and competitive briefings",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/daily-market-competitive-briefing-automation",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "5f95b46e-4880-4224-861c-a2c49dcff772",
+    "source_platform": "zapier",
+    "name": "Daily On-Call Rotation Notifier",
+    "description": "Daily On-Call Rotation Notifier",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/daily-on-call-rotation-notifier-6e68bc",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "6c39b316-9708-4365-8e04-e118666b31be",
+    "source_platform": "zapier",
+    "name": "Daily Sales Report Template",
+    "description": "Daily Sales Report Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/daily-sales-report",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "05e4865b-12a5-480c-bda3-0dae30dbc886",
+    "source_platform": "zapier",
+    "name": "Daily Stand Up Template",
+    "description": "Daily Stand Up Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/daily-stand-up",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c8d1afbb-9d95-4507-9dd5-628d0baa041a",
+    "source_platform": "zapier",
+    "name": "Design Request Form",
+    "description": "Design Request Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/design-request-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "51358acf-a3bf-4ce8-a4ef-f74c5f12230a",
+    "source_platform": "zapier",
+    "name": "Document Approval Template",
+    "description": "Document Approval Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/document-approval",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "4fc74bd9-44aa-43cc-a2c1-9b69d30f8bc6",
+    "source_platform": "zapier",
+    "name": "Email assistant: Turn starred emails into Asana tasks with AI",
+    "description": "Email assistant: Turn starred emails into Asana tasks with AI",
+    "trigger_app": null,
+    "action_apps": [
+      "Asana"
+    ],
+    "url": "https://zapier.com/templates/details/email-assistant-turn-starred-emails-into-asana-tasks-with-ai",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "edf6ffaa-ccda-406f-bb6f-89a465dc7f4e",
+    "source_platform": "zapier",
+    "name": "Email Attachment Saver Template",
+    "description": "Email Attachment Saver Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/save-email-attachments",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "5abf9fae-f2af-4f0c-a98f-272377770bef",
+    "source_platform": "zapier",
+    "name": "Email Campaign Portal Template",
+    "description": "Email Campaign Portal Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/email-campaign-portal",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "60a73d88-4c0e-4988-a68f-fa012deb611a",
+    "source_platform": "zapier",
+    "name": "Email Event Scheduler",
+    "description": "Email Event Scheduler",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/email-event-scheduler-d72088",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e144f80b-5e02-45dc-81e6-58e9b50fd3d9",
+    "source_platform": "zapier",
+    "name": "Email Signup Form",
+    "description": "Email Signup Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/email-signup-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "bb34f7d6-0669-4fd5-bcd8-59028680c9ff",
+    "source_platform": "zapier",
+    "name": "Email Subscription Form",
+    "description": "Email Subscription Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/email-subscription-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d3855211-f207-45f9-9061-1ee8d6f22237",
+    "source_platform": "zapier",
+    "name": "Employee Attrition Risk Prediction and Mitigation",
+    "description": "Employee Attrition Risk Prediction and Mitigation",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/canaries-employee-attrition-risk-prediction-mitigation",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "bc4db003-94ec-4843-ba8a-d95faafe81ef",
+    "source_platform": "zapier",
+    "name": "Employee availability form",
+    "description": "Employee availability form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-availability-form-tracker",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "0b57c246-c35d-4d09-9abc-02eca38e8e5b",
+    "source_platform": "zapier",
+    "name": "Employee Coaching Form",
+    "description": "Employee Coaching Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-coaching-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f90e507a-9f45-4026-b762-bce2fd03c301",
+    "source_platform": "zapier",
+    "name": "Employee Complaint Form",
+    "description": "Employee Complaint Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-complaint-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "6759ac70-f350-473f-be91-81c6dea39e21",
+    "source_platform": "zapier",
+    "name": "Employee Directory Template",
+    "description": "Employee Directory Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-directory",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "8b616bca-82cc-49c0-b96c-8002e59615e2",
+    "source_platform": "zapier",
+    "name": "Employee Emergency Contact Form",
+    "description": "Employee Emergency Contact Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-emergency-contact-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "18a8725c-fb2b-4962-be2f-c6ebe920a4a9",
+    "source_platform": "zapier",
+    "name": "Employee Enrollment Form",
+    "description": "Employee Enrollment Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-enrollment-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "a2658e77-e50b-43ef-ae20-eeae56e5694f",
+    "source_platform": "zapier",
+    "name": "Employee Evaluation Form",
+    "description": "Employee Evaluation Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-evaluation-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "8c2f75f2-1046-4013-8881-d156020e8f3c",
+    "source_platform": "zapier",
+    "name": "Employee Feedback Form",
+    "description": "Employee Feedback Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-feedback-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "0637f301-8299-4ec8-bdb2-6d1a47b89802",
+    "source_platform": "zapier",
+    "name": "Employee Incident Report Form",
+    "description": "Employee Incident Report Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-incident-report-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "0363674f-f6f7-4972-9942-816ba12f5ef3",
+    "source_platform": "zapier",
+    "name": "Employee offboarding",
+    "description": "Employee offboarding",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-offboarding",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "20bceb9a-398c-45cf-98e8-5c65a5ee1280",
+    "source_platform": "zapier",
+    "name": "Employee onboarding AI Chatbot Template",
+    "description": "Employee onboarding AI Chatbot Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-onboarding-custom-ai-chatbot",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "527a4a11-5ebc-4337-9efe-3a804a28ca76",
+    "source_platform": "zapier",
+    "name": "Employee Onboarding Manager Template",
+    "description": "Employee Onboarding Manager Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-onboarding-manager",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "0376d558-5b21-4a8f-a704-c766e55be78c",
+    "source_platform": "zapier",
+    "name": "Employee Onboarding Template",
+    "description": "Employee Onboarding Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-onboarding",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "53ccf90e-a180-4c7f-b2bd-56c8a2338081",
+    "source_platform": "zapier",
+    "name": "Employee recognition form",
+    "description": "Employee recognition form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-recognition-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "bac1900e-ac13-4c3a-a770-fed05b50ff80",
+    "source_platform": "zapier",
+    "name": "Employee Referral Form",
+    "description": "Employee Referral Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-referral-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "7010f629-a9a4-4b15-8ebc-c7efe1c997a4",
+    "source_platform": "zapier",
+    "name": "Employee Resignation Form",
+    "description": "Employee Resignation Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-resignation-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "9a77c7ac-c8ff-4704-a39b-636115195c15",
+    "source_platform": "zapier",
+    "name": "Employee Satisfaction Analysis",
+    "description": "Employee Satisfaction Analysis",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-satisfaction-analysis",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "7827eec8-36dc-44bf-ae58-ae2afde47bdb",
+    "source_platform": "zapier",
+    "name": "Employee Self Evaluation Form",
+    "description": "Employee Self Evaluation Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-self-evaluation-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "0666a4b8-59f9-4d8a-a111-706ba6728780",
+    "source_platform": "zapier",
+    "name": "Employee Survey Form",
+    "description": "Employee Survey Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employee-survey-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e5f5da77-1379-4f15-a99f-538b87cf7391",
+    "source_platform": "zapier",
+    "name": "Employer Verification Form",
+    "description": "Employer Verification Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employer-verification-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "ac7b6d01-7691-4a14-ab15-036f0492b235",
+    "source_platform": "zapier",
+    "name": "Employment Agreement Form",
+    "description": "Employment Agreement Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employment-agreement-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "dcd01767-2f8e-461e-ad01-068be4f2a77c",
+    "source_platform": "zapier",
+    "name": "Employment Application Form",
+    "description": "Employment Application Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employment-application-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "b92ae514-b785-4228-9826-912104473d09",
+    "source_platform": "zapier",
+    "name": "Employment History Form",
+    "description": "Employment History Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employment-history-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "0c842afa-327b-46ea-b48f-144de76f00da",
+    "source_platform": "zapier",
+    "name": "Employment Reference Form",
+    "description": "Employment Reference Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employment-reference-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "602a6ae0-c5a5-4d2e-b179-f127f102a9fe",
+    "source_platform": "zapier",
+    "name": "Employment Termination Form",
+    "description": "Employment Termination Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employment-termination-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f24d88bb-1060-46ad-98a9-2b095ed3a137",
+    "source_platform": "zapier",
+    "name": "Employment Verification Form Template",
+    "description": "Employment Verification Form Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/employment-verification-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "bbe74dd8-dd66-4c35-ba6e-21e4806c0b65",
+    "source_platform": "zapier",
+    "name": "Enrollment Verification Form",
+    "description": "Enrollment Verification Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/enrollment-verification-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "5e28fc43-4cdd-467b-abdd-c31af34ed7ac",
+    "source_platform": "zapier",
+    "name": "Enterprise Lead Qualification Agent",
+    "description": "Enterprise Lead Qualification Agent",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/enterprise-lead-qualification-agent-71c1cd",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "cc9f51b4-a2ea-433c-a2c8-45dda2f86342",
+    "source_platform": "zapier",
+    "name": "Equipment Checklist Form",
+    "description": "Equipment Checklist Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/equipment-checklist-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "340daf45-ad2e-452a-affd-0006765dab2a",
+    "source_platform": "zapier",
+    "name": "Equipment Rental Agreement Form",
+    "description": "Equipment Rental Agreement Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/equipment-rental-agreement-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "38d6876d-a10a-4912-8647-0ad47ff6fd90",
+    "source_platform": "zapier",
+    "name": "Estimate Form",
+    "description": "Estimate Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/estimate-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "736a3d34-ca6e-49da-8ebc-7d7a23de1139",
+    "source_platform": "zapier",
+    "name": "Event Booking Form",
+    "description": "Event Booking Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/event-booking-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "2d85d5be-7434-4653-8f3e-8d60332a78d3",
+    "source_platform": "zapier",
+    "name": "Event Evaluation Form",
+    "description": "Event Evaluation Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/event-evaluation-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "dccba77c-f38f-4ce7-ba5e-e6afaf3d011f",
+    "source_platform": "zapier",
+    "name": "Event Feedback Form",
+    "description": "Event Feedback Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/event-feedback-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c937a8f9-e271-4aab-b7f2-64336dc8a62c",
+    "source_platform": "zapier",
+    "name": "Event Inquiry Form",
+    "description": "Event Inquiry Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/event-inquiry-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "a19eadde-c94c-414c-8d5a-812f9d9c6239",
+    "source_platform": "zapier",
+    "name": "Event Planning Template",
+    "description": "Event Planning Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/event-planning",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "1e46395c-d043-40ab-b8b7-ee63d628535b",
+    "source_platform": "zapier",
+    "name": "Event Registration Form",
+    "description": "Event Registration Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/event-registration-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "44b914d9-5abf-4f39-b6b0-16e959654c14",
+    "source_platform": "zapier",
+    "name": "Event Request Form",
+    "description": "Event Request Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/event-request-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "da734e1f-7545-4ec3-95e9-7df18afe9efc",
+    "source_platform": "zapier",
+    "name": "Event Reservation Form",
+    "description": "Event Reservation Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/event-reservation-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "494f7220-1279-443d-bc14-45e965bf15d4",
+    "source_platform": "zapier",
+    "name": "Event RSVP Form",
+    "description": "Event RSVP Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/event-rsvp-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "2369b18a-056a-4fbb-9ab3-7cf74fbfbee3",
+    "source_platform": "zapier",
+    "name": "Event Schedule Template",
+    "description": "Event Schedule Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/event-schedule",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "65700e6a-2ca2-4cf9-9f40-51ebbf75b522",
+    "source_platform": "zapier",
+    "name": "Event Signup Form",
+    "description": "Event Signup Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/event-signup-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "288e05fd-1455-40dd-8d0c-3e6b2892b56c",
+    "source_platform": "zapier",
+    "name": "Exit Interview Form",
+    "description": "Exit Interview Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/exit-interview-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "30d26f30-cf0d-40eb-965d-ac6f84c82eb1",
+    "source_platform": "zapier",
+    "name": "Expense Report Form",
+    "description": "Expense Report Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/expense-report-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "1c7d4565-42fe-4cf6-8835-cd792be89e8b",
+    "source_platform": "zapier",
+    "name": "Expenses Tracker Template",
+    "description": "Expenses Tracker Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/expenses-tracker",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "8e406520-4d82-49b7-92bb-09b5da972d8a",
+    "source_platform": "zapier",
+    "name": "Facebook Content Calendar Template",
+    "description": "Facebook Content Calendar Template",
+    "trigger_app": null,
+    "action_apps": [
+      "Facebook"
+    ],
+    "url": "https://zapier.com/templates/details/facebook-content-calendar",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "4b238a77-2413-44d6-9c89-85913c1e9706",
+    "source_platform": "zapier",
+    "name": "Facebook Conversion Tracking for Physical Stores Template",
+    "description": "Facebook Conversion Tracking for Physical Stores Template",
+    "trigger_app": null,
+    "action_apps": [
+      "Facebook"
+    ],
+    "url": "https://zapier.com/templates/details/facebook-conversion-tracking-for-physical-stores",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "5e5cd92f-4c80-4bbd-a0df-38c4bb7aec45",
+    "source_platform": "zapier",
+    "name": "Facebook Lead Tracker Template",
+    "description": "Facebook Lead Tracker Template",
+    "trigger_app": null,
+    "action_apps": [
+      "Facebook"
+    ],
+    "url": "https://zapier.com/templates/details/facebook-lead-tracker",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "76ff098f-1e18-4d05-9ed6-5d4286631f6a",
+    "source_platform": "zapier",
+    "name": "FAQ Template",
+    "description": "FAQ Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/faq",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "dee7d04f-4aaf-487a-a0b6-84e4132f37a8",
+    "source_platform": "zapier",
+    "name": "Follow-Up Reaction Notifier",
+    "description": "Follow-Up Reaction Notifier",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/follow-up-reaction-notifier-966af6",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "7fdc3c0b-3183-419f-be9a-bdd02200bf44",
+    "source_platform": "zapier",
+    "name": "Food Order Form",
+    "description": "Food Order Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/food-order-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "46cd0072-be98-4ce2-a9bd-6fbf4d0ea050",
+    "source_platform": "zapier",
+    "name": "Form Template (Discord Integration)",
+    "description": "Form Template (Discord Integration)",
+    "trigger_app": null,
+    "action_apps": [
+      "Discord"
+    ],
+    "url": "https://zapier.com/templates/details/form-discord",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "4446eca6-7c49-46cd-b0d4-79331b12c89c",
+    "source_platform": "zapier",
+    "name": "Form Template (Google Contacts Integration)",
+    "description": "Form Template (Google Contacts Integration)",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/form-google-contacts",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "43bf8b4f-3c44-4bce-823f-16a86e5a5eac",
+    "source_platform": "zapier",
+    "name": "Form Template (Jira Software Cloud Integration)",
+    "description": "Form Template (Jira Software Cloud Integration)",
+    "trigger_app": null,
+    "action_apps": [
+      "Jira"
+    ],
+    "url": "https://zapier.com/templates/details/form-jira",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f6207dc1-20bb-4402-afab-4bdf17cf6d35",
+    "source_platform": "zapier",
+    "name": "Form template (Pipedrive integration)",
+    "description": "Form template (Pipedrive integration)",
+    "trigger_app": null,
+    "action_apps": [
+      "Pipedrive"
+    ],
+    "url": "https://zapier.com/templates/details/form-pipedrive",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "b68ab616-fb72-4749-ae52-6a181567e972",
+    "source_platform": "zapier",
+    "name": "Form Template (Telegram Integration)",
+    "description": "Form Template (Telegram Integration)",
+    "trigger_app": null,
+    "action_apps": [
+      "Telegram"
+    ],
+    "url": "https://zapier.com/templates/details/form-telegram",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "0bd232c2-48ac-43bc-b228-4a207e20e4d2",
+    "source_platform": "zapier",
+    "name": "Form Template (WhatsApp Notifications Integration)",
+    "description": "Form Template (WhatsApp Notifications Integration)",
+    "trigger_app": null,
+    "action_apps": [
+      "WhatsApp"
+    ],
+    "url": "https://zapier.com/templates/details/form-whatsapp-notifications",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "23e5c7ff-c35b-4a9c-919f-385e04792c3f",
+    "source_platform": "zapier",
+    "name": "Form Template (Zoho CRM Integration)",
+    "description": "Form Template (Zoho CRM Integration)",
+    "trigger_app": null,
+    "action_apps": [
+      "Zoho CRM"
+    ],
+    "url": "https://zapier.com/templates/details/form-zoho-crm",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e7fd5b5a-1b43-4231-808a-726416a775a7",
+    "source_platform": "zapier",
+    "name": "Free Offer Template",
+    "description": "Free Offer Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/free-offer",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "2059ece7-d70a-4836-87a2-7e2f7a00256c",
+    "source_platform": "zapier",
+    "name": "Get a digest of new Slack mentions sent as direct messages",
+    "description": "Get a digest of new Slack mentions sent as direct messages",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/get-a-digest-of-new-slack-mentions-sent-as-direct-messages",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c233aa38-b22c-4f2a-8f18-10148000c4cc",
+    "source_platform": "zapier",
+    "name": "Get in Touch Template",
+    "description": "Get in Touch Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/get-in-touch",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c5c69341-affb-4e5a-b4ee-9e4384fad17e",
+    "source_platform": "zapier",
+    "name": "GitHub PR Auto-Reviewer",
+    "description": "GitHub PR Auto-Reviewer",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/github-pr-auto-reviewer",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "914d3aa7-cde5-4c9d-8443-e7e9bb50c1cd",
+    "source_platform": "zapier",
+    "name": "Github Pull Request Slack Notifier",
+    "description": "Github Pull Request Slack Notifier",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/github-pull-request-slack-notifier",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d57c6ab4-80de-498d-8637-59ba8514916a",
+    "source_platform": "zapier",
+    "name": "GitLab Merge Request Slack Notifier",
+    "description": "GitLab Merge Request Slack Notifier",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/gitlab-merge-request-slack-notifier",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f91ec0a2-10c3-47fd-a13d-673694f7a047",
+    "source_platform": "zapier",
+    "name": "Gmail Auto-Replier",
+    "description": "Gmail Auto-Replier",
+    "trigger_app": null,
+    "action_apps": [
+      "Gmail"
+    ],
+    "url": "https://zapier.com/templates/details/gmail-auto-replier",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "9a062a91-1ead-435c-bf62-ca5496d75a6b",
+    "source_platform": "zapier",
+    "name": "Gmail Event Creator",
+    "description": "Gmail Event Creator",
+    "trigger_app": null,
+    "action_apps": [
+      "Gmail"
+    ],
+    "url": "https://zapier.com/templates/details/gmail-event-creator",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "3425d9bb-591f-4fa1-b23e-eecb9ddd91b0",
+    "source_platform": "zapier",
+    "name": "Google Calendar Zoom Meeting Link Adder",
+    "description": "Google Calendar Zoom Meeting Link Adder",
+    "trigger_app": null,
+    "action_apps": [
+      "Google Calendar",
+      "Zoom"
+    ],
+    "url": "https://zapier.com/templates/details/google-calendar-zoom-meeting-link-adder-36582e",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f8225487-f872-4a0c-96d6-5823b42c1db9",
+    "source_platform": "zapier",
+    "name": "Human-in-the-loop AI for Slack FAQs",
+    "description": "Human-in-the-loop AI for Slack FAQs",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/slack-faqs-human-in-the-loop-ai",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "af6c6c29-ad69-4700-a2cb-c5429672cde6",
+    "source_platform": "zapier",
+    "name": "Import account signals from Looker to Salesloft",
+    "description": "Import account signals from Looker to Salesloft",
+    "trigger_app": null,
+    "action_apps": [
+      "Salesloft",
+      "Looker"
+    ],
+    "url": "https://zapier.com/templates/details/import-account-signals-salesloft-looker",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "90a66c2f-1ff0-4320-8a06-da35b0b37ef9",
+    "source_platform": "zapier",
+    "name": "Inbox Categorizer",
+    "description": "Inbox Categorizer",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/inbox-categorizer",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c230aefc-6f80-43d3-8fcd-d46174086363",
+    "source_platform": "zapier",
+    "name": "Inbox Summarizer",
+    "description": "Inbox Summarizer",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/inbox-summarizer",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "782db9e9-357c-4716-bb9c-2587e790f901",
+    "source_platform": "zapier",
+    "name": "Incident Management Template",
+    "description": "Incident Management Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/incident-management",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "381a75cb-654f-4c52-b0a0-66d426b49a26",
+    "source_platform": "zapier",
+    "name": "Incident Report Form",
+    "description": "Incident Report Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/incident-report-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "1b9e6d49-444d-4abf-bc2c-f38920ec3cb0",
+    "source_platform": "zapier",
+    "name": "Incomplete Jira Tickets Commenter",
+    "description": "Incomplete Jira Tickets Commenter",
+    "trigger_app": null,
+    "action_apps": [
+      "Jira"
+    ],
+    "url": "https://zapier.com/templates/details/incomplete-jira-tickets-commenter",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "39b5fc0a-15b0-4d65-b4ea-172e1c00aaaa",
+    "source_platform": "zapier",
+    "name": "Incomplete Notion Tasks Commenter",
+    "description": "Incomplete Notion Tasks Commenter",
+    "trigger_app": null,
+    "action_apps": [
+      "Notion"
+    ],
+    "url": "https://zapier.com/templates/details/incomplete-notion-tasks-commenter",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "43e29cb4-7b34-45ef-a212-3dba61198275",
+    "source_platform": "zapier",
+    "name": "Industry Newsletter Generator",
+    "description": "Industry Newsletter Generator",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automated-industry-newsletter-generator",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "9f7f3b25-2408-458a-933a-8e14bc00a4fd",
+    "source_platform": "zapier",
+    "name": "Instagram Content Calendar Template",
+    "description": "Instagram Content Calendar Template",
+    "trigger_app": null,
+    "action_apps": [
+      "Instagram"
+    ],
+    "url": "https://zapier.com/templates/details/instagram-content-calendar",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "3f4b5ebf-01ab-4c13-9e8c-9f5df3e1be5a",
+    "source_platform": "zapier",
+    "name": "Intelligent multi-channel inbound message routing",
+    "description": "Intelligent multi-channel inbound message routing",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-multi-channel-inbound-message-routing",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "289524fa-88ff-4a6b-8473-0511bb064afa",
+    "source_platform": "zapier",
+    "name": "Internal legal FAQ AI chatbot",
+    "description": "Internal legal FAQ AI chatbot",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/internal-legal-faq-ai-chatbot",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e590f685-3d9a-44c5-88ba-b04fe97a0e82",
+    "source_platform": "zapier",
+    "name": "Interview Evaluation Form",
+    "description": "Interview Evaluation Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/interview-evaluation-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "7df2e799-1f13-4103-bda6-9d3edb0e1507",
+    "source_platform": "zapier",
+    "name": "Inventory Template",
+    "description": "Inventory Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/inventory",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "20b937ed-fb3c-4713-ae5c-819588fd5586",
+    "source_platform": "zapier",
+    "name": "Invoice form",
+    "description": "Invoice form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/invoice-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "67b546e5-d3f1-4e00-82e9-2b546af15c95",
+    "source_platform": "zapier",
+    "name": "IT Helpdesk Slack Responder",
+    "description": "IT Helpdesk Slack Responder",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/it-helpdesk-slack-responder-621a5a",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "8e265fa0-c81b-420e-8ce1-c9dc4c5febcf",
+    "source_platform": "zapier",
+    "name": "IT Knowledge Base Updater",
+    "description": "IT Knowledge Base Updater",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/it-knowledge-base-updater-86427c",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f75aee79-7de1-436b-a8a7-4b6497c90100",
+    "source_platform": "zapier",
+    "name": "Jira Epic Change Summarizer",
+    "description": "Jira Epic Change Summarizer",
+    "trigger_app": null,
+    "action_apps": [
+      "Jira"
+    ],
+    "url": "https://zapier.com/templates/details/jira-epic-change-summarizer",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e1c1320e-1821-43dc-9c08-69271d0d640b",
+    "source_platform": "zapier",
+    "name": "Job Application Form",
+    "description": "Job Application Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/job-application-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "059440ca-d88b-4d33-a795-cd50c04d8611",
+    "source_platform": "zapier",
+    "name": "Job Board Template",
+    "description": "Job Board Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/job-board",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "17e5b05e-6743-48ad-87aa-a6f20999c0db",
+    "source_platform": "zapier",
+    "name": "Job Estimate Form",
+    "description": "Job Estimate Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/job-estimate-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "0f55f015-25c2-4c8c-b0db-4866b3d79b7d",
+    "source_platform": "zapier",
+    "name": "Job Interview Form",
+    "description": "Job Interview Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/job-interview-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f559a6e3-0676-4cba-8d18-a4f042aea6e7",
+    "source_platform": "zapier",
+    "name": "Keyword-to-Lovable automated blog pipeline",
+    "description": "Keyword-to-Lovable automated blog pipeline",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automated-blog-content-generator-claude-ai",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "5b395451-793f-4fb5-b2fa-1a4da79e69b0",
+    "source_platform": "zapier",
+    "name": "Landing Page Template",
+    "description": "Landing Page Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/landing-page",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "732466cf-3392-4128-8ecc-c3d2e6a2fc0b",
+    "source_platform": "zapier",
+    "name": "Lead Background Research",
+    "description": "Lead Background Research",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/lead-background-research",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c3abe14e-9748-4e97-958a-2b7760ea4c81",
+    "source_platform": "zapier",
+    "name": "Lead enrichment",
+    "description": "Lead enrichment",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/lead-enrichment-template",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "a6c1d41d-c1b3-4df9-8111-a00796e1d266",
+    "source_platform": "zapier",
+    "name": "Lead Enrichment Agent",
+    "description": "Lead Enrichment Agent",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/lead-enrichment-agent",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "6abe0ab5-1129-4e6d-97ce-e39198cec38e",
+    "source_platform": "zapier",
+    "name": "Lead Gen Research: Companies Newswire Tracking",
+    "description": "Lead Gen Research: Companies Newswire Tracking",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/lead-generation-research-template",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f221b0d8-7083-456d-978e-46c95a83cf58",
+    "source_platform": "zapier",
+    "name": "Lead Gen Research: Companies Quoted in the Press",
+    "description": "Lead Gen Research: Companies Quoted in the Press",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/lead-gen-research-companies-quoted-in-the-press",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d3179c8a-db1c-460e-818b-4078e9591381",
+    "source_platform": "zapier",
+    "name": "Lead Gen Research: Product Press Coverage",
+    "description": "Lead Gen Research: Product Press Coverage",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/lead-gen-research-product-press-coverage",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "feaba140-6b05-46c6-9ddf-ca09093c4198",
+    "source_platform": "zapier",
+    "name": "Lead Generation Form",
+    "description": "Lead Generation Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/lead-generation-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "24c5a660-89ff-4e9f-a804-1b06820dfb1a",
+    "source_platform": "zapier",
+    "name": "Lead Hub Template",
+    "description": "Lead Hub Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/lead-hub",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "784d9fdb-bc7a-4412-a309-d50f2fd9016b",
+    "source_platform": "zapier",
+    "name": "Lead Router Template",
+    "description": "Lead Router Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/lead-router",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e0e28ae4-0417-4bdd-8d7a-b733b8400fcd",
+    "source_platform": "zapier",
+    "name": "Lead Scoring Template",
+    "description": "Lead Scoring Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/lead-scoring",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "3bb73f6b-5628-4f17-a558-aac7443a6f02",
+    "source_platform": "zapier",
+    "name": "Lead Sync Template",
+    "description": "Lead Sync Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/lead-sync",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "bf2e0b04-ad54-41d5-8d56-cb1f82c9781a",
+    "source_platform": "zapier",
+    "name": "Lead Tracker Template",
+    "description": "Lead Tracker Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/lead-tracker-template",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "8afff751-52fe-4417-97c1-585ca32a48b7",
+    "source_platform": "zapier",
+    "name": "Leave Tracker Template",
+    "description": "Leave Tracker Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/leave-tracker",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "2316429c-c678-4d53-9202-071dee1b9106",
+    "source_platform": "zapier",
+    "name": "Linkedin Conversion Tracking for Physical Stores Template",
+    "description": "Linkedin Conversion Tracking for Physical Stores Template",
+    "trigger_app": null,
+    "action_apps": [
+      "LinkedIn"
+    ],
+    "url": "https://zapier.com/templates/details/linkedin-conversion-tracking-for-physical-stores",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "9617cbf2-f887-4789-bafc-90d7bd790618",
+    "source_platform": "zapier",
+    "name": "LinkedIn Post Scheduler",
+    "description": "LinkedIn Post Scheduler",
+    "trigger_app": null,
+    "action_apps": [
+      "LinkedIn"
+    ],
+    "url": "https://zapier.com/templates/details/linkedin-post-scheduler-a872f1",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e94be904-b536-4e5b-8bd7-c10fa554ad2f",
+    "source_platform": "zapier",
+    "name": "LinkedIn Post Scheduler Slack Reactji Trigger",
+    "description": "LinkedIn Post Scheduler Slack Reactji Trigger",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack",
+      "LinkedIn"
+    ],
+    "url": "https://zapier.com/templates/details/linkedin-post-scheduler-slack-reactji-trigger-4b28b7",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "01a1f2db-7225-4ad7-9146-ca0775170390",
+    "source_platform": "zapier",
+    "name": "Lookup Table Template",
+    "description": "Lookup Table Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/lookup-table",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c05f8e1d-d6f7-4fbb-aa85-58b121d570d7",
+    "source_platform": "zapier",
+    "name": "Marketing Intake Form",
+    "description": "Marketing Intake Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/marketing-intake-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "2d6ebe86-e5cb-49e6-ae1e-b87d0f9037b7",
+    "source_platform": "zapier",
+    "name": "Marketing Request Form",
+    "description": "Marketing Request Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/marketing-request-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "dc7816f0-2bd4-4c5d-a13a-7255df185697",
+    "source_platform": "zapier",
+    "name": "Media Opportunity Matcher by Evan Nison",
+    "description": "Media Opportunity Matcher by Evan Nison",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/media-opportunity-matcher-by-evan-nison-2a344a",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "81d354dd-3795-43e8-b4e5-b981f888e53a",
+    "source_platform": "zapier",
+    "name": "Meeting Minutes Template",
+    "description": "Meeting Minutes Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/meeting-minutes",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "73ecd73f-7763-4357-bb95-6b822c6b4cc9",
+    "source_platform": "zapier",
+    "name": "Meeting orchestrator: Automate team meeting signups and invites",
+    "description": "Meeting orchestrator: Automate team meeting signups and invites",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automate-team-meeting-signups-google-calendar",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "07e8f155-2c89-4dcf-9332-66a26b1ac214",
+    "source_platform": "zapier",
+    "name": "Meeting Request Form",
+    "description": "Meeting Request Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/meeting-request-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "1c553376-7912-4a4a-b9a6-80b91d413b3c",
+    "source_platform": "zapier",
+    "name": "Multi-Article Summarizer",
+    "description": "Multi-Article Summarizer",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/multi-article-summarizer",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "719a58cb-4af7-4aef-81d8-cc10f79bd428",
+    "source_platform": "zapier",
+    "name": "Multi-Source Lead Capture and Engagement System",
+    "description": "Multi-Source Lead Capture and Engagement System",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/multi-source-lead-capture-and-engagement-system-7b28b6",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c7d30715-6b64-43b0-b286-e40665916005",
+    "source_platform": "zapier",
+    "name": "Net Promoter Score Template",
+    "description": "Net Promoter Score Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/net-promoter-score-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "62f44414-114f-4d6c-89eb-9a1cbab171ee",
+    "source_platform": "zapier",
+    "name": "New Client Intake Form",
+    "description": "New Client Intake Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/new-client-intake-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "b418084d-507b-444a-898c-b9e4e4691c98",
+    "source_platform": "zapier",
+    "name": "New Expense Classifier",
+    "description": "New Expense Classifier",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automated-expense-classification",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "60a00c07-93f3-462c-8a72-5ac96790d10a",
+    "source_platform": "zapier",
+    "name": "News Story Categorizer",
+    "description": "News Story Categorizer",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/news-story-categorizer",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "64da8d2e-337d-4228-93d8-eb9462d3e1ac",
+    "source_platform": "zapier",
+    "name": "Newsletter signup form",
+    "description": "Newsletter signup form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/newsletter-signup-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "5e7e86cf-2f3a-4a1e-a77b-725291fbd847",
+    "source_platform": "zapier",
+    "name": "One-on-one meeting coach: AI-powered skill-building for managers",
+    "description": "One-on-one meeting coach: AI-powered skill-building for managers",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/one-on-one-meeting-coach-and-summary",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d697e27c-4604-40e3-b23d-745957a5adda",
+    "source_platform": "zapier",
+    "name": "Open House Registration Form",
+    "description": "Open House Registration Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/open-house-registration-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "746fa36d-3434-4ec9-be00-932255651aa2",
+    "source_platform": "zapier",
+    "name": "Order Request Form",
+    "description": "Order Request Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/order-request-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "b76542cc-8d58-42a5-9fec-4a2fae42bddc",
+    "source_platform": "zapier",
+    "name": "Organize Gmail Emails By Required Action",
+    "description": "Organize Gmail Emails By Required Action",
+    "trigger_app": null,
+    "action_apps": [
+      "Gmail"
+    ],
+    "url": "https://zapier.com/templates/details/organize-gmail-emails-by-required-action",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "149aa872-b799-469f-832b-eb215a120fce",
+    "source_platform": "zapier",
+    "name": "Out-of-Office Plan Template",
+    "description": "Out-of-Office Plan Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/out-of-office-plan",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "39ef5db8-8ac9-4501-a334-75b1e789e900",
+    "source_platform": "zapier",
+    "name": "Outreach Agent",
+    "description": "Outreach Agent",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/outreach-agent",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "0222ebcc-a682-4e4b-aa4e-a5b30fbbb224",
+    "source_platform": "zapier",
+    "name": "PRD Document Creator",
+    "description": "PRD Document Creator",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/prd-document-creator-7a1d9e",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "bb51ffb0-cb9b-4eef-a13b-367834f4afd8",
+    "source_platform": "zapier",
+    "name": "Presentation Feedback Form",
+    "description": "Presentation Feedback Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/presentation-feedback-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "ed6743c9-e70e-49c2-99e7-0bd7dbbbfa87",
+    "source_platform": "zapier",
+    "name": "Proactive VIP support: Get AI summaries of Fullstory sessions in Slack",
+    "description": "Proactive VIP support: Get AI summaries of Fullstory sessions in Slack",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/vip-customer-session-monitoring-fullstory-slack",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "3d5fd984-6eba-4ca2-a2ca-c202df13764e",
+    "source_platform": "zapier",
+    "name": "Product Feedback Form",
+    "description": "Product Feedback Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/product-feedback-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "010a195f-e44c-4592-b39e-67f277e4aaa2",
+    "source_platform": "zapier",
+    "name": "Product Feedback Template",
+    "description": "Product Feedback Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/product-feedback",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "3b76f6af-6c33-4c76-94af-c41097391634",
+    "source_platform": "zapier",
+    "name": "Project Brief Generator",
+    "description": "Project Brief Generator",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/project-brief-generator-6e60c7",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "26e830a1-1f95-4704-84ee-552400dac657",
+    "source_platform": "zapier",
+    "name": "Project Intake Form",
+    "description": "Project Intake Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/project-intake-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "7312ad6b-522a-4fe4-b77b-dd3dbc649d88",
+    "source_platform": "zapier",
+    "name": "Project management stakeholder communications",
+    "description": "Project management stakeholder communications",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/project-management-stakeholder-communications",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c1c62bff-6324-4afa-853b-05220e79704e",
+    "source_platform": "zapier",
+    "name": "Project Request Form",
+    "description": "Project Request Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/project-request-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "7903f753-da1e-4603-866d-58b7edd2189d",
+    "source_platform": "zapier",
+    "name": "Project Update Notifier",
+    "description": "Project Update Notifier",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/project-update-notifier-8c93c3",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f5d0d0b6-e7a2-45e8-91a6-ec1ddb02f2c8",
+    "source_platform": "zapier",
+    "name": "Proof Of Employment Form",
+    "description": "Proof Of Employment Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/proof-of-employment-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d1b22d59-97fd-4867-9bc0-2b9fb028f9aa",
+    "source_platform": "zapier",
+    "name": "Push Slack messages to Asana and create tasks on demand",
+    "description": "Push Slack messages to Asana and create tasks on demand",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack",
+      "Asana"
+    ],
+    "url": "https://zapier.com/templates/details/push-slack-messages-to-asana-and-create-tasks-on-demand",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "b0a953b5-69cf-4d9f-81fb-0c90259635eb",
+    "source_platform": "zapier",
+    "name": "RACI Template",
+    "description": "RACI Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/raci",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e442df78-7a1a-40e0-9529-a27c06e7a6b5",
+    "source_platform": "zapier",
+    "name": "Real Estate Lead Generation Form",
+    "description": "Real Estate Lead Generation Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/real-estate-lead-generation-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "7697ace9-62ea-45f1-84d4-74b10a1b197f",
+    "source_platform": "zapier",
+    "name": "Real Estate Referral Form",
+    "description": "Real Estate Referral Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/real-estate-referral-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f0531761-d5cc-44f1-a020-bfa4da5f1da8",
+    "source_platform": "zapier",
+    "name": "Record team wins",
+    "description": "Record team wins",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/team-wins-tracking-slack-automation",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d6cd4195-9288-4add-8355-d9f47dee3938",
+    "source_platform": "zapier",
+    "name": "Recruiting Intake Form",
+    "description": "Recruiting Intake Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/recruiting-intake-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "6f7ece65-47eb-400f-a956-bbf76fdf800a",
+    "source_platform": "zapier",
+    "name": "Reddit Trend Content Generator by Kiran Shahid",
+    "description": "Reddit Trend Content Generator by Kiran Shahid",
+    "trigger_app": null,
+    "action_apps": [
+      "Reddit"
+    ],
+    "url": "https://zapier.com/templates/details/reddit-trend-content-generator-by-kiran-shahid-9aee66",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f436ff86-6641-459d-8edc-3d3a8c9b7c80",
+    "source_platform": "zapier",
+    "name": "Referral form template",
+    "description": "Referral form template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/referral-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f9102d3a-e57e-4834-b055-996a4fdf1861",
+    "source_platform": "zapier",
+    "name": "Referral Request Form",
+    "description": "Referral Request Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/referral-request-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f823d453-3604-4e89-b208-c960cd038df1",
+    "source_platform": "zapier",
+    "name": "Registration form",
+    "description": "Registration form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/registration-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "47af0950-a235-42b7-8946-c165ced476c6",
+    "source_platform": "zapier",
+    "name": "Research Assistant AI Chatbot Template",
+    "description": "Research Assistant AI Chatbot Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/research-assistant-bot",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "0464073a-e039-4a2c-86d8-d1ca755bcb73",
+    "source_platform": "zapier",
+    "name": "Research Topic Assistant",
+    "description": "Research Topic Assistant",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/research-topic-assistant-7e5139",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "b910fa27-bb59-400f-a18c-8e4486c6482e",
+    "source_platform": "zapier",
+    "name": "Review Slack Mentions & Block Time for Follow-Ups",
+    "description": "Review Slack Mentions & Block Time for Follow-Ups",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/review-slack-mentions-block-time-for-follow-ups-d923ea",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f25929ec-66fb-408d-a8a6-c35b262b52a3",
+    "source_platform": "zapier",
+    "name": "Review Tracker Template",
+    "description": "Review Tracker Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/review-tracker",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "02c32a5a-e779-44ce-bc70-5a7a061d5464",
+    "source_platform": "zapier",
+    "name": "Round Robin Lead Assignment",
+    "description": "Round Robin Lead Assignment",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/round-robin-lead-assignment",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "6d72c0f4-89b4-4610-8923-6e0782ca91d2",
+    "source_platform": "zapier",
+    "name": "RSVP form",
+    "description": "RSVP form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/rsvp",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "b3254b30-9337-4b87-a447-4cc5732997da",
+    "source_platform": "zapier",
+    "name": "Sales Call Analysis Agent",
+    "description": "Sales Call Analysis Agent",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/sales-call-analysis-agent",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "4231122b-96b8-485f-9501-12a1fd2628db",
+    "source_platform": "zapier",
+    "name": "Sales chat attribution tracker",
+    "description": "Sales chat attribution tracker",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/two-way-comms",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "a803b655-65d6-497c-8fe7-db27b3552402",
+    "source_platform": "zapier",
+    "name": "Sales Coaching Form",
+    "description": "Sales Coaching Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/sales-coaching-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "20a2efee-4002-48c7-8120-041c040156f0",
+    "source_platform": "zapier",
+    "name": "Sales Email Creator",
+    "description": "Sales Email Creator",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/sales-email-creator",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "25b0a4e4-dbff-4369-b36d-9717f9e8024a",
+    "source_platform": "zapier",
+    "name": "Sales Inquiry Form",
+    "description": "Sales Inquiry Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/sales-inquiry-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "3d8a3725-f1a3-4385-a883-475002e4f2fb",
+    "source_platform": "zapier",
+    "name": "Sales Prep Agent",
+    "description": "Sales Prep Agent",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/sales-prep-agent",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "8b553a15-9325-4f63-910c-37a9b07ec3f9",
+    "source_platform": "zapier",
+    "name": "Sales Support AI Chatbot Template",
+    "description": "Sales Support AI Chatbot Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/sales-support-ai-chatbot",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "9f50f4df-343a-48b0-a421-b02768f9913f",
+    "source_platform": "zapier",
+    "name": "Salesforce Contact Enrichment Agent",
+    "description": "Salesforce Contact Enrichment Agent",
+    "trigger_app": null,
+    "action_apps": [
+      "Salesforce"
+    ],
+    "url": "https://zapier.com/templates/details/salesforce-contact-enrichment-agent-089fb0",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d67076b3-067b-44ab-97d4-8ca2dc213c83",
+    "source_platform": "zapier",
+    "name": "Sara McNamara's Sales Pipeline Health Monitor",
+    "description": "Sara McNamara's Sales Pipeline Health Monitor",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/sara-mcnamaras-sales-pipeline-health-monitor-ccbf81",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "406414b5-02a9-4c50-b589-0f05098ea0d6",
+    "source_platform": "zapier",
+    "name": "Security Incident Report Form",
+    "description": "Security Incident Report Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/security-incident-report-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "9aee003e-e674-4c52-b5f0-4d0160e097fb",
+    "source_platform": "zapier",
+    "name": "SEO Analysis",
+    "description": "SEO Analysis",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/seo-analysis",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "0258c11d-77fd-4a6b-aa07-fa408b387970",
+    "source_platform": "zapier",
+    "name": "SEO Analysis Agent",
+    "description": "SEO Analysis Agent",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/seo-analysis-agent-5ceb24",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c9b6dc5c-f4e7-4cbb-9c6c-7670291877d2",
+    "source_platform": "zapier",
+    "name": "SEO Optimized Article Generator",
+    "description": "SEO Optimized Article Generator",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/seo-optimized-article-generator",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "6319bb60-bbef-485a-999b-7e35a2c88a34",
+    "source_platform": "zapier",
+    "name": "Signup form",
+    "description": "Signup form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/signup-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "86e8b06a-805c-4480-a7f3-bbe72b2abfe1",
+    "source_platform": "zapier",
+    "name": "Simple Contact Form",
+    "description": "Simple Contact Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/simple-contact-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e57a5e60-eeb4-4160-8348-4644f216ae28",
+    "source_platform": "zapier",
+    "name": "Simple CRM Template",
+    "description": "Simple CRM Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/simple-crm",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "3135ba1a-1f8d-4272-a0c9-9a216937c547",
+    "source_platform": "zapier",
+    "name": "Simple FAQ AI Chatbot Template",
+    "description": "Simple FAQ AI Chatbot Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/simple-custom-faq-ai-chatbot",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "5f0bea6f-6985-49e5-8a7c-585f08ea22e0",
+    "source_platform": "zapier",
+    "name": "Simple Feedback Form",
+    "description": "Simple Feedback Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/simple-feedback-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d8ef8550-ebac-48e3-9d33-0911e74b650a",
+    "source_platform": "zapier",
+    "name": "Simple Marketplace Template",
+    "description": "Simple Marketplace Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/marketplace",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "34434ee8-f03b-4228-8293-398ce5da3467",
+    "source_platform": "zapier",
+    "name": "Simple Online Course Template",
+    "description": "Simple Online Course Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/simple-online-course",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "cde52289-c674-4c01-95b2-f4b40424adf1",
+    "source_platform": "zapier",
+    "name": "Simple Project Plan Template",
+    "description": "Simple Project Plan Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/simple-project-plan",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "3542c89a-eedb-466f-bfd0-b4144b1bf0bb",
+    "source_platform": "zapier",
+    "name": "Simple Website Template",
+    "description": "Simple Website Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/simple-website",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "ee400d90-d83e-4905-946d-d49239791ed3",
+    "source_platform": "zapier",
+    "name": "Slack bot, Taylor's Version",
+    "description": "Slack bot, Taylor's Version",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/taylor-swift-slack-bot-ai-automation",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "96669df2-b0c6-45b2-84f0-6ce3744078bc",
+    "source_platform": "zapier",
+    "name": "Slack router: Automatically tag in the right team on Slack",
+    "description": "Slack router: Automatically tag in the right team on Slack",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/automate-slack-feedback-routing-ai-team-assignment",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "a08fac5e-5914-48a0-a808-c9e792097899",
+    "source_platform": "zapier",
+    "name": "Slack Thread Insights Extractor",
+    "description": "Slack Thread Insights Extractor",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/slack-thread-insights-extractor",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "ae2878b9-ec39-4921-8834-a2e2b51d4a2a",
+    "source_platform": "zapier",
+    "name": "Slack thread summarizer",
+    "description": "Slack thread summarizer",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/slack-thread-summarizer",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "3b107062-4c6c-4175-a791-f4f3aa373edd",
+    "source_platform": "zapier",
+    "name": "Slack to Asana Campaign Organizer",
+    "description": "Slack to Asana Campaign Organizer",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack",
+      "Asana"
+    ],
+    "url": "https://zapier.com/templates/details/slack-to-asana-campaign-organizer-dc9296",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "a75a0aff-fb5f-4fcd-9c7e-28307d0e2982",
+    "source_platform": "zapier",
+    "name": "Slack to Linear Ticket Creator",
+    "description": "Slack to Linear Ticket Creator",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/slack-to-linear-ticket-creator-ab5bea",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "6d27e4a3-67b9-4dd7-9ba8-ec5f9179522a",
+    "source_platform": "zapier",
+    "name": "Smart follow-up emails: From Gong calls to AI followup drafts",
+    "description": "Smart follow-up emails: From Gong calls to AI followup drafts",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automate-sales-follow-up-emails-gong-hubspot",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e856561e-4e1d-4070-86a7-41a3335cdc51",
+    "source_platform": "zapier",
+    "name": "Smart incident postmortem reviews",
+    "description": "Smart incident postmortem reviews",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automated-incident-postmortem-reviews",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "8254e53d-2b23-40a5-816a-1055e3cd3241",
+    "source_platform": "zapier",
+    "name": "Smart Lead Qualifier and Outreach Automator",
+    "description": "Smart Lead Qualifier and Outreach Automator",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/smart-lead-qualifier-and-outreach-automator",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e420e148-4456-4c91-8b06-f2d8b6116bca",
+    "source_platform": "zapier",
+    "name": "Social Media AI Chatbot Template",
+    "description": "Social Media AI Chatbot Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/social-media-bot",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "56ea2fea-7a37-4eea-997c-78224c59f62a",
+    "source_platform": "zapier",
+    "name": "Social Media Planner Template",
+    "description": "Social Media Planner Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/social-media-planner",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "84146078-4701-4cd5-9d95-9e79dfd469aa",
+    "source_platform": "zapier",
+    "name": "Social Media Posting Agent",
+    "description": "Social Media Posting Agent",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/social-media-posting-agent-03791f",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e562d288-831c-46ac-a067-a154c372b7b9",
+    "source_platform": "zapier",
+    "name": "Subscription Tracker Template",
+    "description": "Subscription Tracker Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/subscription-tracker",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "67fccad9-4e74-4e00-a22b-eabca01fa024",
+    "source_platform": "zapier",
+    "name": "Support Email Agent",
+    "description": "Support Email Agent",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/support-agent",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "becb341f-7a98-4997-82ce-93e363d7facf",
+    "source_platform": "zapier",
+    "name": "Survey Template",
+    "description": "Survey Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/survey",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "b54f390b-2f1e-43ac-aad4-4af35e19feeb",
+    "source_platform": "zapier",
+    "name": "Sync account signals between Snowflake and Salesloft",
+    "description": "Sync account signals between Snowflake and Salesloft",
+    "trigger_app": null,
+    "action_apps": [
+      "Salesloft",
+      "Snowflake"
+    ],
+    "url": "https://zapier.com/templates/details/import-snowflake-data-to-salesloft",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "31c722f8-864a-4ec2-86c6-7fef9f953244",
+    "source_platform": "zapier",
+    "name": "Team cohesion: AI Team ReadMe creator",
+    "description": "Team cohesion: AI Team ReadMe creator",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/team-cohesion-ai-team-readme-creator",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "4c77d625-93c2-4d69-9500-e2455a08b36a",
+    "source_platform": "zapier",
+    "name": "Team Operations Portal",
+    "description": "Team Operations Portal",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/team-operations-portal",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "62f7d508-e03d-446f-9126-ebbbc0bfbff8",
+    "source_platform": "zapier",
+    "name": "Testimonial Template",
+    "description": "Testimonial Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/testimonial",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "bd7bf863-c0c2-4cab-b1c2-deb464a1a177",
+    "source_platform": "zapier",
+    "name": "Time Off Request Form",
+    "description": "Time Off Request Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/time-off-request-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d3e25266-89cb-427e-89c3-f3251df050f3",
+    "source_platform": "zapier",
+    "name": "Time Slot Booking Form",
+    "description": "Time Slot Booking Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/time-slot-booking-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "c892419c-305a-4054-bf1d-89f157a4ef03",
+    "source_platform": "zapier",
+    "name": "Time Tracker Template",
+    "description": "Time Tracker Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/time-tracker",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "1e36e997-8d4d-49a8-8276-4a6809e7fa61",
+    "source_platform": "zapier",
+    "name": "To-Do List AI Chatbot Template",
+    "description": "To-Do List AI Chatbot Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/to-do-list-bot",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "8f19407e-d7c9-4bc8-aa02-63624952b8f8",
+    "source_platform": "zapier",
+    "name": "To-Do List Template",
+    "description": "To-Do List Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/to-do-list",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "a777d329-91e7-4d24-bcf1-6357c7f63d46",
+    "source_platform": "zapier",
+    "name": "Track your action items from Granola notes by creating Asana tasks",
+    "description": "Track your action items from Granola notes by creating Asana tasks",
+    "trigger_app": null,
+    "action_apps": [
+      "Asana"
+    ],
+    "url": "https://zapier.com/templates/details/turn-granola-notes-into-tasks",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "8ecb0c15-a766-4225-8674-1194a471473a",
+    "source_platform": "zapier",
+    "name": "Travel Booking Organizer",
+    "description": "Travel Booking Organizer",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/travel-booking-organizer-and-notifier",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "53fdb066-725b-4521-8741-53f2d3ab892b",
+    "source_platform": "zapier",
+    "name": "Triage and auto-respond to Google My Business reviews with Gemini",
+    "description": "Triage and auto-respond to Google My Business reviews with Gemini",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/automate-google-my-business-review-responses-gemini",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e9e248dc-f731-4b17-bda7-a61c06e61741",
+    "source_platform": "zapier",
+    "name": "Turn Fireflies.ai transcripts into Gamma presentations automatically",
+    "description": "Turn Fireflies.ai transcripts into Gamma presentations automatically",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/meeting-transcript-to-presentation-automation-fireflies-gamma",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "54632208-a50f-4ef2-8d8c-05a13ee98933",
+    "source_platform": "zapier",
+    "name": "Turn Granola meeting notes into polished presentations with Gamma",
+    "description": "Turn Granola meeting notes into polished presentations with Gamma",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/meeting-notes-to-presentations-granola-gamma",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "3b8be77d-4bbe-40fd-907b-3dab75530330",
+    "source_platform": "zapier",
+    "name": "Turn industry podcasts into team insights",
+    "description": "Turn industry podcasts into team insights",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/ai-podcast-summarization-automation-slack",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "1b3d2e46-0476-4b44-9ece-23b48c4be117",
+    "source_platform": "zapier",
+    "name": "Turn Slack messages into Notion tasks automatically",
+    "description": "Turn Slack messages into Notion tasks automatically",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack",
+      "Notion"
+    ],
+    "url": "https://zapier.com/templates/details/slack-notion-task-manager",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "161560b9-bd8d-4f65-8d95-f7c4171a980c",
+    "source_platform": "zapier",
+    "name": "Turn Slack reactions into Google Tasks automatically",
+    "description": "Turn Slack reactions into Google Tasks automatically",
+    "trigger_app": null,
+    "action_apps": [
+      "Slack"
+    ],
+    "url": "https://zapier.com/templates/details/slack-emoji-task-automation-google-tasks",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "fd6b3fc9-90d2-4478-9ed8-038d87fb6c28",
+    "source_platform": "zapier",
+    "name": "Turn your team's network into high-quality candidates with automated warm intros",
+    "description": "Turn your team's network into high-quality candidates with automated warm intros",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/warm-intro-recruiting",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "76745760-5848-4400-a20d-3d51e21476ec",
+    "source_platform": "zapier",
+    "name": "Turn Zoom transcripts into Gamma presentations",
+    "description": "Turn Zoom transcripts into Gamma presentations",
+    "trigger_app": null,
+    "action_apps": [
+      "Zoom"
+    ],
+    "url": "https://zapier.com/templates/details/automate-zoom-transcript-to-gamma-presentation",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "5c9e08f7-c81f-45ff-a58e-b4ef477a554a",
+    "source_platform": "zapier",
+    "name": "Typeform Response Scorer",
+    "description": "Typeform Response Scorer",
+    "trigger_app": null,
+    "action_apps": [
+      "Typeform"
+    ],
+    "url": "https://zapier.com/templates/details/typeform-response-scorer",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "4e739f76-ff11-4cda-bf6c-192d2d7bfacd",
+    "source_platform": "zapier",
+    "name": "Typeform to Google Sheets Populator",
+    "description": "Typeform to Google Sheets Populator",
+    "trigger_app": null,
+    "action_apps": [
+      "Google Sheets",
+      "Typeform"
+    ],
+    "url": "https://zapier.com/templates/details/typeform-to-google-sheets-populator",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f899a413-6a71-478d-b7a6-018fdca52329",
+    "source_platform": "zapier",
+    "name": "User research customer interview signup",
+    "description": "User research customer interview signup",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/user-research-customer-interview-signup",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "135fb53f-1a12-42a8-bf10-006a51528751",
+    "source_platform": "zapier",
+    "name": "UTM Builder Template",
+    "description": "UTM Builder Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/utm-builder",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "e766a89c-f654-4107-bfa4-539f0f8b8688",
+    "source_platform": "zapier",
+    "name": "Viral Content Creation Agent",
+    "description": "Viral Content Creation Agent",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/viral-content-creation-agent",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "ef2633b7-fba1-4d65-8907-eef095fedd6d",
+    "source_platform": "zapier",
+    "name": "Web Clipper Template",
+    "description": "Web Clipper Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/web-clipper",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "4dd1d06f-0033-4693-804f-016b8a5b6c44",
+    "source_platform": "zapier",
+    "name": "Webinar Registration Form Template",
+    "description": "Webinar Registration Form Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/webinar-registration-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "89a3b73a-c6ab-46f9-bf4a-7902b8aa5f1d",
+    "source_platform": "zapier",
+    "name": "Website Contact Form",
+    "description": "Website Contact Form",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/website-contact-form",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f03fcfea-8167-469c-b4a3-bc5aa53df6b6",
+    "source_platform": "zapier",
+    "name": "Weekly Calendar Summary & Focus Tips by Claire Vo",
+    "description": "Weekly Calendar Summary & Focus Tips by Claire Vo",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/weekly-calendar-summary-focus-tips-by-claire-vo-1ec82e",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "1b5d37bd-c987-40ee-b40b-9f652abf544d",
+    "source_platform": "zapier",
+    "name": "Weekly Energy Reflection Agent - Eric Nehrlich \"You Have a Choice\"",
+    "description": "Weekly Energy Reflection Agent - Eric Nehrlich \"You Have a Choice\"",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/weekly-energy-reflection-agent-eric-nehrlich-you-have-a-choice-aae6aa",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "be3384d5-3685-4c09-8273-1dfe3a2d5241",
+    "source_platform": "zapier",
+    "name": "Weekly Instagram Content Task Creator",
+    "description": "Weekly Instagram Content Task Creator",
+    "trigger_app": null,
+    "action_apps": [
+      "Instagram"
+    ],
+    "url": "https://zapier.com/templates/details/weekly-instagram-content-task-creator-f6872b",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "f0d81de0-b732-493e-9f87-7cffd23978c5",
+    "source_platform": "zapier",
+    "name": "Weekly Project Status Update Email Generator",
+    "description": "Weekly Project Status Update Email Generator",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/weekly-project-status-update-email-generator-aa2f9e",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "90b96b05-9c52-4e6e-a329-e89e082e50f5",
+    "source_platform": "zapier",
+    "name": "Writing Assistant AI Chatbot Template",
+    "description": "Writing Assistant AI Chatbot Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/writing-assistant-bot",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "d5f9868d-553c-4b15-a70d-364d7d718678",
+    "source_platform": "zapier",
+    "name": "Yoda wisdom bot | React, you must. Learn, you will.",
+    "description": "Yoda wisdom bot | React, you must. Learn, you will.",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/react-yoda-emoji-slack",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "5b4f2c7b-12b5-4687-8cd6-6d303cbed03e",
+    "source_platform": "zapier",
+    "name": "YouTube Shorts Creator",
+    "description": "YouTube Shorts Creator",
+    "trigger_app": null,
+    "action_apps": [
+      "YouTube"
+    ],
+    "url": "https://zapier.com/templates/details/youtube-shorts-creator-1d894a",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "1a99f176-3f13-4fc2-86d7-bfafee9cf650",
+    "source_platform": "zapier",
+    "name": "ZapChat AI Chatbot Template",
+    "description": "ZapChat AI Chatbot Template",
+    "trigger_app": null,
+    "action_apps": [],
+    "url": "https://zapier.com/templates/details/zap-chat",
+    "category": "Sales pipeline"
+  },
+  {
+    "id": "ad92f9ef-f402-4013-99dc-26e29864187d",
+    "source_platform": "zapier",
+    "name": "Zoom call coach: AI-powered sales and success coaching",
+    "description": "Zoom call coach: AI-powered sales and success coaching",
+    "trigger_app": null,
+    "action_apps": [
+      "Zoom"
+    ],
+    "url": "https://zapier.com/templates/details/zoom-call-coach-ai-customer-calls",
+    "category": "Sales pipeline"
+  }
+]
