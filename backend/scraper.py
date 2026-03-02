@@ -51,8 +51,12 @@ class ZapierScraper:
                 self.seen_urls = {t["url"] for t in self.templates}
                 self.total_scraped = len(self.templates)
                 logger.info(f"Loaded {self.total_scraped} existing templates.")
-        except:
-            pass
+        except FileNotFoundError:
+            logger.info(f"No existing {OUTPUT_FILE} found. Starting fresh.")
+        except json.JSONDecodeError:
+            self.log_error(f"Error decoding {OUTPUT_FILE}. Starting fresh.")
+        except Exception as e:
+            self.log_error(f"Unexpected error loading {OUTPUT_FILE}: {e}")
 
     def log_error(self, message):
         timestamp = datetime.now().isoformat()
@@ -118,7 +122,8 @@ class ZapierScraper:
                     if full_url not in [c[1] for c in categories]:
                         categories.append((name.strip(), full_url))
             return categories
-        except:
+        except Exception as e:
+            self.log_error(f"Error discovering categories: {e}")
             return []
 
     async def scrape_category(self, page, category_name, category_url):
