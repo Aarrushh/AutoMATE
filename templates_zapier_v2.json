@@ -1,0 +1,171 @@
+[
+  {
+    "id": "d8a8c585-5fdb-4d82-bbf1-e88dc7d32434",
+    "title": "Unified lead capture",
+    "description": "Easily channel leads from multiple sources into your CRM.",
+    "source_url": "https://zapier.com/templates/details/unified-lead-capture",
+    "source_platform": "Zapier",
+    "trigger_app": "Facebook-Lead-Ads",
+    "action_apps": [
+      "Linkedin-Ads",
+      "Google-Ads",
+      "Webflow",
+      "Hubspot",
+      "G2-Crowd",
+      "Tiktok-Lead-Generation"
+    ],
+    "complexity_score": 4,
+    "maintenance_level": "MEDIUM",
+    "monthly_opex": 5.0,
+    "raw_data": {
+      "url": "https://zapier.com/templates/details/unified-lead-capture"
+    }
+  },
+  {
+    "id": "5ec48b37-408d-499f-9093-533b5c1e59cd",
+    "title": "ActiveCampaign Lead Enrichment Agent",
+    "description": "This agent researches new leads and enriches them with key details.",
+    "source_url": "https://zapier.com/templates/details/activecampaign-lead-enrichment-agent",
+    "source_platform": "Zapier",
+    "trigger_app": "Activecampaign",
+    "action_apps": [
+      "ActiveCampaign"
+    ],
+    "complexity_score": 1,
+    "maintenance_level": "LOW",
+    "monthly_opex": 0.0,
+    "raw_data": {
+      "url": "https://zapier.com/templates/details/activecampaign-lead-enrichment-agent"
+    }
+  },
+  {
+    "id": "613e6e32-fd8e-483d-b2a3-ce548cdb86df",
+    "title": "AI Chat for Business Template",
+    "description": "Use your business content to resolve support and lead questions with a customized chatbot.",
+    "source_url": "https://zapier.com/templates/details/ai-chat-for-business",
+    "source_platform": "Zapier",
+    "trigger_app": "Manual Trigger",
+    "action_apps": [],
+    "complexity_score": 1,
+    "maintenance_level": "LOW",
+    "monthly_opex": 0.0,
+    "raw_data": {
+      "url": "https://zapier.com/templates/details/ai-chat-for-business"
+    }
+  },
+  {
+    "id": "2cc247d0-623d-4770-889a-b5e2f517cb7e",
+    "title": "AI Chat for Lead Generation Template",
+    "description": "Increase lead engagement with a conversational chat experience embedded on your website.",
+    "source_url": "https://zapier.com/templates/details/ai-chat-for-lead-generation",
+    "source_platform": "Zapier",
+    "trigger_app": "Manual Trigger",
+    "action_apps": [],
+    "complexity_score": 1,
+    "maintenance_level": "LOW",
+    "monthly_opex": 0.0,
+    "raw_data": {
+      "url": "https://zapier.com/templates/details/ai-chat-for-lead-generation"
+    }
+  },
+  {
+    "id": "c5cbb5a6-52ca-45b3-a2c4-08221f18c831",
+    "title": "AI Chatbot for Ecommerce Template",
+    "description": "Collect leads and answer questions with AI for your Ecommerce business.",
+    "source_url": "https://zapier.com/templates/details/ecommerce-ai-chatbot",
+    "source_platform": "Zapier",
+    "trigger_app": "Manual Trigger",
+    "action_apps": [],
+    "complexity_score": 1,
+    "maintenance_level": "LOW",
+    "monthly_opex": 0.0,
+    "raw_data": {
+      "url": "https://zapier.com/templates/details/ecommerce-ai-chatbot"
+    }
+  },
+  {
+    "id": "fa131d5d-6769-4789-aee7-f747e4dac652",
+    "title": "Deal desk: Manage HubSpot quote approvals in Slack",
+    "description": "Automate your HubSpot quote approval workflow to close deals faster and kick up your sales efficiency.",
+    "source_url": "https://zapier.com/templates/details/deal-desk-manage-hubspot-quote-approvals-slack",
+    "source_platform": "Zapier",
+    "trigger_app": "Hubspot",
+    "action_apps": [
+      "HubSpot",
+      "Slack"
+    ],
+    "complexity_score": 2,
+    "maintenance_level": "LOW",
+    "monthly_opex": 0.0,
+    "raw_data": {
+      "url": "https://zapier.com/templates/details/deal-desk-manage-hubspot-quote-approvals-slack"
+    }
+  },
+  {
+    "id": "995ce829-b880-4d31-ab0f-32684fd7fac5",
+    "title": "AI Chat for Business Template",
+    "description": "Use your business content to resolve support and lead questions with a customized chatbot.",
+    "source_url": "https://zapier.com/templates/details/ai-chat-for-business",
+    "source_platform": "Zapier",
+    "trigger_app": "Manual Trigger",
+    "action_apps": [],
+    "complexity_score": 1,
+    "maintenance_level": "LOW",
+    "monthly_opex": 0.0,
+    "raw_data": {
+      "url": "https://zapier.com/templates/details/ai-chat-for-business"
+    }
+  },
+  {
+    "id": "0cebfaeb-fb38-4a10-a38f-1f1e5b50c696",
+    "title": "AI Chat for Lead Generation Template",
+    "description": "Increase lead engagement with a conversational chat experience embedded on your website.",
+    "source_url": "https://zapier.com/templates/details/ai-chat-for-lead-generation",
+    "source_platform": "Zapier",
+    "trigger_app": "Manual Trigger",
+    "action_apps": [],
+    "complexity_score": 1,
+    "maintenance_level": "LOW",
+    "monthly_opex": 0.0,
+    "raw_data": {
+      "url": "https://zapier.com/templates/details/ai-chat-for-lead-generation"
+    }
+  },
+  {
+    "id": "5e6506e2-22e3-442e-9890-a905ea934a5e",
+    "title": "Automatic call prep",
+    "description": "Help customer-facing teams prep faster and smarter.",
+    "source_url": "https://zapier.com/templates/details/call-prep-guide",
+    "source_platform": "Zapier",
+    "trigger_app": "Chatgpt",
+    "action_apps": [
+      "Clearbit",
+      "Chili-Piper",
+      "Hubspot",
+      "Slack"
+    ],
+    "complexity_score": 3,
+    "maintenance_level": "MEDIUM",
+    "monthly_opex": 5.0,
+    "raw_data": {
+      "url": "https://zapier.com/templates/details/call-prep-guide"
+    }
+  },
+  {
+    "id": "357ef97b-7b24-495b-8c50-b6975d4ec737",
+    "title": "Celebrate wins and share strategic deal insights from HubSpot to Slack",
+    "description": "Automate HubSpot closed-won deal notifications in Slack. Get instant visibility into key deals, stakeholders, and business impact.",
+    "source_url": "https://zapier.com/templates/details/hubspot-slack-deal-notifications",
+    "source_platform": "Zapier",
+    "trigger_app": "HubSpot",
+    "action_apps": [
+      "Slack"
+    ],
+    "complexity_score": 1,
+    "maintenance_level": "LOW",
+    "monthly_opex": 0.0,
+    "raw_data": {
+      "url": "https://zapier.com/templates/details/hubspot-slack-deal-notifications"
+    }
+  }
+]
