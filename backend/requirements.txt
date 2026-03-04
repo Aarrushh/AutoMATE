@@ -1,2 +1,6 @@
 fastapi
 uvicorn
+playwright-stealth
+tenacity
+pydantic
+beautifulsoup4
