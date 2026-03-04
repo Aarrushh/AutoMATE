@@ -6,8 +6,6 @@ import re
 from datetime import datetime
 from playwright.async_api import async_playwright
 
-# Logging setup
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 # Constants
@@ -40,7 +38,6 @@ class ZapierScraper:
         self.templates = []
         self.seen_urls = set()
         self.total_scraped = 0
-        # Load existing if available to avoid duplicates and continue
         self.load_existing()
 
     def load_existing(self):
@@ -59,6 +56,66 @@ class ZapierScraper:
         with open(ERROR_LOG_FILE, "a") as f:
             f.write(f"[{timestamp}] {message}\n")
         logger.error(message)
+
+    async def scrape_url(self, page, url):
+        """Scrapes a single Zapier template URL."""
+        try:
+            logger.info(f"Scraping Zapier URL: {url}")
+            response = await page.goto(url, wait_until="domcontentloaded", timeout=45000)
+            if response and response.status >= 400:
+                logger.error(f"Zapier URL {url} returned status {response.status}")
+                return None
+
+            # Try to extract __NEXT_DATA__ for structured info
+            next_data_el = await page.query_selector("script#__NEXT_DATA__")
+            if next_data_el:
+                content = await next_data_el.inner_text()
+                data = json.loads(content)
+                template_data = data.get("props", {}).get("pageProps", {}).get("template", {})
+
+                if template_data:
+                    steps = template_data.get("steps", [])
+                    trigger_app = "Unknown"
+                    action_apps = []
+
+                    if steps:
+                        trigger_app = steps[0].get("app", {}).get("name", "Unknown")
+                        action_apps = [s.get("app", {}).get("name") for s in steps[1:] if s.get("app")]
+
+                    if not action_apps:
+                        action_apps = ["Unknown Action"]
+
+                    return {
+                        "name": template_data.get("title") or "Unknown Zapier Template",
+                        "description": template_data.get("description") or "",
+                        "url": url,
+                        "source_platform": "Zapier",
+                        "trigger_app": trigger_app,
+                        "action_apps": action_apps,
+                        "raw_data": template_data
+                    }
+
+            # Fallback to selectors and regex
+            title_el = await page.query_selector("h1")
+            title = await title_el.inner_text() if title_el else "Unknown Zapier Template"
+
+            tools = []
+            for app in COMMON_APPS:
+                if re.search(r'\b' + re.escape(app) + r'\b', title, re.IGNORECASE):
+                    tools.append(app)
+
+            return {
+                "name": title.strip(),
+                "description": title.strip(),
+                "url": url,
+                "source_platform": "Zapier",
+                "trigger_app": tools[0] if tools else "Unknown",
+                "action_apps": tools[1:] if len(tools) > 1 else ["Unknown Action"],
+                "raw_data": {"url": url}
+            }
+        except Exception as e:
+            self.log_error(f"Error scraping Zapier URL {url}: {e}")
+            return None
 
     async def scrape(self):
         async with async_playwright() as p:
@@ -81,7 +138,7 @@ class ZapierScraper:
                         if attempt == 2: raise
                         await asyncio.sleep(5)
 
-                # Discover Categories and maybe some App pages
+                # Discover Categories
                 categories = await self.discover_categories(page)
                 if not categories:
                     categories = [
@@ -124,9 +181,8 @@ class ZapierScraper:
     async def scrape_category(self, page, category_name, category_url):
         logger.info(f"Processing Category: {category_name}")
         try:
-            # Use domcontentloaded for faster/more reliable loads on pages with heavy JS/tracking
             await page.goto(category_url, wait_until="domcontentloaded", timeout=45000)
-            await asyncio.sleep(3) # Wait for cards to render
+            await asyncio.sleep(3)
             
             await self.extract_templates_from_page(page, category_name)
             await self.scroll_page(page, category_name)
@@ -147,7 +203,6 @@ class ZapierScraper:
             last_height = new_height
 
     async def extract_templates_from_page(self, page, category):
-        # Card selector
         cards = await page.query_selector_all("a._zapCard_1g2fs_17")
         for card in cards:
             url = await card.get_attribute("href")
