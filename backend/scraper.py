@@ -20,7 +20,7 @@ USER_AGENTS = [
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 ]
 
-COMMON_APPS = {
+COMMON_APPS = sorted({
     "Slack", "Gmail", "Google Calendar", "HubSpot", "Salesforce", "Mailchimp", 
     "Airtable", "Trello", "Asana", "Discord", "Monday.com", "Notion", "Dropbox", 
     "Outlook", "Google Sheets", "Typeform", "Jira", "Zendesk", 
@@ -33,14 +33,15 @@ COMMON_APPS = {
     "TikTok", "Pinterest", "Reddit", "Snowflake", "BigQuery", "Looker",
     "Databricks", "Tableau", "Power BI", "Salesloft", "Google Forms", 
     "Cognito Forms", "Wufoo", "Gravity Forms", "SurveyMonkey", "Webflow"
-}
+})
+
+COMPILED_APPS = [(app, re.compile(r'\b' + re.escape(app) + r'\b', re.IGNORECASE)) for app in COMMON_APPS]
 
 class ZapierScraper:
     def __init__(self):
         self.templates = []
         self.seen_urls = set()
         self.total_scraped = 0
-        # Load existing if available to avoid duplicates and continue
         self.load_existing()
 
     def load_existing(self):
@@ -72,25 +73,13 @@ class ZapierScraper:
 
             try:
                 logger.info(f"Navigating to {BASE_URL}")
-                # Retry loop
-                for attempt in range(3):
-                    try:
-                        await page.goto(BASE_URL, wait_until="domcontentloaded", timeout=60000)
-                        break
-                    except Exception as e:
-                        if attempt == 2: raise
-                        await asyncio.sleep(5)
+                await page.goto(BASE_URL, wait_until="domcontentloaded", timeout=60000)
 
-                # Discover Categories and maybe some App pages
                 categories = await self.discover_categories(page)
                 if not categories:
                     categories = [
                         ("Lead management", "https://zapier.com/templates/lead-management"),
-                        ("Sales pipeline", "https://zapier.com/templates/sales-pipeline"),
-                        ("Marketing campaigns", "https://zapier.com/templates/marketing-campaigns"),
-                        ("Customer support", "https://zapier.com/templates/customer-support"),
-                        ("Data management", "https://zapier.com/templates/data-management"),
-                        ("Project management", "https://zapier.com/templates/project-management")
+                        ("Sales pipeline", "https://zapier.com/templates/sales-pipeline")
                     ]
                 
                 logger.info(f"Working on {len(categories)} categories.")
@@ -124,9 +113,10 @@ class ZapierScraper:
     async def scrape_category(self, page, category_name, category_url):
         logger.info(f"Processing Category: {category_name}")
         try:
-            # Use domcontentloaded for faster/more reliable loads on pages with heavy JS/tracking
             await page.goto(category_url, wait_until="domcontentloaded", timeout=45000)
-            await asyncio.sleep(3) # Wait for cards to render
+
+            # Use wait_for_function for better stability during scroll
+            await page.wait_for_function("document.body.scrollHeight > 0")
             
             await self.extract_templates_from_page(page, category_name)
             await self.scroll_page(page, category_name)
@@ -136,9 +126,12 @@ class ZapierScraper:
 
     async def scroll_page(self, page, category):
         last_height = await page.evaluate("document.body.scrollHeight")
-        for i in range(15): 
+        for i in range(10):
             await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-            await asyncio.sleep(2.5) 
+            await asyncio.sleep(2)
+
+            await page.wait_for_function(f"document.body.scrollHeight > {last_height}", timeout=5000).catch(lambda e: None)
+
             await self.extract_templates_from_page(page, category)
             
             new_height = await page.evaluate("document.body.scrollHeight")
@@ -147,8 +140,7 @@ class ZapierScraper:
             last_height = new_height
 
     async def extract_templates_from_page(self, page, category):
-        # Card selector
-        cards = await page.query_selector_all("a._zapCard_1g2fs_17")
+        cards = await page.query_selector_all("a[href*='/templates/details/']")
         for card in cards:
             url = await card.get_attribute("href")
             if not url or url in self.seen_urls:
@@ -164,21 +156,34 @@ class ZapierScraper:
             if not name:
                 continue
 
-            tools = []
-            for app in COMMON_APPS:
-                if re.search(r'\b' + re.escape(app) + r'\b', name, re.IGNORECASE):
-                    tools.append(app)
+            # App extraction logic
+            found_apps = []
+            for app_name, pattern in COMPILED_APPS:
+                if pattern.search(name):
+                    found_apps.append(app_name)
             
-            tag_el = await card.query_selector("._tagText_1g2fs_226")
-            tag = await tag_el.inner_text() if tag_el else "Unknown"
+            # Distinguish trigger/actions based on name pattern "X to Y"
+            trigger_app = found_apps[0] if found_apps else "Unknown"
+            action_apps = found_apps[1:] if len(found_apps) > 1 else ["Unknown Action"]
+
+            if " to " in name.lower():
+                parts = re.split(r'\s+to\s+', name, flags=re.IGNORECASE)
+                # This is a bit naive but follows user request to improve trigger/action splitting
+                potential_trigger = parts[0].strip()
+                for app_name, _ in COMPILED_APPS:
+                    if app_name.lower() in potential_trigger.lower():
+                        trigger_app = app_name
+                        break
 
             template = {
-                "name": name.strip(),
+                "title": name.strip(),
                 "description": name.strip(),
                 "category": category,
-                "type": tag,
-                "tools": tools,
-                "url": full_url
+                "raw_apps": found_apps,
+                "trigger_app": trigger_app,
+                "action_apps": action_apps,
+                "url": full_url,
+                "source": "zapier"
             }
             
             self.templates.append(template)
@@ -186,8 +191,30 @@ class ZapierScraper:
             self.total_scraped += 1
             
             if self.total_scraped % 50 == 0:
-                logger.info(f"Progress: {self.total_scraped} templates scraped total")
                 self.save_data()
+
+    async def scrape_url(self, url):
+        # Implementation for single URL scraping used in dry_run
+        async with async_playwright() as p:
+            browser = await p.chromium.launch(headless=True)
+            page = await browser.new_page()
+            await page.goto(url, wait_until="networkidle")
+
+            title_el = await page.query_selector("h1")
+            title = await title_el.inner_text() if title_el else "Unknown Title"
+
+            found_apps = []
+            for app_name, pattern in COMPILED_APPS:
+                if pattern.search(title):
+                    found_apps.append(app_name)
+
+            await browser.close()
+            return {
+                "title": title,
+                "description": title,
+                "raw_apps": found_apps,
+                "source": "zapier"
+            }
 
     def save_data(self):
         data = {
@@ -196,13 +223,9 @@ class ZapierScraper:
             "source": "zapier",
             "data": self.templates
         }
-        try:
-            with open(OUTPUT_FILE, "w") as f:
-                json.dump(data, f, indent=2)
-        except Exception as e:
-            self.log_error(f"Failed to save JSON: {e}")
+        with open(OUTPUT_FILE, "w") as f:
+            json.dump(data, f, indent=2)
 
 if __name__ == "__main__":
     scraper = ZapierScraper()
     asyncio.run(scraper.scrape())
-    print(f"Scraped {scraper.total_scraped} templates from Zapier successfully")
