@@ -2,7 +2,7 @@ import asyncio
 import logging
 from abc import ABC, abstractmethod
 from playwright.async_api import async_playwright
-from playwright_stealth import Stealth
+from playwright_stealth import stealth_async
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 logger = logging.getLogger(__name__)
@@ -12,7 +12,6 @@ class BaseScraper(ABC):
         self.proxy_url = proxy_url
         self.browser = None
         self.playwright = None
-        self.stealth = Stealth()
 
     async def start(self):
         if not self.playwright:
@@ -39,7 +38,8 @@ class BaseScraper(ABC):
 
         context = await self.browser.new_context()
         page = await context.new_page()
-        await self.stealth.apply_stealth_async(page)
+        # Using stealth_async as specifically requested by user
+        await stealth_async(page)
 
         try:
             logger.info(f"Fetching URL: {url}")

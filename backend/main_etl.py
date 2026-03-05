@@ -11,91 +11,90 @@ from backend.models import AutomationTemplateModel
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-async def process_url(url: str, scrapers: Dict, semaphore: asyncio.Semaphore) -> AutomationTemplate:
-    async with semaphore:
-        scraper = None
-        if "zapier.com" in url:
-            scraper = scrapers["zapier"]
-        elif "make.com" in url:
-            scraper = scrapers["make"]
+class ETLPipeline:
+    def __init__(self, proxy_url: str = None):
+        self.scrapers = {
+            "zapier": ZapierScraper(proxy_url),
+            "make": MakeScraper(proxy_url)
+        }
+        self.semaphore = asyncio.Semaphore(5)
 
-        if not scraper:
-            logger.warning(f"No scraper found for URL: {url}")
-            return None
+    async def start(self):
+        await asyncio.gather(*(s.start() for s in self.scrapers.values()))
 
-        try:
-            template = await scraper.scrape_url(url)
-            return template
-        except Exception as e:
-            logger.error(f"Error processing {url}: {e}")
-            return None
+    async def stop(self):
+        await asyncio.gather(*(s.stop() for s in self.scrapers.values()))
 
-def save_to_db(template: AutomationTemplate):
-    if not template:
-        return
+    async def process_url(self, url: str) -> AutomationTemplate:
+        async with self.semaphore:
+            scraper = None
+            if "zapier.com" in url:
+                scraper = self.scrapers["zapier"]
+            elif "make.com" in url:
+                scraper = self.scrapers["make"]
 
-    db = SessionLocal()
-    try:
-        # Try to find existing by URL first because merge might try INSERT if ID is different
-        existing = db.query(AutomationTemplateModel).filter(AutomationTemplateModel.url == template.url).first()
+            if not scraper:
+                logger.warning(f"No scraper found for URL: {url}")
+                return None
 
-        if existing:
-            # Update existing
-            existing.name = template.name
-            existing.description = template.description
-            existing.trigger_app = template.trigger_app
-            existing.action_apps = template.action_apps
-            existing.complexity_score = template.complexity_score
-            existing.maintenance_level = template.maintenance_level.value
-            existing.monthly_opex = template.monthly_opex
-            existing.raw_data = template.raw_data
-            logger.info(f"Updated in DB: {template.name}")
-        else:
-            # Insert new
-            model = AutomationTemplateModel(
-                id=str(template.id),
-                name=template.name,
-                description=template.description,
-                url=template.url,
-                source_platform=template.source_platform,
-                trigger_app=template.trigger_app,
-                action_apps=template.action_apps,
-                complexity_score=template.complexity_score,
-                maintenance_level=template.maintenance_level.value,
-                monthly_opex=template.monthly_opex,
-                raw_data=template.raw_data
-            )
-            db.add(model)
-            logger.info(f"Saved to DB: {template.name}")
+            try:
+                template = await scraper.scrape_url(url)
+                if template:
+                    self.save_to_db(template)
+                return template
+            except Exception as e:
+                logger.error(f"Error processing {url}: {e}")
+                return None
 
-        db.commit()
-    except Exception as e:
-        logger.error(f"Failed to save to DB: {e}")
-        db.rollback()
-    finally:
-        db.close()
+    def save_to_db(self, template: AutomationTemplate):
+        # Open a localized database session using a context manager for thread-safety
+        with SessionLocal() as db:
+            try:
+                # Try to find existing by URL first
+                existing = db.query(AutomationTemplateModel).filter(AutomationTemplateModel.url == template.url).first()
+
+                if existing:
+                    # Update existing
+                    existing.name = template.name
+                    existing.description = template.description
+                    existing.trigger_app = template.trigger_app
+                    existing.action_apps = template.action_apps
+                    existing.complexity_score = template.complexity_score
+                    existing.maintenance_level = template.maintenance_level.value
+                    existing.monthly_opex = template.monthly_opex
+                    existing.raw_data = template.raw_data
+                    logger.info(f"Updated in DB: {template.name}")
+                else:
+                    # Insert new
+                    model = AutomationTemplateModel(
+                        id=str(template.id),
+                        name=template.name,
+                        description=template.description,
+                        url=template.url,
+                        source_platform=template.source_platform,
+                        trigger_app=template.trigger_app,
+                        action_apps=template.action_apps,
+                        complexity_score=template.complexity_score,
+                        maintenance_level=template.maintenance_level.value,
+                        monthly_opex=template.monthly_opex,
+                        raw_data=template.raw_data
+                    )
+                    db.add(model)
+                    logger.info(f"Saved to DB: {template.name}")
+
+                db.commit()
+            except Exception as e:
+                logger.error(f"Failed to save to DB: {e}")
+                db.rollback()
 
 async def run_pipeline(urls: List[str]):
-    # Initialize scrapers once
-    scrapers = {
-        "zapier": ZapierScraper(),
-        "make": MakeScraper()
-    }
+    pipeline = ETLPipeline()
+    await pipeline.start()
 
-    # Start browser for each scraper
-    await asyncio.gather(*(s.start() for s in scrapers.values()))
+    tasks = [pipeline.process_url(url) for url in urls]
+    await asyncio.gather(*tasks)
 
-    semaphore = asyncio.Semaphore(5)
-    tasks = [process_url(url, scrapers, semaphore) for url in urls]
-
-    results = await asyncio.gather(*tasks)
-
-    for template in results:
-        if template:
-            save_to_db(template)
-
-    # Cleanup browsers
-    await asyncio.gather(*(s.stop() for s in scrapers.values()))
+    await pipeline.stop()
 
 if __name__ == "__main__":
     sample_urls = [
