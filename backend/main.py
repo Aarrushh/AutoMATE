@@ -1,6 +1,8 @@
 from fastapi import FastAPI
+from .graph_builder import GraphBuilder
 
 app = FastAPI()
+graph_builder = GraphBuilder()
 
 @app.get("/")
 def read_root():
@@ -14,3 +16,11 @@ def search_automation(query: str):
         "recommendation": "Zapier: Connect Gmail to Sheets",
         "feasibility_score": 95
     }
+
+@app.get("/api/graph/full")
+def get_full_graph():
+    return graph_builder.get_full_graph()
+
+@app.get("/api/graph/recommendations/{app_name}")
+def get_recommendations(app_name: str):
+    return graph_builder.get_recommendations(app_name)
