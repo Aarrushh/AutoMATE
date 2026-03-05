@@ -1,2 +1,15 @@
 fastapi
 uvicorn
+sqlalchemy
+httpx
+pydantic
+pytest
+sentence-transformers
+chromadb
+pinecone-client
+aiohttp
+playwright-stealth
+beautifulsoup4
+python-dotenv
+anyio
+starlette
