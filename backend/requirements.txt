@@ -1,2 +1,14 @@
 fastapi
 uvicorn
+pydantic==2.10.6
+sqlalchemy
+sentence-transformers
+python-dotenv
+litellm
+playwright
+playwright-stealth
+tenacity
+alembic
+beautifulsoup4
+aiohttp
+asyncio
