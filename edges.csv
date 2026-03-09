@@ -1,0 +1,3 @@
+:START_ID,:END_ID,weight,avg_complexity,avg_opex,:TYPE
+Unknown Trigger,Unknown Action,1,1.0,9.0,CONNECTS_TO
+Connect Google Sheets and Slack,power AI-driven automation,1,1.0,10.0,CONNECTS_TO
