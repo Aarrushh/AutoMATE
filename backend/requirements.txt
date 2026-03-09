@@ -1,2 +1,13 @@
 fastapi
 uvicorn
+playwright
+playwright-stealth
+tenacity
+sqlalchemy
+alembic
+pydantic
+litellm
+beautifulsoup4
+aiohttp
+asyncio
+python-dotenv
